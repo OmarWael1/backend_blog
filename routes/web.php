@@ -78,7 +78,6 @@ Route::post('/admin/video/edit/{id}', 'Admin\VideoController@update')->name('edi
 Route::get('/admin/video/{id}', 'Admin\VideoController@show')->name('video');
 
 /* paints routes */
-
 Route::get('/admin/paints', 'Admin\paintController@index')->name('paints');
 Route::get('/admin/paint/add', 'Admin\PaintController@create')->name('addPaintView');
 Route::post('/admin/paint/add', 'Admin\PaintController@store')->name('addPaint');
@@ -86,6 +85,16 @@ Route::get('/admin/paint/edit/{id}', 'Admin\PaintController@edit')->name('editPa
 Route::post('/admin/paint/edit/{id}', 'Admin\PaintController@update')->name('editPaint');
 Route::get('/admin/paint/{id}', 'Admin\PaintController@show')->name('paint');
 
+
+
+/* collections routes */
+
+Route::get('/admin/collections', 'Admin\CollectionController@index')->name('collections');
+Route::get('/admin/collection/add', 'Admin\CollectionController@create')->name('addCollectionView');
+Route::post('/admin/collection/add', 'Admin\CollectionController@store')->name('addCollection');
+Route::get('/admin/collection/edit/{id}', 'Admin\CollectionController@edit')->name('editCollectionView');
+Route::post('/admin/collection/edit/{id}', 'Admin\CollectionController@update')->name('editCollection');
+Route::get('/admin/collection/{id}', 'Admin\CollectionController@show')->name('collection');
 
 /* Reader routes*/
 

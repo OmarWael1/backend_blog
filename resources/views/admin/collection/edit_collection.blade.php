@@ -5,23 +5,23 @@
         <div class="row justify-content-center">
             <div class="col-md-12">
                 <div class="card">
-                    <div class="card-header">{{ __('Edit Paint') }}</div>
+                    <div class="card-header">{{ __('Edit Name') }}</div>
                     @if (session('message'))
                         <div class="alert alert-success">
                             {{ session('message') }}
                         </div>
                     @endif
                     <div class="card-body">
-                        <form method="POST" action="{{ route('editPaint', ['id' => $paint->id]) }}" enctype="multipart/form-data">
+                        <form method="POST" action="{{ route('editCollection', ['id' => $collection->id]) }}" enctype="multipart/form-data">
                             @csrf
 
                             <div class="form-group row">
-                                <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Title') }}</label>
+                                <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Name') }}</label>
 
                                 <div class="col-md-6">
-                                    <input id="title" type="text" class="form-control @error('title') is-invalid @enderror" name="title" value="{{ $paint->title }}"  required autocomplete="name" autofocus>
+                                    <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ $collection->name }}"  required autocomplete="name" autofocus>
 
-                                    @error('title')
+                                    @error('name')
                                     <span class="invalid-feedback" role="alert">
                                         <strong>{{ $message }}</strong>
                                     </span>
@@ -33,8 +33,8 @@
                                 <label for="description" class="col-md-4 col-form-label text-md-right">{{ __('Description') }}</label>
 
                                 <div class="col-md-6">
-                                    <textarea id="paint-body"  type="text" class="form-control @error('body') is-invalid @enderror" name="description">
-                                    {{ $paint->description }}</textarea>
+                                    <textarea id="collection-body"  type="text" class="form-control @error('body') is-invalid @enderror" name="description">
+                                    {{ $collection->description }}</textarea>
                                     @error('description')
                                     <span class="invalid-feedback" role="alert">
                                         <strong>{{ $message }}</strong>
@@ -43,28 +43,12 @@
                                 </div>
                             </div>
 
-                            <div class="form-group row">
-                                <label for="category" class="col-md-4 col-form-label text-md-right">{{ __('Collection') }}</label>
-
-                                <div class="col-md-6">
-                                    <select id="collection" type="text" class="form-control @error('collection') is-invalid @enderror" name="collection_id" required>
-                                        @foreach($collections as $collection)
-                                            <option value="{{$collection -> id}}">{{$collection -> name}}</option>
-                                        @endforeach
-                                    </select>
-                                    @error('collection')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                    @enderror
-                                </div>
-                            </div>
 
                             <div class="form-group row">
                                 <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Date of publish') }}</label>
 
                                 <div class="col-md-6">
-                                    <input  type="text" class="form-control @error('date_of_publish') is-invalid @enderror" name="date_of_publish" value="{{ $paint->date_of_publish }}"  required autocomplete="name" autofocus>
+                                    <input  type="text" class="form-control @error('date_of_publish') is-invalid @enderror" name="date_of_publish" value="{{ $collection->date_of_publish }}"  required autocomplete="name" autofocus>
 
                                     @error('date_of_publication')
                                     <span class="invalid-feedback" role="alert">

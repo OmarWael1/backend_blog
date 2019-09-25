@@ -3,15 +3,12 @@
 namespace App\Http\Controllers\admin;
 
 use App\Models\Collection;
-use App\Models\Paint;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Validator;
-class PaintController extends Controller
+class CollectionController extends Controller
 {
 
     /**
@@ -31,8 +28,8 @@ class PaintController extends Controller
      */
     public function index()
     {
-        $paints = Paint::all();
-        return view('admin/paint/all_paints')->with('paints',$paints);
+        $collections = Collection::all();
+        return view('admin/collection/all_collections')->with('collections',$collections);
     }
 
     /**
@@ -42,8 +39,7 @@ class PaintController extends Controller
      */
     public function create()
     {
-        $collections = Collection::all();
-        return view('admin/paint/add_paint')->with('collections',$collections);
+        return view('admin/collection/add_collection');
     }
 
     /**
@@ -54,35 +50,27 @@ class PaintController extends Controller
      */
     public function store(Request $request)
     {
-        if($request->hasFile('file_name'))
-        {
-            $paint = $request->file('file_name');
-            $collections = Collection::all();
-            $extension = $paint->getClientOriginalExtension();
-            Storage::disk('public')->put($paint->getFilename().'.'.$extension,  File::get($paint));
-            $data = ['title' => $request->title ,'description' => $request->description, // 'collection' => $request->collection,
+
+            $data = ['name' => $request->name ,'description' => $request->description,
                       'date_of_publish' => $request->date_of_publish];
             $validator = Validator::make($data, [
-                'title' => ['required', 'string'],
+                'name' => ['required', 'string'],
                 'description' => ['required', 'string'],
-               // 'collection' => ['required', 'string'],
                 'date_of_publish' => ['required', 'string'],
 
             ]);
             if ($validator->fails()) {
-                return redirect('admin/paint/add')->with('collections',$collections)
+                return redirect('admin/collection/add')
                     ->withErrors($validator)
                     ->withInput();
             }
-            Paint::create(['title' => request('title')  ,'collection_id' => 1,
-                             'description' => request('description'),
-                             'date_of_publish' => request('date_of_publish'),
-                            'file_name'=>$paint->getFilename().'.'.$extension ,
-                            'collection_id' => request('collection_id'),
+            Collection::create(['name' => request('name'),
+                                 'description' => request('description'),
+                                 'date_of_publish' => request('date_of_publish'),
                             ]);
-            Session::flash('message','paint created successfully');
-        }
-        return view('admin/paint/add_paint')->with('collections',$collections);
+            Session::flash('message','collection created successfully');
+
+            return view('admin/collection/add_collection');
     }
 
     /**
@@ -94,8 +82,8 @@ class PaintController extends Controller
     public function show($id)
     {
        try {
-           $paint = Paint::findOrFail($id);
-           return view('admin/paint/view_paint')->with('paint', $paint);
+           $collection = Collection::findOrFail($id);
+           return view('admin/collection/view_collection')->with('collection', $collection);
        }catch (ModelNotFoundException $e){
            abort(404);
        }
@@ -110,9 +98,8 @@ class PaintController extends Controller
     public function edit($id)
     {
         try {
-            $paint = Paint::findOrFail($id);
-            $collections = Collection::all();
-            return view('admin/paint/edit_paint')->with('paint', $paint)->with('collections',$collections);
+            $collection = Collection::findOrFail($id);
+            return view('admin/collection/edit_collection')->with('collection', $collection);
         }catch (ModelNotFoundException $e){
             abort(404);
         }
@@ -128,26 +115,23 @@ class PaintController extends Controller
     public function update(Request $request)
     {
 
-        $data = ['title' => $request->title ,'date_of_publish' => $request->date_of_publish, 'description' => $request->description ,
-            'collection_id' => request('collection_id'), ];
+        $data = ['name' => $request->name ,'date_of_publish' => $request->date_of_publish, 'description' => $request->description,];
         $validator = Validator::make($data, [
-            'title' => ['required', 'string', 'max:255'],
+            'name' => ['required', 'string', 'max:255'],
             'description' => ['required', 'string'],
-            //'collection' => ['required', 'string'],
             'date_of_publish' => ['required', 'string'],
 
         ]);
-        $collections = Collection::all();
         if ($validator->fails()) {
-            return redirect('admin/paint/edit/'.$request->id)->with('collections',$collections)
+            return redirect('admin/collection/edit/'.$request->id)
                 ->withErrors($validator)
                 ->withInput();
         }
         try {
-            $paint = Paint::findOrFail($request->id);
-            $paint->update($data);
-            Session::flash('message','paint updated successfully');
-            return view('admin/paint/edit_paint')->with('paint', $paint)->with('collections',$collections);
+            $collection = Collection::findOrFail($request->id);
+            $collection->update($data);
+            Session::flash('message','collection updated successfully');
+            return view('admin/collection/edit_collection')->with('collection', $collection);
         }catch (ModelNotFoundException $e){
             abort(404);
         }

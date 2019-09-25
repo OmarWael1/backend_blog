@@ -2,63 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Reader/PaintsPageController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Paint.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/egypt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/eiffel-tower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/france.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/pyramid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/reader/paintings.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/reader/researches.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Collection.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/BookController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/BookController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ResearchController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ResearchController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/SmallStoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/SmallStoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/VideoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/VideoController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Reader/ArticlePageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Reader/ArticlePageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Reader/BookAndResearchPageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Reader/BookAndResearchPageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Research.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Research.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/SmallStory.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/SmallStory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_20_055752_create_small_stories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_20_055752_create_small_stories_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_23_212656_create_researches_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_23_212656_create_researches_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Paint.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Paint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/article/add_article.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/article/add_article.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/article/all_articles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/article/all_articles.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/article/edit_article.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/article/edit_article.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/article/view_article.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/article/view_article.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/book/add_book.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/book/add_book.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/book/all_books.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/book/all_books.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/book/edit_book.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/book/edit_book.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/research/add_research.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/research/add_research.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/research/all_researches.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/research/all_researches.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/research/edit_research.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/research/edit_research.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/story/add_story.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/story/add_story.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/story/all_stories.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/story/all_stories.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/story/edit_story.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/story/edit_story.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/video/add_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/video/add_video.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/video/all_videos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/video/all_videos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/video/edit_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/video/edit_video.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/navbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/articles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/articles.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/books_researches.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/books.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/quran-trans.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/quran-trans.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/small_stories.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/small_stories.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/videos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/videos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_article.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_article.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_book.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_book.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_research.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_research.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_story.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_story.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_video.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/app/public/.gitignore" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,71 +26,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PaintController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PaintController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="125" column="91" selection-start-line="125" selection-start-column="91" selection-end-line="125" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019_09_24_200536_create_paints_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_24_200536_create_paints_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Paint.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Paint.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="98" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="98" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="148" column="36" lean-forward="true" selection-start-line="148" selection-start-column="36" selection-end-line="148" selection-end-column="36" />
+            <state relative-caret-position="272">
+              <caret line="149" column="106" selection-start-line="149" selection-start-column="106" selection-end-line="149" selection-end-column="106" />
               <folding>
-                <element signature="e#46#69#0#PHP" expanded="true" />
+                <element signature="e#46#72#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_paint.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
+      <file leaf-file-name="CollectionController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="62" column="118" selection-start-line="62" selection-start-column="118" selection-end-line="62" selection-end-column="118" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all_paints.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="30" column="125" selection-start-line="30" selection-start-column="125" selection-end-line="30" selection-end-column="125" />
+            <state relative-caret-position="884">
+              <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
               <folding>
-                <element signature="e#249#292#0#HTML" expanded="true" />
-                <element signature="e#459#477#0#HTML" expanded="true" />
+                <element signature="e#46#72#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,7 +54,25 @@
         <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="65" column="131" selection-start-line="65" selection-start-column="131" selection-end-line="65" selection-end-column="131" />
+              <caret line="49" column="132" selection-start-line="49" selection-start-column="119" selection-end-line="49" selection-end-column="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_paint.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="49" column="154" selection-start-line="49" selection-start-column="154" selection-end-line="49" selection-end-column="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -155,10 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>geeting</find>
-      <find>greeting</find>
-      <find>videos</find>
-      <find>item-img</find>
       <find>.cont</find>
       <find>articles-categories</find>
       <find>box-sizing: border-box;</find>
@@ -185,12 +107,12 @@
       <find>300</find>
       <find>Book</find>
       <find>book</find>
+      <find>title</find>
+      <find>Paint</find>
+      <find>paint</find>
+      <find>editName</find>
     </findStrings>
     <replaceStrings>
-      <replace>&lt;li href=&quot;#97&quot;&gt;</replace>
-      <replace>&lt;li href=&quot;#98&quot;&gt;</replace>
-      <replace>&lt;li href=&quot;#99&quot;&gt;</replace>
-      <replace>&lt;li href=&quot;#100&quot;&gt;</replace>
       <replace>&lt;li href=&quot;#101&quot;&gt;</replace>
       <replace>&lt;li href=&quot;#102&quot;&gt;</replace>
       <replace>&lt;li href=&quot;#103&quot;&gt;</replace>
@@ -217,6 +139,10 @@
       <replace>900</replace>
       <replace>Paint</replace>
       <replace>paint</replace>
+      <replace>name</replace>
+      <replace>Collection</replace>
+      <replace>collection</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>C:\laragon\www\profZeniabBlog\public</dir>
@@ -228,11 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Models/SmallStory.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2019_08_20_055752_create_small_stories_table.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/story/all_stories.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/SmallStoryController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ResearchController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/research/edit_research.blade.php" />
         <option value="$PROJECT_DIR$/app/Models/Research.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_08_23_212656_create_researches_table.php" />
@@ -269,16 +190,21 @@
         <option value="$PROJECT_DIR$/resources/views/reader/videos.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/ArticlePageController.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/quran-trans.blade.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" />
-        <option value="$PROJECT_DIR$/app/Models/Paint.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_24_200536_create_paints_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php" />
+        <option value="$PROJECT_DIR$/app/Models/Collection.php" />
+        <option value="$PROJECT_DIR$/app/Models/Paint.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/collection/add_collection.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/collection/all_collections.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/collection/edit_collection.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" />
       </list>
     </option>
   </component>
@@ -391,11 +317,25 @@
     <option name="width" value="1348" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -471,98 +411,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-              <item name="Controllers" type="cbb8eebc:String" user="Controllers" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-              <item name="Controllers" type="cbb8eebc:String" user="Controllers" />
-              <item name="Admin" type="cbb8eebc:String" user="Admin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Models" type="cbb8eebc:String" user="Models" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="database" type="cbb8eebc:String" user="database" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="database" type="cbb8eebc:String" user="database" />
-              <item name="migrations" type="cbb8eebc:String" user="migrations" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-              <item name="article" type="cbb8eebc:String" user="article" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-              <item name="layouts" type="cbb8eebc:String" user="layouts" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="routes" type="cbb8eebc:String" user="routes" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -572,15 +420,16 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\backend_blog\resources\views\reader" />
-      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Reader" />
       <recent name="C:\laragon\www\backend_blog\resources\views\admin" />
       <recent name="C:\laragon\www\backend_blog\app\Models" />
       <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Admin" />
+      <recent name="C:\laragon\www\backend_blog\resources\views\reader" />
+      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Reader" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\laragon\www\profZeniabBlog\app\Models" />
@@ -654,37 +503,37 @@
       <workItem from="1568549217124" duration="2137000" />
       <workItem from="1568742214723" duration="2164000" />
       <workItem from="1568834788348" duration="640000" />
-      <workItem from="1569346678148" duration="9369000" />
+      <workItem from="1569346678148" duration="9950000" />
+      <workItem from="1569409614923" duration="4895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252491000" />
+    <option name="totallyTimeSpent" value="257967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18081991" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" x="559" y="34" width="247" height="660" id="Project" order="0" visible="true" weight="0.238653" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,48 +543,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/story/all_stories.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="178" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/research/all_researches.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ResearchController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="71" column="132" selection-start-line="71" selection-start-column="132" selection-end-line="71" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/book/all_books.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/book/edit_book.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/BookController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/video/all_videos.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -964,31 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="72" column="91" selection-start-line="72" selection-start-column="91" selection-end-line="72" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="65" column="131" selection-start-line="65" selection-start-column="131" selection-end-line="65" selection-end-column="131" />
         </state>
       </provider>
     </entry>
@@ -1010,47 +796,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="62" column="118" selection-start-line="62" selection-start-column="118" selection-end-line="62" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="125" column="91" selection-start-line="125" selection-start-column="91" selection-end-line="125" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_24_200536_create_paints_table.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <caret line="138" column="11" lean-forward="true" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Paint.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="16" column="98" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="98" />
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_24_200536_create_paints_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/collection/add_paint.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="72" column="101" selection-start-line="72" selection-start-column="101" selection-end-line="72" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/collection/add_collection.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/collection/all_collections.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="27" column="96" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="96" />
+          <folding>
+            <element signature="e#254#297#0#HTML" expanded="true" />
+            <element signature="e#474#492#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+        <state relative-caret-position="221">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/collection/edit_collection.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="148" column="36" lean-forward="true" selection-start-line="148" selection-start-column="36" selection-end-line="148" selection-end-column="36" />
+        <state relative-caret-position="238">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
           <folding>
-            <element signature="e#46#69#0#PHP" expanded="true" />
+            <element signature="e#46#72#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="132" selection-start-line="49" selection-start-column="119" selection-end-line="49" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="49" column="154" selection-start-line="49" selection-start-column="154" selection-end-line="49" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="149" column="106" selection-start-line="149" selection-start-column="106" selection-end-line="149" selection-end-column="106" />
+          <folding>
+            <element signature="e#46#72#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

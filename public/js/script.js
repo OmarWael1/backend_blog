@@ -84,7 +84,7 @@ function updateProgressBar() {
 
 function toggleMenu() {
     for (i = 0; i < navigationListItems.length; i++) {
-        console.log()
+        console.log();
         if (navigationListItems[i].style.display === "none") {
             navigationListItems[i].style.display = "block";
             document.getElementsByClassName('navigation-list')[0].style["flex-direction"] = "column";

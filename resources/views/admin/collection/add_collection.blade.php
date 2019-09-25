@@ -5,23 +5,23 @@
     <div class="row justify-content-center">
       <div class="col-md-12">
         <div class="card">
-          <div class="card-header">{{ __('Add Paint') }}</div>
+          <div class="card-header">{{ __('Add Collection') }}</div>
           @if (session('message'))
             <div class="alert alert-success">
               {{ session('message') }}
             </div>
           @endif
           <div class="card-body">
-            <form method="POST" action="{{ route('addPaint') }}" enctype="multipart/form-data">
+            <form method="POST" action="{{ route('addCollection') }}" enctype="multipart/form-data">
               @csrf
 
               <div class="form-group row">
-                <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Title') }}</label>
+                <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Name') }}</label>
 
                 <div class="col-md-6">
-                  <input id="title" type="text" class="form-control @error('title') is-invalid @enderror" name="title" value="{{ old('title') }}"  required autocomplete="name" autofocus>
+                  <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name" value="{{ old('name') }}"  required autocomplete="name" autofocus>
 
-                  @error('title')
+                  @error('name')
                   <span class="invalid-feedback" role="alert">
                       <strong>{{ $message }}</strong>
                   </span>
@@ -44,23 +44,6 @@
               </div>
 
               <div class="form-group row">
-                <label for="category" class="col-md-4 col-form-label text-md-right">{{ __('Collection') }}</label>
-
-                <div class="col-md-6">
-                  <select id="category" type="text" class="form-control @error('category') is-invalid @enderror" name="collection_id" required>
-                    @foreach($collections as $collection)
-                      <option value="{{$collection -> id}}">{{$collection -> name}}</option>
-                    @endforeach
-                  </select>
-                  @error('collection')
-                  <span class="invalid-feedback" role="alert">
-                      <strong>{{ $message }}</strong>
-                  </span>
-                  @enderror
-                </div>
-              </div>
-
-              <div class="form-group row">
                 <label for="name" class="col-md-4 col-form-label text-md-right">{{ __('Date of publication') }}</label>
 
                 <div class="col-md-6">
@@ -74,13 +57,6 @@
                 </div>
               </div>
 
-              <div class="form-group row">
-                <label for="file" class="col-md-4 col-form-label text-md-right">{{ __('Paint File') }}</label>
-
-                <div class="col-md-6">
-                  <input  type="file" accept="image/*"   name="file_name"  required>
-                </div>
-              </div>
               <div class="form-group row mb-0">
                 <div class="col-md-8 offset-md-4">
                   <button type="submit" class="btn btn-primary">

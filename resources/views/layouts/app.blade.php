@@ -70,6 +70,9 @@
                                 <a class="nav-link" href="{{route('videos')}}">{{__('videos')}}</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="{{route('collections')}}">{{__('collections')}}</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="{{route('paints')}}">{{__('paints')}}</a>
                             </li>
                             <li class="nav-item dropdown">

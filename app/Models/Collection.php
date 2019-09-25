@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 
-class Paint extends Model
+class Collection extends Model
 {
 
     /**
@@ -14,6 +14,6 @@ class Paint extends Model
      * @var array
      */
     protected $fillable = [
-        'title', 'description', 'collection_id' ,'file_name' ,'date_of_publish', 'number_of_readers'
+        'name','description' ,'date_of_publish', 'number_of_readers'
     ];
 }

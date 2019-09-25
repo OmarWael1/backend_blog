@@ -16,6 +16,9 @@ class CreateCollectionsTable extends Migration
         Schema::create('collections', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
+            $table->string('description');
+            $table->integer('number_of_readers')->default(0);
+            $table->string('date_of_publish');
             $table->timestamps();
         });
     }
