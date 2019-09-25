@@ -52,14 +52,14 @@
                     </div>
                     @foreach($islamicArticles as $article)
                         <div class="story" >
-                            <img src="{{asset('storage/'.$article->image_name)}}">
+                            {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                             <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                                 <div class="story-content">
                                 <span class="story-title">
                                     {{$article->title}}
                                 </span>
                                     <p class="story-breif">
-                                        {!! substr(strip_tags($article->body),0,200) !!}...
+                                        {!! substr(strip_tags($article->body),0,900) !!}...
                                     </p>
                                     <div class="story-details">
                                         <span class="story-publish-date">
@@ -84,14 +84,14 @@
                 </div>
                 @foreach($jewishArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">
@@ -116,14 +116,14 @@
                 </div>
                 @foreach($christianArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">
@@ -148,14 +148,14 @@
                 </div>
                 @foreach($variedArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">
@@ -180,14 +180,14 @@
                 </div>
                 @foreach($literaryArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">
@@ -212,14 +212,14 @@
                 </div>
                 @foreach($artisticArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">
@@ -244,14 +244,14 @@
                 </div>
                 @foreach($metaphysicsArticles as $article)
                     <div class="story" >
-                        <img src="{{asset('storage/'.$article->image_name)}}">
+                        {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <span class="story-title">
                                 {{$article->title}}
                             </span>
                                 <p class="story-breif">
-                                    {!! substr(strip_tags($article->body),0,200) !!}...
+                                    {!! substr(strip_tags($article->body),0,900) !!}...
                                 </p>
                                 <div class="story-details">
                                     <span class="story-publish-date">

@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\admin;
 
-use App\Models\Book;
+use App\Models\Paint;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Validator;
-class BookController extends Controller
+class PaintController extends Controller
 {
 
     /**
@@ -30,8 +30,8 @@ class BookController extends Controller
      */
     public function index()
     {
-        $books = Book::all();
-        return view('admin/book/all_books')->with('books',$books);
+        $paints = Paint::all();
+        return view('admin/paint/all_paints')->with('paints',$paints);
     }
 
     /**
@@ -41,7 +41,7 @@ class BookController extends Controller
      */
     public function create()
     {
-        return view('admin/book/add_book');
+        return view('admin/paint/add_paint');
     }
 
     /**
@@ -52,32 +52,33 @@ class BookController extends Controller
      */
     public function store(Request $request)
     {
-        if($request->hasFile('book'))
+        if($request->hasFile('file_name'))
         {
-            $book = $request->file('book');
-            $extension = $book->getClientOriginalExtension();
-            Storage::disk('public')->put($book->getFilename().'.'.$extension,  File::get($book));
-            $data = ['title' => $request->title ,'description' => $request->description,  'category' => $request->category,
-                      'date_of_publication' => $request->date_of_publication];
+            $paint = $request->file('file_name');
+            $extension = $paint->getClientOriginalExtension();
+            Storage::disk('public')->put($paint->getFilename().'.'.$extension,  File::get($paint));
+            $data = ['title' => $request->title ,'description' => $request->description, // 'collection' => $request->collection,
+                      'date_of_publish' => $request->date_of_publish];
             $validator = Validator::make($data, [
                 'title' => ['required', 'string'],
                 'description' => ['required', 'string'],
-                'category' => ['required', 'string'],
-                'date_of_publication' => ['required', 'string'],
+               // 'collection' => ['required', 'string'],
+                'date_of_publish' => ['required', 'string'],
 
             ]);
             if ($validator->fails()) {
-                return redirect('admin/book/add')
+                return redirect('admin/paint/add')
                     ->withErrors($validator)
                     ->withInput();
             }
-            Book::create(['title' => request('title') , 'description' => request('description') ,
-                             'date_of_publication' => request('date_of_publication'),
-                             'category' => request('category') ,'file_name'=>$book->getFilename().'.'.$extension ,
+            Paint::create(['title' => request('title')  ,'collection_id' => 1,
+                             'description' => request('description'),
+                             'date_of_publish' => request('date_of_publish'),
+                            'file_name'=>$paint->getFilename().'.'.$extension ,
                             ]);
-            Session::flash('message','book created successfully');
+            Session::flash('message','paint created successfully');
         }
-        return view('admin/book/add_book');
+        return view('admin/paint/add_paint');
     }
 
     /**
@@ -89,8 +90,8 @@ class BookController extends Controller
     public function show($id)
     {
        try {
-           $book = Book::findOrFail($id);
-           return view('admin/book/view_book')->with('book', $book);
+           $paint = Paint::findOrFail($id);
+           return view('admin/paint/view_paint')->with('paint', $paint);
        }catch (ModelNotFoundException $e){
            abort(404);
        }
@@ -105,8 +106,8 @@ class BookController extends Controller
     public function edit($id)
     {
         try {
-            $book = Book::findOrFail($id);
-            return view('admin/book/edit_book')->with('book', $book);
+            $paint = Paint::findOrFail($id);
+            return view('admin/paint/edit_paint')->with('paint', $paint);
         }catch (ModelNotFoundException $e){
             abort(404);
         }
@@ -122,23 +123,25 @@ class BookController extends Controller
     public function update(Request $request)
     {
 
-        $data = ['title' => $request->title , 'description' => $request->description , 'category' => $request->category];
+        $data = ['title' => $request->title ,'date_of_publish' => $request->date_of_publish, 'description' => $request->description ,
+            'collection_id' => 1, ];
         $validator = Validator::make($data, [
             'title' => ['required', 'string', 'max:255'],
             'description' => ['required', 'string'],
-            'category' => ['required', 'string'],
+            //'collection' => ['required', 'string'],
+            'date_of_publish' => ['required', 'string'],
 
         ]);
         if ($validator->fails()) {
-            return redirect('admin/book/edit')
+            return redirect('admin/paint/edit/'.$request->id)
                 ->withErrors($validator)
                 ->withInput();
         }
         try {
-            $book = Book::findOrFail($request->id);
-            $book->update($data);
-            Session::flash('message','book updated successfully');
-            return view('admin/book/edit_book')->with('book', $book);
+            $paint = Paint::findOrFail($request->id);
+            $paint->update($data);
+            Session::flash('message','paint updated successfully');
+            return view('admin/paint/edit_paint')->with('paint', $paint);
         }catch (ModelNotFoundException $e){
             abort(404);
         }

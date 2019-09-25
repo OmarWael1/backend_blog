@@ -5,9 +5,8 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\Notifiable;
 
-class Research extends Model
+class Paint extends Model
 {
-    use Notifiable;
 
     /**
      * The attributes that are mass assignable.
@@ -15,6 +14,6 @@ class Research extends Model
      * @var array
      */
     protected $fillable = [
-        'title', 'body', 'date_of_publication' ,'number_of_readers','image_name'
+        'title', 'description', 'collection_id' ,'file_name' ,'date_of_publish','number_of_readers',
     ];
 }

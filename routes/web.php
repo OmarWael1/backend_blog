@@ -77,6 +77,15 @@ Route::get('/admin/video/edit/{id}', 'Admin\VideoController@edit')->name('editVi
 Route::post('/admin/video/edit/{id}', 'Admin\VideoController@update')->name('editVideo');
 Route::get('/admin/video/{id}', 'Admin\VideoController@show')->name('video');
 
+/* paints routes */
+
+Route::get('/admin/paints', 'Admin\paintController@index')->name('paints');
+Route::get('/admin/paint/add', 'Admin\PaintController@create')->name('addPaintView');
+Route::post('/admin/paint/add', 'Admin\PaintController@store')->name('addPaint');
+Route::get('/admin/paint/edit/{id}', 'Admin\PaintController@edit')->name('editPaintView');
+Route::post('/admin/paint/edit/{id}', 'Admin\PaintController@update')->name('editPaint');
+Route::get('/admin/paint/{id}', 'Admin\PaintController@show')->name('paint');
+
 
 /* Reader routes*/
 
@@ -84,11 +93,13 @@ Route::get('/', 'Reader\HomePageController@index')->name('home');
 Route::get('/about' , 'Reader\AboutPageController@index')->name('about');
 Route::get('/articles' , 'Reader\ArticlePageController@indexAr')->name('readerArticles');
 Route::get('/articles/fr' , 'Reader\ArticlePageController@indexFr')->name('readerFrArticles');
-Route::get('/books' , 'Reader\BookAndResearchPageController@index')->name('readerBooksAndResearches');
+Route::get('/books' , 'Reader\BookAndResearchPageController@indexForBooks')->name('readerBooks');
+Route::get('/researches' , 'Reader\BookAndResearchPageController@indexForResearches')->name('readerResearches');
 Route::get('/stories' , 'Reader\SmallStoryPageController@index')->name('readerStories');
 Route::get('/videos' , 'Reader\VideosPageController@index')->name('readerVideos');
+Route::get('/paints' , 'Reader\PaintsPageController@index')->name('readerPaints');
 
-Route::get('/video/{id}' , 'Reader\VideosPageController@show')->name('readerVideo');
+Route::get('/video/{id}' ,'Reader\VideosPageController@show')->name('readerVideo');
 Route::get('/story/{id}' , 'Reader\SmallStoryPageController@show')->name('readerStory');
 Route::get('/book/{id}' , 'Reader\BookAndResearchPageController@showBook')->name('readerBook');
 Route::get('/research/{id}' , 'Reader\BookAndResearchPageController@showResearch')->name('readerResearch');

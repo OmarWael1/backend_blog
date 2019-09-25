@@ -3,9 +3,14 @@
 @section('content')
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">{{ __('Edit Article') }}</div>
+                    @if (session('message'))
+                        <div class="alert alert-success">
+                            {{ session('message') }}
+                        </div>
+                    @endif
                     <div class="card-body">
                         <form method="POST" action="{{ route('editArticle', ['id' => $article->id]) }}" enctype="multipart/form-data">
                             @csrf
@@ -43,13 +48,13 @@
 
                                 <div class="col-md-6">
                                     <select id="category" type="text" class="form-control @error('category') is-invalid @enderror" name="category" required>
-                                        <option value="islamic">اسلاميه</option>
-                                        <option value="jewish">يهوديه</option>
-                                        <option value="christian">مسيحيه</option>
-                                        <option value="varied">متنوعه</option>
-                                        <option value="literary">ادبيه</option>
-                                        <option value="artistic">فنيه</option>
-                                        <option value="metaphysics">غيبيات</option>
+                                        <option value="اسلاميه">اسلاميه</option>
+                                        <option value="يهوديه">يهوديه</option>
+                                        <option value="مسيحيه">مسيحيه</option>
+                                        <option value="متنوعه">متنوعه</option>
+                                        <option value="ادبيه">ادبيه</option>
+                                        <option value="فنيه">فنيه</option>
+                                        <option value="غيبيات">غيبيات</option>
                                     </select>
                                     @error('category')
                                     <span class="invalid-feedback" role="alert">

@@ -29,7 +29,7 @@
 {
     box-sizing: border-box;
     font-family: "Tajawal";
-
+    z-index: 1;
 
 }
 html,body
@@ -55,6 +55,7 @@ main
     width:100%;
     height: 100%;
 }
+
 
 .section-header
 {
@@ -112,6 +113,8 @@ header
 .social-btn
 {
     background: none;
+    width: 28px;
+    height: 28px;
 }
 
 .social-btn
@@ -122,6 +125,57 @@ header
     align-self: center;
     margin-right: auto;
 }
+
+.language-conatiner
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+}
+.language-conatiner > .fr
+{
+    /*background-image: url("france.png");*/
+    margin-left: 10px;
+}
+.language-conatiner > .eg
+{
+    /*background-image: url("egypt.png");*/
+}
+.language-conatiner > .fr
+,.language-conatiner > .eg
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s ease-in-out;
+}
+.language-conatiner > .fr:hover
+,.language-conatiner > .eg:hover
+{
+    transform: rotate(360deg);
+}
+
+.language-conatiner > .fr:hover
+{
+    /*background-image: url("eiffel-tower.png");*/
+}
+
+.language-conatiner > .eg:hover
+{
+    /*background-image: url("pyramid.png");*/
+}
+
+.language-conatiner > .fr > img
+,.language-conatiner > .eg > img
+{
+    width: 28px;
+}
+
+
+
 
 /*-----------------NAVIGATION----------------*/
 
@@ -164,10 +218,29 @@ header
     display: inline-block;
     padding:0px 10px;
 }
+.menu-toggle
+{
+    display: none;
+    margin-right: auto;
+}
 
 @media screen and (max-width: 769px) {
+    nav{
+        height: auto !important;
+    }
     .navigation-list-item {
-        display: none;
+        margin-bottom: 5px;
+
+    }
+    .navigation-list
+    {
+        flex-direction: column;
+        z-index: 2000;
+    }
+    .menu-toggle
+    {
+        display: block;
+        margin-right: auto;
     }
 }
 .navigation-list-item > a
@@ -178,12 +251,14 @@ header
     color:#8591b0;
     font-size: 17px;
 }
-.logo {
-        display: block;
+.logo
+{
+    padding:0px;
+    margin-left: 40px;
 }
 .greeting
 {
-    background: url("doctor-section-background.png") no-repeat;
+    /*background: url("../images/doctor-section-background.png") no-repeat;*/
     height: 800px;
     background-size: cover;
     background-position: center center;
@@ -409,7 +484,7 @@ header
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
     background-color: #ffffff;
     width:30%;
-    height: 40%;
+    height: 380px;
 }
 
 .most-read-articles > .atricle > img
@@ -506,7 +581,7 @@ header
     grid-template-rows: auto;
     height: auto;
     gap: 60px;
-    background: url("video-background.png") no-repeat;
+    /*background: url("video-background.png") no-repeat;*/
     background-size: contain;
     background-position: center center;
 }
@@ -919,7 +994,7 @@ header
 
 .translate-content
 {
-    font-family: "Borgtimb";
+    font-family: "Tajawal";
     font-size: 18px;
     line-height: 2.22;
     color: #545b6d;
@@ -966,6 +1041,13 @@ header
     padding: 10px;
 }
 
+.quran-contents
+{
+    max-height: 600px;
+    position: sticky;
+    top: 0;
+    overflow-y: auto;
+}
 .quran-contents-title
 {
     font-family: "Tajawal-Bold";
@@ -1051,7 +1133,9 @@ header
 
 .articles-categories
 {
-    max-height: 379px;
+    max-height: 450px;
+    position: sticky;
+    top: 0;
     border-radius: 11px;
     border: solid 1px #f5f5f5;
     background-color: #ffffff;
@@ -1118,7 +1202,8 @@ header
 .view-item-container > .item-img > img
 {
     width: 100%;
-    height: 550px;
+    height: 100%;
+    max-height: 450px;
 }
 
 .view-title-date
@@ -1187,12 +1272,10 @@ header
     line-height: 1.33;
     color: #545b6d;
 }
-.image-text
-{
+.image-text {
     display: flex;
 }
-.image-text > p
-{
+.image-text > p {
     padding:10px;
     font-family: "Tajawal-Bold";
     font-size: 26px;
@@ -1200,15 +1283,13 @@ header
     color: #283583;
 }
 /*---------------------------------MISC-------------------------------*/
-.selected-link
-{
+.selected-link {
     border-radius: 2px;
     background-image: linear-gradient(to right, #4a5cc4, #283583);
 
 }
 
-.selected-link > a
-{
+.selected-link > a {
     color: #fff;
     padding: 2px;
 }
@@ -1244,6 +1325,9 @@ header
 @media screen and (max-width: 769px) {
     .doc-cv-grid {
         grid-template-columns: repeat(1,1fr);
+    }
+    .logo {
+        display: block;
     }
     .researches-books-container {
         display: unset;

@@ -3,10 +3,14 @@
 @section('content')
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">{{ __('Edit Story') }}</div>
-
+                    @if (session('message'))
+                        <div class="alert alert-success">
+                            {{ session('message') }}
+                        </div>
+                    @endif
                     <div class="card-body">
                         <form method="POST" action="{{ route('editStory', ['id' => $story->id]) }}" enctype="multipart/form-data">
                             @csrf

@@ -10,7 +10,7 @@
             <div class="stories-grid center-mobile">
                 @foreach($stories as $story)
                 <div class="story">
-                    <img src="{{asset('storage/bg.png')}}">
+                    <img src="{{asset('storage/34.jpg')}}">
                     <a href="{{route('readerStory',$story->id)}}"  style="text-decoration:none">
                     <div class="story-content">
                         <span class="story-title">

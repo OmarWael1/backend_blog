@@ -12,8 +12,19 @@
 
 <header>
     <div class="container header-options">
-           <li><a style=" color: #ffffff;" href="{{ url('locale/fr') }}" ><i class="fa fa-language"></i> FR</a></li>
-           <li><a  style=" color: #ffffff;" href="{{ url('locale/ar') }}" ><i class="fa fa-language"></i> AR</a></li>
+        <div class="language-conatiner">
+            @if(App::isLocale('ar'))
+                <button class="lang-btn fr">
+                    <a style=" color: #ffffff; text-decoration: none" href="{{ url('locale/fr') }}">fr</a>
+                </button>
+            @else
+                <button class="lang-btn eg">
+                     <a style=" color: #ffffff; text-decoration: none" href="{{ url('locale/ar') }}">ar</a>
+                </button>
+            @endif
+        </div>
+           {{--<li><a style=" color: #ffffff;" href="{{ url('locale/fr') }}" ><i class="fa fa-language"></i> FR</a></li>--}}
+           {{--<li><a  style=" color: #ffffff;" href="{{ url('locale/ar') }}" ><i class="fa fa-language"></i> AR</a></li>--}}
         <a class="social-btn" href="https://www.facebook.com/ZeinabAbdelazizPaintings" target="_blank">
             <img src="{{asset('storage/facebook.png')}}">
         </a>
@@ -28,19 +39,15 @@
             </a>
         </li>
 
-            <li class="navigation-list-item  selected-link" >
-                <a href="{{route('home')}}">
-                    {{trans('app.mainPage')}}
-                </a>
-            </li>
+
 
         @if(App::isLocale('ar'))
 
-            <li class="navigation-list-item">
-                <a href="{{route('about')}}">
-                    السيره الذاتيه
-                </a>
-            </li>
+            {{--<li class="navigation-list-item">--}}
+                {{--<a href="{{route('about')}}">--}}
+                    {{--السيره الذاتيه--}}
+                {{--</a>--}}
+            {{--</li>--}}
 
             <li class="navigation-list-item">
                 <a href="{{route('readerArticles')}}">
@@ -49,8 +56,20 @@
             </li>
 
             <li class="navigation-list-item">
-                <a href="{{route('readerBooksAndResearches')}}">
-                    كتب و ابحاث
+                <a href="{{route('readerResearches')}}">
+                     ابحاث
+                </a>
+            </li>
+
+            <li class="navigation-list-item">
+                <a href="{{route('readerPaints')}}">
+                    لوحات فنيه
+                </a>
+            </li>
+
+            <li class="navigation-list-item">
+                <a href="{{route('readerBooks')}}">
+                    كتب
                 </a>
             </li>
 
@@ -80,6 +99,11 @@
                 </a>
             </li>
 
+            <li class="navigation-list-item menu-toggle">
+                <a href="#" id="menu-toggle">
+                    <img src="{{asset('storage/menu.png')}}">
+                </a>
+            </li>
 
     </ul>
 </nav>

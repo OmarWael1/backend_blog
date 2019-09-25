@@ -17,6 +17,7 @@ class CreateSmallStoriesTable extends Migration
             $table->bigIncrements('id');
             $table->string('title');
             $table->longText('body');
+            $table->string('image_name');
             $table->string('date_of_publication');
             $table->integer('number_of_readers')->default(0);
             $table->timestamps();

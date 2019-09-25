@@ -6,7 +6,10 @@ use App\Models\SmallStory;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\File;
 class SmallStoryController extends Controller
 {
 
@@ -50,8 +53,13 @@ class SmallStoryController extends Controller
      */
     public function store(Request $request)
     {
+        if($request->hasFile('photo')) {
+            //   dd($request);
+            $cover = $request->file('photo');
+            $extension = $cover->getClientOriginalExtension();
+            Storage::disk('public')->put($cover->getClientOriginalName() . '.' . $extension, File::get($cover));
 
-            $data = ['title' => $request->title ,'body' => $request->body, 'date_of_publication' => $request->date_of_publication];
+            $data = ['title' => $request->title, 'body' => $request->body, 'date_of_publication' => $request->date_of_publication];
             $validator = Validator::make($data, [
                 'title' => ['required', 'string', 'max:255'],
                 'body' => ['required', 'string'],
@@ -62,9 +70,10 @@ class SmallStoryController extends Controller
                     ->withErrors($validator)
                     ->withInput();
             }
-            SmallStory::create(['title' => request('title') , 'body' => request('body') ,
-                'date_of_publication' => $request->date_of_publication]);
-            Session::flash('message','story created successfully');
+            SmallStory::create(['title' => request('title'), 'body' => request('body'),
+                'date_of_publication' => $request->date_of_publication, 'image_name' => $cover->getClientOriginalName() . '.' . $extension]);
+            Session::flash('message', 'story created successfully');
+        }
         return view('admin/story/add_story');
     }
 

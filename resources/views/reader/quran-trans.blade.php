@@ -3,1423 +3,1427 @@
     <main>
         <a id="top"></a>
         <section class="container translate">
-        <div class="translate-content">
-            <p align="center">
-                Le Qur’ān
-            </p>
-            <p align="center">
-                <strong>Traduction du sens de ses Versets</strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="left">
-                <strong></strong>
-            </p>
-            <p align="center">
-                Par
-            </p>
-            <p align="center">
-                <strong>ZEINAB ABDELAZIZ</strong>
-            </p>
-            <p align="center">
-                Professeur émérite de civilisation française
-            </p>
-            <p align="center">
-                Université Al-AZHAR, Université Ménoufiya
-            </p>
-            <p align="center">
-                2010
-            </p>
-            <p align="center">
-                <strong></strong>
-            </p>
-            <p align="center">
-                a    <strong></strong>
-            </p>
-            <p align="center">
-                <strong></strong>
-            </p>
-            <p align="center">
-                <strong>INTRODUCTION</strong>
-            </p>
-            <p>
-                <strong></strong>
-            </p>
-            <p>
-                <strong></strong>
-            </p>
-            <p align="center">
-                <strong>A- Pourquoi Cette Traduction ?</strong>
-            </p>
-            <p>
-                Est-il besoin d’une nouvelle traduction du <strong>Qur’</strong>    <strong>ā</strong><strong>n </strong>en langue française ? L’affirmative
-                s’impose dans la mesure où l’on peut dire, sans grand risque d’erreur, que
-                toutes celles qui existent déjà laissent à désirer... L’éventail des
-                égarements s’étend de la simple inattention jusqu’aux altérations
-                préméditées, en passant par toutes les difficultés que la langue arabe
-                présente au traducteur.
-            </p>
-            <p>
-                Il ne s’agit pas de reproches inutiles, fussent-ils fondés, ou de
-                discussions stériles, mais de remarques objectives que chacun peut
-                constater dans leurs grandes lignes :
-            </p>
-            <p>
-                · Un manque de respect dû au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> et à sa particularité de Texte Révélé, chez les uns ;
-            </p>
-            <span id="dots">...</span>
-            <span id="more" style="display: none;" >
-            <p>
-                · Un Manque de probité scientifique, chez d’autres, qui va jusqu'à
-                dénaturer le texte et avoir recours à une terminologie avilissante, surtout
-                quand le choix se présente, telle la traduction d’A. Chouraqui ;
-            </p>
-            <p>
-                · L’incapacité, chez certains, de saisir le sens du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ou les grandes affinités de ses
-                nuances et leurs variations ;
-            </p>
-            <p>
-                · La plupart des traducteurs ont recours à une sorte de commentaire ou de
-                rajout qui vient doubler la traduction, ce qui submerge le texte de
-                périphrases des fois sans rapport avec le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ;
-            </p>
-            <p>
-                · Le grand écart qui se trouve entre l’étendue des deux langues, les
-                caractéristiques de l’arabe lui permettant d’être des dizaines de fois plus
-                vaste que le français. Ce que l’on verra un peu plus loin.
-            </p>
-            <p>
-                Une remarque essentielle reste à faire : la différenciation entre les
-                traductions effectuées par des orientalistes, et celles qui ont été
-                réalisées par des musulmans. Différenciation qui s’impose, par la force des
-                choses, et qui les divise en deux groupes distincts, ne serait-ce que dans
-                le but de leur réalisation. C’est déjà tout dire, puisque le but d’une
-                trajectoire comporte en soi toutes les modalités à suivre…
-            </p>
-            <p>
-                Nul n’ignore, en fait, que dès les primes débuts de l’expansion de l’Islam,
-                les attaques commencèrent pour ne plus s’arrêter. Envisagé d’abord comme un
-                schisme hérétique chrétien, dans la lignée des Marcion, Mani, Arius et tant
-                d’autres, qui avaient tous été contre la déification de Jésus, les pages
-                que lui consacre Jean Damascène (env.650 - 750 env.) dans son ouvrage
-                capital intitulé <strong>Source de la Connaissance</strong>, chapitre des
-                hérésies, seront un intarissable réservoir d’idées erronées et d’images
-                déformées, duquel se nourrira l’Occident pour l’imposer, le long des
-                siècles et jusqu'à nos jours, avec un acharnement grandissant.
-            </p>
-            <p>
-                D’un autre côté, la même image déformée de l’Islam, du Prophète Mu0ammad et
-                des musulmans, à laquelle s’ajoutera l’esprit de croisade, servira de trame
-                sur laquelle sera tissée “laborieusement” la première traduction du<strong>Qur’</strong><strong>ā</strong><strong>n</strong> au début du XII    <sup>ème </sup>siècle. C’est ce que démontre la lettre que Pierre le
-                Vénérable adressa à saint Bernard, avec une copie de la traduction
-                effectuée par Robert de Rétines, assisté par des moines des Citeaux. Et
-                cela, pour « le besoin d’effacer de l’esprit de convertis musulmans, tout
-                vestige de leur foi première », comme l’écrit R. Blachère à la page 9 de
-                son ouvrage intitulé <strong>le Coran</strong> (1966). Autrement dit,
-                fanatisme ecclésial des uns, et préméditation obstinée des autres,
-                chantèrent à l’unisson pour mettre à point une falsification voulue
-                éternelle !..
-            </p>
-            <p>
-                Ainsi, la traduction du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, effectuée par des orientalistes ou par des membres du
-                clergé, ne déviera point de cette règle, et s’inscrira dès lors dans une
-                attitude de polémique contre l’Islam. Et pour comble, elle aura pour
-                critère : la réfutation de l’Islam à travers l’enseignement du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ! Ce qui montre à
-                quel point iront les altérations, les fabulations et tout ce à quoi pourra
-                s’ingénier un esprit d’attaque et de haine mal fondée, et à quel point
-                iront les acrobaties pour les imposer…
-            </p>
-            <p>
-                De même, le siècle des Lumières puisa toutes ses connaissances et son
-                aversion dans ces écrits contre l’Islam et surtout contre le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, séculairement et
-                méthodiquement attaqué par la chrétienté. Connaissances et aversion qui,
-                non seulement nourriront les générations suivantes, mais finiront par
-                former, instinctivement, un tempérament quasi inné de la nature
-                occidentale, une attitude de refus aveugle face à tout ce qui tient de
-                l’Islam.
-            </p>
-            <p>
-                Si tels étaient les buts et les conséquences des traductions entreprises
-                par les orientalistes, ce qui constitue le premier groupe, celles qui ont
-                été réalisées par les musulmans partent bien sûr d’une optique différente,
-                visant à rectifier cette image traditionnellement faussée et maintenue de
-                père en fils, si l’on peut dire ...
-            </p>
-            <p>
-                De là, les réserves qui concernent ce second groupe de traductions portent
-                plutôt sur un autre domaine : celui de la langue française.
-            </p>
-            <p>
-                Sachant qu’elle n’est pas leur langue maternelle, même si certains d’entre
-                eux vivent en France ou y ont suivi leur formation, l’ensemble de ces
-                traducteurs ont eu recours aux travaux de leurs confrères, étant les
-                possesseurs de la langue, pour s’orienter dans leur propre travail. Ce qui
-                est normal pour tout travail académique. Mais outre les copies, certains
-                glissèrent sans se rendre compte, et firent usage des mêmes erreurs
-                malignement camouflées, à ne citer que celui qui copia la fameuse
-                expression de J. Berque, disant qu’Allah “se repent ” au lieu de dire qu’Il
-                est Rémissif ! Il est vrai que le verbe يتوب (<strong>yat</strong>    <strong>ū</strong><strong>b</strong>), en arabe, veut dire “se repentir”
-                quand il est employé par ou pour un être humain ; et en arabe toujours, le
-                même verbe, employé pour désigner Allah, prend tout de suite et sans la
-                moindre hésitation, le sens de “faire rémission”. Pour un musulman, ce
-                choix de l’un ou de l’autre sens se fait spontanément, selon le contexte ;
-                pour un orientaliste qui cherche à dénaturer et à frauder, l’exemple de J.
-                Berque passe pour identique !
-            </p>
-            <p>
-                Un autre exemple moins grave, du point de vue théologique, et qui a passé
-                presque dans toutes les traductions, le choix de certains vocables, tel le
-                mot “répudiation” pour طلاق, alors que l’équivalent correct existe en
-                français, c’est “divorce”. La différence entre les deux termes de la langue
-                cible est que “divorce” représente un fait déterminé, alors que
-                “répudiation” sous-entend, pour la femme, l’humiliation d’être chassée. Ce
-                qui porte atteinte à la réalité de l’Islam et à son attitude par rapport à
-                la femme.
-            </p>
-            <p>
-                Ce n’était là qu’un simple exemple du “jeu” mené par ces fameux
-                orientalistes, dont presque pas une page de leurs traductions n’est
-                exempte.
-            </p>
-            <p>
-                Demeure un problème majeur. Vu la différente étendue des deux langues, on
-                ne peut vraiment effectuer une traduction satisfaisante du sens du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, en langue
-                française, sans avoir recours au néologisme. C’est une nécessité dont tous
-                ceux qui on abordé ce domaine se sont sûrement rendu compte. Mais cette
-                nécessité objective, qui peut donc l’assumer ? Ceux qui passèrent quatorze
-                siècles à maintenir une manipulation délibérée du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ? Vont-ils avoir le souci de formuler
-                des néologismes afin de donner une image aussi près que possible d’un texte
-                qu’ils cherchent à éliminer de sur terre ? !
-            </p>
-            <p>
-                D’un autre côté, les musulmans osent rarement aborder le domaine, et pour
-                cause, sachant à quel point des cheveux se hérisseraient, rien qu’à l’idée
-                !
-            </p>
-            <p>
-                Telle était, en ses grandes lignes, la raison pour laquelle la tentative de
-                cette traduction s’imposait. Cela ne diminue en rien l’effort fourni par
-                ceux qui nous ont précédés sur cette voie.
-            </p>
-            <p>
-                Cependant, demeure l’espoir… L’espoir qu’un linguiste, ou un membre de
-                l’Académie, aura le courage de surmonter cette barrière de haine ou de
-                répulsion, séculairement et injustement implantée, pour prendre en charge
-                la formation de néologismes adéquats ! Tâche doublement ardue, mais combien
-                humanitaire et scientifique.
-            </p>
-            <p align="center">
-                <strong>B - Les Traductions Précédentes</strong>
-            </p>
-            <p>
-                Les traductions intégrales que nous avons pu obtenir et consulter sont les
-                suivantes, classées selon leur date de publication :
-            </p>
-            <ul>
-                <li>
-                    Du Ryer : <strong>l’Alcoran de Mahomet</strong>, 1647
-                </li>
-                <li>
-                    Savary : <strong>Le Koran</strong>, 1783
-                </li>
-                <li>
-                    Kazimirski, B. : <strong>Le Coran</strong>, 1840
-                </li>
-                <li>
-                    Montet, E. : <strong>Le Coran</strong>, 1929
-                </li>
-                <li>
-                    Laïmech, A. : <strong>Le Coran</strong>, 1931
-                </li>
-                <li>
-                    Pesle, O. &amp; Tidjani, A. : <strong>Le Coran</strong>, 1954
-                </li>
-                <li>
-                    Blachère, R. : <strong>Le Coran</strong>, 1966
-                </li>
-                <li>
-                    Masson, D. : <strong>Le Coran inimitable</strong>, 1967
-                </li>
-                <li>
-                    Ma0moud, N.ben : <strong>Le Coran</strong>, 1976
-                </li>
-                <li>
-                    Grosjean, J. : <strong>Le Coran,</strong> 1979
-                </li>
-            </ul>
-            <p>
-                · Kechrid, S.E.: <strong>Al-Qur’</strong><strong>ā</strong>    <strong>n Al-Karim</strong>, 1984
-            </p>
-            <ul>
-                <li>
-                    Boubakeur, H. : <strong>Le Coran</strong>, 1985
-                </li>
-                <li>
-                    Ahmad, M.T. : <strong>Le Saint Coran</strong>, 1985
-                </li>
-                <li>
-                    £amidullah, M. : <strong>Le Saint Coran</strong>, 1986
-                </li>
-                <li>
-                    Khawam, R. : <strong>Le Coran</strong>, 1990
-                </li>
-                <li>
-                    Berque, J. : <strong>Le Coran</strong>, 1990
-                </li>
-                <li>
-                    Chouraqui, A. : <strong>Le Coran</strong>, 1990
-                </li>
-                <li>
-                    Complexe du roi Fahd : <strong>Le Saint Coran</strong>, 1994
-                </li>
-                <li>
-                    Maziegh, S.: <strong>Le Coran</strong>, S.d.
-                </li>
-            </ul>
-            <p>
-                Comme on le voit, dix d’entre elles sont effectuées par des orientalistes,
-                une est réalisée en collaboration entre un orientaliste et un musulman, et
-                huit sont faites par des érudits musulmans ou par des institutions
-                islamiques.
-            </p>
-            <p>
-                Il n’est pas lieu ici de faire un compte rendu de chacune d’entre elles et
-                dire le pour et le contre, mais là aussi distinction s’impose, entre les
-                deux groupes, pour montrer avec un peu plus de détails, les raisons pour
-                lesquelles les traductions des orientalistes sont critiquables, vu le
-                manque de probité scientifique préalable avec lequel ils entreprirent leurs
-                travaux.
-            </p>
-            <p>
-                De là, on peut dire globalement que toutes leurs traductions, sans
-                exception, s’élancent du même point de départ : refuser le fait que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> est une
-                Révélation divine, assurer que le Prophète Mu0ammad en est l’inventeur,
-                dénier qu’il était analphabète, prouver qu’il a copié ou pastiché les
-                anciens, démontrer que ce <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> ne contient aucune loi, qu’il n’est, au fond, qu’un amas
-                de propos ridicules et d’absurdités, pour arriver tous, plus ou moins, à la
-                même fin : que c’est un ouvrage de balivernes à rejeter…
-            </p>
-            <p>
-                Et si le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ne leur
-                facilite pas cette “mission” par l’intermédiaire d’un choix de termes
-                déterminés, les notes et les commentaires au bas des pages, et les
-                introductions leur donnent amplement l’espace pour en fausser ou dénaturer
-                le sens.
-            </p>
-            <p>
-                Toutes, aussi, chantent à l’unisson pour avoir recours à la même technique
-                : camoufler ou réfuter les versets qui dénoncent le dogme de la Trinité, et
-                ceux qui prouvent les manipulations desquelles a souffert la Bible
-                originale – celle de Jésus – sous toutes les formes : déplacement de mots,
-                altérations, falsifications, etc. Et surtout les versets qui accusent la
-                déification de Jésus. De même, tous ces auteurs s’accordent pour éliminer
-                toute ressemblance de données principales, le monothéisme étant un et seul
-                message : l’Unicité d’Allah.
-            </p>
-            <p>
-                Le choix des vocables passe sous le même paradigme. Le mot “paradis”, par
-                exemple, ne paraîtra presque pas dans ce groupe de traductions, mais on lui
-                substituera le mot “jardin”. Même procédé que pour le verbe “se repentir”
-                qu’on a vu plus haut, le mot جنة (<strong>jannah</strong>) en arabe
-                désignant les deux : et paradis, et jardin. C’est le contexte qui décide,
-                qui oriente le choix instantanément.
-            </p>
-            <p>
-                Telle est, en ses grandes lignes, l’orientation préméditée, suivie par les
-                orientalistes. La différence qui se trouve entre chacune de leurs
-                traductions n’est, en fait, que différence de style et de contournement,
-                mais le commun dénominateur demeure le même.
-            </p>
-            <p>
-                Le rapport présenté par le Comité chargé de réviser la    <strong>Traduction du Coran, </strong>faite par J. Berque, en est
-                représentatif et révèle à quel point on peut dire que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> n’a jamais été
-                présenté avec probité par les orientalistes, dans aucune langue européenne,
-                ni d’une façon qui le rende véritablement compréhensible. Le résumé suivant
-                en dit assez.
-            </p>
-            <p>
-                Nommé par feu Šeih Gad El-Haq ‘Ali Gad El-Haq, Grand Imam d’Al-Azhar, par
-                l’Arrêté No 402 de 1995, daté du 26 juin 1995, ce Comité comprenait :
-            </p>
-            <p>
-                · Dr Mostapha El-Chak‘ā, Doyen de la Faculté de Lettres à l’Université de
-                ‘Ain Chams, membre de l’Institut des recherches Islamiques, grand ami et
-                collègue de Jacques Berque.
-            </p>
-            <p>
-                · Dr Mu0ammad Badr, Professeur des systèmes juridiques à l’Université de
-                ‘Ain Chams.
-            </p>
-            <ul>
-                <li>
-                    L’ambassadeur A0madein Khalil, islamologue et francophone.
-                </li>
-            </ul>
-            <p>
-                · Dr Mu0ammad Mehanna, Professeur de loi à la Faculté de Loi.
-            </p>
-            <p>
-                · Dr Zeinab Abdelaziz, Professeur de Civilisation et chef du Département de
-                langue et de littérature françaises, à la Faculté de Lettres de Chébine
-                El-Kōm, et auteur de l’ouvrage intitulé    <strong> les Doubles faces de Jacques Berque</strong>.
-            </p>
-            <p>
-                Le rapport collectif présenté par ce Comité, était accompagné de trois
-                rapports personnels, par :
-            </p>
-            <p>
-                · Dr A0mad El-Bossāti, Doyen de la Faculté des Etudes Arabes et Islamiques
-                à l’Université Al-Azhar.
-            </p>
-            <p>
-                · Dr ‘Ali Gom‘ā, Professeur des Règles de Jurisprudence à l’Université
-                Al-Azhar.
-            </p>
-            <p>
-                · Dr Ma0moud ‘Azab, maître de conférence à l’Université Al-Azhar, d’un
-                parti pris déclaré pour J. Berque, mais qui proposa l’élimination complète
-                de l’essai qui fait suite à la <strong>Traduction du Coran</strong> de
-                Berque, car «il porte gravement atteinte à son auteur » !
-            </p>
-            <p>
-                Le rapport collectif a été publié le 21 Mars1997 dans le journal “    <strong>Al-Cha‘b</strong>”, et comprend quinze sortes de remarques :
-            </p>
-            <p>
-                1 <strong><u>Ignorance de la langue arabe</u></strong> : Saisissant mal les
-                profondeurs de la langue arabe et ses possibilités uniques, lisant mal les
-                voyellisations, il se permet d’aboutir à des résultats avec lesquels il
-                critique le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ou
-                fait de l’exégèse, alors qu’il n’en possède pas les données élémentaires.
-            </p>
-            <p>
-                <strong>2 </strong>
-                <strong><u>Incompréhension du texte qur’ā</u></strong>
-                <strong><u>nique </u></strong>
-                : Vu son ignorance de la langue arabe, de ses règles de grammaire, de sa
-                rhétorique, et par-là : la lecture correcte, il commet des erreurs,
-                controuve, formule de faux arguments pour prouver que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> renferme des
-                fautes linguistiques impardonnables et injustifiables ! <strong></strong>
-            </p>
-            <p>
-                <strong>3 </strong>
-                <strong><u>Manque de Probité scientifique </u></strong>
-                : Il mutile les références des anciens exégètes, remet en cause
-                l’historicité du texte pour le mettre à pied d’égalité avec les Evangiles
-                et aboutir, par là, à la conclusion que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est écrit par des humains et n’est
-                point Révélé par Allah. De même, il a recours à des citations amputées,
-                qu’il place hors de leur contexte, pour prouver ses propres fabulations,
-                tel ce fameux «pour tout Ecrit un terme» (p.787)<strong></strong>
-            </p>
-            <p>
-                <strong>4 </strong>
-                <strong><u>Traduction erronée </u></strong>
-                : Il a recours à des mots et des expressions qui n’expriment point le sens
-                du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, qui révèlent
-                une ignorance scandaleuse de la langue arabe et une mauvaise intention
-                préméditée, à ne citer que la traduction du nom de la    <strong>Sūrah</strong> 30 «<strong>Al-Rūm</strong>» par «Rome », la
-                capitale d’Italie, alors que le terme désigne les Romains ! Et de surcroît,
-                il ajoute au bas de la page : «Nous disons pour des raisons d’euphonie
-                “Rome” où il faudrait bien sûr “les Byzantins” (p.431) !<strong></strong>
-            </p>
-            <p>
-                <strong>5 </strong>
-                <strong><u>Le mot “</u></strong>
-                <strong><u>Qur’ā</u></strong>
-                <strong><u>n”</u></strong>
-                <strong><u> </u></strong>
-                : Il ne suit même pas les règles élémentaires de la traduction en ce qui
-                concerne un seul et même mot, mais a recours à des variations pour le mot    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>. Ce qui déroute
-                le lecteur et révèle un manque de sérieux.<strong></strong>
-            </p>
-            <p>
-                <strong>6 </strong>
-                <strong><u>“</u></strong>
-                <strong><u>Allah dans le Coran”</u></strong>
-                <strong><u> </u></strong>
-                : Il présente Allah sous une forme terrifiante, toute de contradictions, en
-                précisant : “dans le Coran”, comme s’il s’agissait d’une théorie quelconque
-                ! Et par comble de ridicule, il ajoute : “Il possède une sorte de bilarité
-                dans ses rapports avec la créature : Il est heureux d’être loué, Il prie,
-                il se repent” ! (p.791).<strong></strong>
-            </p>
-            <p>
-                <strong>7 </strong>
-                <strong><u>Le recensement du Qur’ā</u></strong>
-                <strong><u>n </u></strong>
-                : Il s’évertue à prouver que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> a été falsifié lors du recensement, et de la
-                voyellisation, et qu’il porte, jusqu’à nos jours, les traces de ces
-                manipulations !<strong></strong>
-            </p>
-            <p>
-                <strong>8 </strong>
-                <strong><u>L’aspect humain du Qur’ā</u></strong>
-                <strong><u>n </u></strong>
-                : Il assure à plusieurs endroits que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est écrit par le Prophète, influencé
-                par la poésie antéislamique, la pensée grecque et les Psaumes de David.    <strong></strong>
-            </p>
-            <p>
-                <strong>9 </strong>
-                <strong><u>Le Qur’ā</u></strong>
-                <strong><u>n “</u></strong>
-                <strong><u>poésie ancienne”</u></strong>
-                <strong><u> </u></strong>
-                : Il trouve que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> est une sorte de poésie ancienne, fait le rapprochement
-                avec Parménide duquel, dit-il, le Prophète s’est inspiré pour écrire la<strong>Sūrah</strong> de <strong>l’Unicité</strong><strong>d’Allah</strong>, puis assure que si le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> était soumis à la linguistique moderne
-                et ses théories, de nombreuses <strong>Suwar</strong> perdraient leur
-                valeur ! <strong></strong>
-            </p>
-            <p>
-                <strong>10 </strong>
-                <strong><u>Critique et évaluation du Qur’ā</u></strong>
-                <strong><u>n </u></strong>
-                : Il use des données erronées pour dire que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est venu en une place déterminée, pour
-                une époque déterminée, et pour des conditions humaines précises. Et comme
-                ces conditions changent et évoluent, on se doit de changer et faire évoluer
-                le texte du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, car
-                sa “fixité” à travers le temps est une de ses tares !<strong></strong>
-            </p>
-            <p>
-                <strong>11 </strong>
-                <strong><u>Critique des </u></strong>
-                <strong><u>0</u></strong>
-                <strong><u>adiths et de la Sunna </u></strong>
-                : Il voit que les <strong>0</strong><strong>adiths</strong> et la    <strong>Sunna</strong> du Prophète ne sont que des analogies d’événements
-                historiques antécédents et propose de les délaisser, étant pleins de
-                lacunes, d’imprécisions, et manquant de véracité !<strong></strong>
-            </p>
-            <p>
-                <strong>12 </strong>
-                <strong><u>Accusations des savants musulmans </u></strong>
-                : Il essaye de prouver qu’ils fraudèrent afin de faire prévaloir certains
-                sens dans le <strong>Qur’</strong><strong>ā</strong><strong>n</strong>,
-                alors que les orientalistes mettent à nu leurs subterfuges !    <strong></strong>
-            </p>
-            <p>
-                <strong>13 </strong>
-                <strong><u>Réfutation qu’il y ait une loi dans le Qur’ā</u></strong>
-                <strong><u>n </u></strong>
-                : Il assure que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> est un mélange obscur de religion, de morale, et le peu
-                qu’il contient de juridiction est obscur ou pris de Justinien ou d’autres.    <strong></strong>
-            </p>
-            <p>
-                <strong>14 </strong>
-                <strong><u>Séparation de la Religion de l’Etat </u></strong>
-                : Il mésinterprète le sens des Versets pour dire que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> prohibe le
-                pouvoir politique aux religieux musulmans, alors qu’en vérité le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> prohibe la
-                divination ou la prétention à la divinité.<strong></strong>
-            </p>
-            <p>
-                <strong>15 </strong>
-                <strong><u>Ce à quoi il incite</u></strong>
-                : Avançant que l’Islam est une religion obscure, qui désigne la soumission,
-                qu’elle abonde de contradictions, il incite les musulmans à rectifier le
-                texte qur’ānique, à rechercher d’autres ressources pour la tradition,
-                basées sur la nature et non sur le “mystère”, répétant une dizaine de fois,
-                la nécessité de soumettre le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> à la critique historique, et à l’analyse de la
-                linguistique moderne, non seulement pour le débarrasser des falsifications
-                qui s’y trouvent – à son avis – mais pour lui faire une transposition dans
-                le présent, qui puisse permettre son intégration dans le monde moderne !    <strong></strong>
-            </p>
-            <p>
-                <strong></strong>
-            </p>
-            <p>
-                Le Comité termine le rapport en insistant sur le fait que ces données, qui
-                se perpétuent le long des 82 pages de cet essai, ne sont point fortuites,
-                mais représentent les lignes de base selon lesquelles il a tramé sa
-                traduction.
-            </p>
-            <p>
-                A la suite d’un tel rapport, on se sent vraiment vexé, en sachant que
-                Jacques Berque était membre de l’Académie de Langue Arabe, du Caire, et
-                Professeur honoraire au collège de France ! D’ailleurs, c’est le seul mot
-                de passe avec lequel il coiffe son ouvrage !
-            </p>
-            <p>
-                Telles furent les raisons pour lesquelles la traduction de J. Berque a
-                provoqué un remous, sans pareil, en Egypte et dans le monde musulman dès sa
-                parution, et fut mise à l’index.
-            </p>
-            <p>
-                Il n’est pas question de faire un commentaire pour toutes ces données
-                variablement abordées par les orientalistes, mais on ne peut omettre cette
-                exigence, perpétuée par Berque et autres, de soumettre le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> à un examen de
-                critique historique, à lui appliquer les méthodes de la linguistique
-                moderne, et à le soumettre à une transposition dans le présent…
-            </p>
-            <p>
-                Toute logique normale peut facilement concevoir que tous les procédés
-                d’analyse auxquels l’Occident est parvenu dans ses études linguistiques,
-                sont en rapport direct avec ses langues et ils leur conviennent
-                parfaitement, la source ou la base même des deux étant une et pour la
-                langue, et pour ces travaux de linguistique.
-            </p>
-            <p>
-                Quant aux procédés d’analyse linguistique qui conviennent à la langue
-                arabe, les musulmans les ont découverts dans les premiers siècles de
-                l’Islam, les appliquèrent au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et trouvèrent que c’est un livre d’une précision
-                extrême, d’un style inégalable tant sur le plan de la forme que du contenu.
-                C’est pourquoi les musulmans y tiennent fermement, à travers les âges, et y
-                croient foncièrement.
-            </p>
-            <p>
-                L’Occident n’arrive pas à saisir cet état de chose, ayant lui-même souffert
-                d’une expérience juste à l’opposé, avec ses textes sacrés, qui n’ont cessé
-                de subir des manipulations jusqu’à nos jours, à ne citer que les tentatives
-                de Jean Paul II de “remanier” 70 strophes ou versets afin de réaliser cette
-                union de toutes les églises, qu’il veut sous l’égide du catholicisme
-                vaticanais, pour ne rien dire des contradictions que renferment les
-                Evangiles et qui sont carrément insurmontables.
-            </p>
-            <p>
-                C’est pourquoi l’Occident n’arrive pas à saisir ce profond attachement qui
-                lie les musulmans au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, ni cette immuable vénération qu’ils lui vouent. La
-                demande de Berque et ses semblables n’est donc qu’une erreur de méthode,
-                <u>
-                    car on ne peut point appliquer les règles de grammaire et les procédés
-                    d’analyse d’une langue sur une autre langue, surtout les disciplines
-                    d’une langue latine sur une langue sémitique.
-                </u>
-            </p>
-            <p>
-                Quant à la “transposition du <strong>Qur’</strong><strong>ā</strong><strong>n</strong> dans le présent”, autrement dit, à la manipulation du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, sur laquelle ils
-                insistent pour le faire concorder avec le présent ou avec la prétendue
-                modernité, non seulement il n’appartient à personne de toucher quoi que ce
-                soit de ce Texte Sacré, Saint, Immaculé et Inviolable, mais la seule
-                réplique à dire est ce Verset 9, de la <strong>Sūrah</strong> 15, disant :
-            </p>
-            <p>
-                “C’est Nous, en fait, qui Avons Révélé le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, et Nous le Conservons à jamais”…
-            </p>
-            <p align="center">
-                <strong>
-                    C- Problèmes de la traduction vers le français, et règles à suivre
-                </strong>
-            </p>
-            <p align="center">
-                <strong></strong>
-            </p>
-            <p>
-                De longue date, la réflexion sur la traduction a été centrée sur des
-                oppositions binaires : langue source/langue cible ; texte original/texte
-                traduit ; littéralisme/traduction libre ; traduction de la
-                lettre/traduction de l’esprit. Ces polarités, qui ne sont point du même
-                ordre, mènent à un point essentiel : S’orienter vers le texte source ou
-                vers le texte traduit ? Cependant, quelles que soient les options ou les
-                difficultés, il existe toujours des opérations communes à toutes les
-                langues qui permettent d’établir des équivalences.
-            </p>
-            <p>
-                En ce qui concerne la traduction du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, tenant compte des difficultés de la langue arabe, ses
-                particularités et ses caractéristiques, on ne peut se contenter de faire le
-                choix d’un seul système à suivre, mais on se doit d’avoir recours à tous
-                les procédés possibles de la traduction, selon le cas qui se présente, afin
-                de pouvoir donner une idée assez correcte du sens.
-            </p>
-            <p>
-                Il est d’usage d’écrire, tout simplement, que la langue arabe est une
-                langue sémitique, qu’elle diffère des langues latines et qu’elle jouit
-                d’une grande flexibilité, dans la mesure où elle comprend une immense
-                étendue de dérivations.
-            </p>
-            <p>
-                En fait, la différence entre l’idiome arabe et tout idiome européen réside
-                dans cette large envergure de la première, qui comprend, entre autres : une
-                grande maniabilité des tournures syntaxiques, une extrême souplesse de
-                grammaire, due à un système particulier de racines verbales et une variété
-                de nombreux dérivés. Ce qui permet une extraordinaire richesse de
-                vocabulaire et une subtilité de nuances qui ne peuvent être traduites
-                correctement sans avoir recours au néologisme.
-            </p>
-            <p>
-                Il serait peut-être plus pratique de citer un exemple afin que le lecteur
-                saisisse ce que l’on entend par cette flexibilité peu connue. Les dérivés
-                qu’un verbe peut donner sont les suivants : la forme active : au prétérit
-                et à l’aoriste ; l’impératif ; le passif : au prétérit et à l’aoriste ; le
-                nom d’action; le nom d’unité ou de genre ; le nom d’agent ; le nom d’objet
-                ou nom d’action avec la lettre م (m) ; le nom de place et de temps. Soit
-                une dizaine de formes, chacune donnant lieu à huit modalités différentes.
-                Ce qui donne quatre-vingt moyens de dérivations pour un seul verbe. Le
-                chiffre se double presque en tenant compte des temps au féminin.
-            </p>
-            <p>
-                Notons que chacune de ces dérivations comporte une différence de sens ou de
-                nuance. Ce qui révèle non seulement l’étendue et la flexibilité de l’arabe,
-                mais l’importance et la stricte nécessité de tenir compte de la
-                voyellisation pour traduire correctement, sinon les erreurs se présentent
-                malgré toutes les bonnes volontés du traducteur. Est-il besoin d’ajouter
-                que bien des fois la langue française ne possède même pas le verbe ou
-                l’adjectif d’un substantif, ni la forme du duel ni le féminin de certaines
-                formes de conjugaison comme l’impératif et autres ?
-            </p>
-            <p>
-                D’un autre côté, la langue arabe possède une grande terminologie pour
-                marquer la différenciation précise des états variés, tel le Verset 103 de
-                la <strong>Sūrah</strong> 5, où il est question d’appellations
-                particulières pour le chameau, la chamelle ou la brebis. On trouve    <strong>ba</strong><strong>0</strong><strong>īra</strong>, pour la chamelle
-                ayant produit cinq fois, à laquelle on fendait l’oreille, indiquant qu’elle
-                était libre de paître partout, et qu’elle était consacrée à une idole ;    <strong>sā</strong><strong>’iba</strong>, pour la chamelle laissée en
-                liberté et consacrée à une idole ; <strong>wa</strong><strong>4ī</strong>    <strong>la</strong>, pour une brebis ayant donné naissance à des jumeaux
-                cinq fois de suite ; et <strong>0ā</strong><strong>m</strong>, pour un
-                chameau étalon ayant fécondé une chamelle dix fois de suite. N’ayant pas
-                d’équivalent en français, le traducteur se trouve devant faire face à trois
-                alternatives : traduire par un syntagme ou tout une phrase, transcrire
-                phonétiquement, ou chercher des néologismes.
-            </p>
-            <p>
-                Le néologisme représente, en fait, un des grands problèmes. Nous y avons eu
-                recours dans la stricte mesure où cela était indispensable, surtout pour la    <strong>Basmalah</strong> (البسملة ), formule qui représente le nom d’Allah
-                et ses deux principaux attributs, que le musulman récite avant
-                d’entreprendre quoi que ce soit, et non seulement lors de la prière.
-            </p>
-            <p>
-                Le verbe <strong>Ra</strong><strong>0</strong><strong>ima</strong> (رحم)
-                signifie faire miséricorde. <strong>Ra</strong><strong>0</strong><strong>mā</strong><strong>n</strong> (رحمن) et <strong>Ra</strong>    <strong>0ī</strong><strong>m</strong> (رحيم) sont deux noms-adjectifs,
-                presque synonymes, qui rendent l’idée de miséricorde. Cependant, le premier
-                qualifie celui qui fait l’action, le second revêt la forme la plus courante
-                du nom-adjectif “miséricordieux”. D’un autre côté, le mot    <strong>Ra</strong><strong>0</strong><strong>mā</strong><strong>n</strong>,
-                en arabe, ne s’applique qu’à Allah Seul, embrassant dans Sa miséricorde
-                tous les êtres sans distinction, alors que <strong>Ra</strong>    <strong>0ī</strong><strong>m</strong> veut dire “miséricordieux” dans un
-                sens plus restreint, envers seulement ceux qui méritent Sa miséricorde.
-            </p>
-            <p>
-                Comme il n’existe pas en français de mot qualifiant celui qui fait l’action
-                de miséricorde, comme “travailleur” pour celui qui fait le travail, il
-                était nécessaire de former le substantif-propre “Miséricordeur”, ne
-                s’appliquant qu’à Allah, afin de rendre la même forme stylistique de
-                l’arabe, où les deux noms-adjectifs sont basés sur la même racine, et pour
-                marquer la différence qu’il y a entre les deux substantifs : le premier
-                précisant Celui qui fait l’action, le second désignant Sa qualification.
-            </p>
-            <p>
-                Nous avons eu recours au même adjectif latin, puisque le même mot, selon
-                Grévisse, peut avoir deux dérivés synonymes. Ce qui donne la traduction la
-                plus proche de l’arabe du point de vue forme et contenu : بسم الله الرحمن
-                الرحيم : au Nom d’Allah, le Miséricordeur, le Miséricordieux.
-            </p>
-            <p>
-                D’ailleurs, c’est le même travail qu’a essayé de faire André Miquel dans
-                son ouvrage intitulé “l’Evénement”, où il fait la critique de quelques
-                traductions de la <strong>Sūrah</strong> 56, qui porte le même nom, et dans
-                lequel il propose une nouvelle traduction pour la <strong>Basmalah</strong>
-                , qui soit de la même racine pour les deux termes, mais malheureusement il
-                part d’un autre substantif que “miséricorde”, et dit :
-            </p>
-            <p>
-                «Autre problème, plus grave d’apparence, dit-il : “magnificent” n’existe
-                pas, si l’on se rapporte à l’usage. Une aubaine, au contraire, puisque ce
-                néologisme respecte le statut particulier de <em>ra</em><em>0</em>    <em>mā</em><em>n</em> et convient parfaitement à Dieu, à qui est réservée,
-                exclusivement, cette épithète, puisqu’Il est le “seul” à être absolument    <em>ra</em><em>0</em><em>mā</em><em>n</em>. En respectant ce “seul”, qui
-                souligne la différence de statut entre les deux épithètes, on propose donc
-                : «Au nom de Dieu, le seul Magnificent, le Magnanime» !
-            </p>
-            <p>
-                Est-il besoin de dire que cette proposition ne respecte même pas le statut
-                de la formule arabe puisqu’il a dû ajouter le mot “seul”. En outre, on ne
-                sait trop pourquoi monsieur Miquel n’est pas parti de la même racine
-                équivalente de l’arabe et qui existe en français, i.e. de “miséricorde” ?
-                Magnanime désigne : Enclin au pardon des injustes, alors que miséricorde
-                comprend le pardon, l’absolution complète du coupable. La différence est
-                grande.
-            </p>
-            <p>
-                Autrement triste et ridicule est la traduction d’André Chouraqui, qui
-                choisit un autre dérivé de la racine <strong>Ra</strong><strong>0</strong>    <strong>ima</strong>, qui, à part “miséricorde”, donne le mot “matrice” et
-                ses dérivés, et il écrit : matrice, matricien, et matriciel, « Allah
-                privilégie de ses matrices qui il décide » (p.57) !
-            </p>
-            <p>
-                Tel qu’on le voit, un des principaux problèmes de la traduction du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, en français, est
-                le manque d’équivalences.
-            </p>
-            <p>
-                En ce qui concerne les mots qui ne sont point employés en français hors de
-                leur désignation précise dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et dont le sens religieux islamique est leur raison
-                d’être, il nous a semblé plus logique de maintenir leur transcription
-                phonétique, tels les termes suivants :
-            </p>
-            <p>
-                <strong>Qur’ā</strong>
-                <strong>n</strong>
-                : Dans le Robert, dictionnaire historique de la langue française, on
-                trouve, à la suite du mot “Coran” : Emprunté à l’arabe “<strong>al-qur’ān</strong>” «la lecture par excellence», dérivé de “    <strong>qara’a</strong>”. Est-il lieu d’ajouter tous les changements qu’a
-                connus ce vocable sous la plume des orientalistes, de “ alchoran” et “
-                alcoran ” (fin XV s.) à “Koran” (1657) et autres, pour aboutir à cette
-                forme distordue de “Coran” ?
-            </p>
-            <p>
-                Ce qui est vraiment navrant, c’est le fait de voir que les Français savent
-                comment écrire la transcription phonétique exacte, comme on vient de le
-                lire, et pourtant on voit une drôle d’insistance à maintenir une
-                orthographe inadéquate, et ce qui plus est, on trouve à la page 15 de
-                l’ouvrage de Blachère, ci-haut mentionné : «Pour ne pas contrarier un usage
-                qui tend à se généraliser en France, on adoptera l’orthographe Coran » !
-            </p>
-            <p>
-                Là, on ne peut s’empêcher de demander : pourquoi insister à maintenir une
-                orthographe incorrecte, alors qu’il serait plus juste et plus honnête
-                d’adopter le plus représentatif, quitte à contrarier un usage qui manque de
-                probité ? Usage que l’on voit se répéter aussi avec le nom du Prophète
-                Mu0ammad, passant de Maometto, Mahomet, Baphomet, Mathomus, Mahom et autres
-                pour aboutir à cette forme déformée de “Mahomet” !
-            </p>
-            <p>
-                Il est vexant de voir comment tous les Français savent très bien écrire
-                “Mu0ammad”, quand il s’agit de toute autre personne que le Prophète !
-                N’est-il pas temps de “contrarier” tant d’usages erronés, qui ne se sont
-                généralisés que trop, grâce à un parti-pris borné et d’écrire correctement
-                le nom du Prophète ?!
-            </p>
-            <p>
-                En ce qui concerne cette traduction, nous adoptons l’orthographe “    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>”, qui est la plus
-                proche entre toutes de la prononciation arabe, dans l’espoir de la voir se
-                généraliser dans les textes français.
-            </p>
-            <p>
-                <strong>Zakā</strong>
-                <strong>t</strong>
-                : La <strong>Zak</strong><strong>ā</strong><strong>t</strong> n’est ni la
-                dîme, ni l’aumône ou aumône légale comme la traduisent les orientalistes :
-                c’est une somme précise, prélevée sur des revenus déterminés, à donner à
-                des destinataires déterminés. Ces destinataires sont mentionnés dans la    <strong>Sūrah</strong> 9, Verset 60 (le Repentir) ; les revenus sont
-                désignés dans les <strong>0</strong><strong>adiths</strong> du Prophète.
-            </p>
-            <p>
-                <strong>Al</strong>
-                <strong><em>-</em></strong>
-                <strong>Anfāl</strong>
-                : Il n’existe pas d’équivalent, en français, pour ce terme (الانفال)
-                traduit généralement par “surérogatoires”, quand il s’agit des prières. Le
-                mot “butin” désigne ce qu’on prend aux ennemis pendant une guerre, après la
-                victoire, ou le partage de ce qui a été pris à l’ennemi. Alors que
-                “dépouilles” (au pluriel) désigne : ce qu’on enlève à l’ennemi sur le champ
-                de bataille. Le terme <strong>anfāl</strong><em> </em>comprend un sens
-                essentiel que l’on ne trouve point dans les deux termes précédents,
-                puisqu’il désigne : un gain dû à la guerre, comme conséquence, loin du
-                champ de bataille, et auquel on ne pensait point. Une sorte de
-                butin-aubaine.
-            </p>
-            <p>
-                <strong>Sūrah : </strong>
-                C’est la transcription phonétique la plus proche pour le mot سورة et non
-                pas Sourate, tel qu’il est usage de l’écrire. Le pluriel est    <strong>Suwar.</strong>
-            </p>
-            <p>
-                De même, nous avons rectifié la transcription des deux noms de villes,
-                d’une importance capitale pour les musulmans et que la transcription
-                “francisée” déforme. Nous adoptons <strong>Makkah</strong> pour la Mecque,
-                et <strong>al</strong>-<strong>Madīnah</strong> pour Médine, dans l’espoir
-                de les voir rectifiés dans les textes français.
-            </p>
-            <p>
-                De même, l’extrême minutie avec laquelle le <strong>Qur’ān</strong> décrit
-                la formation de l’embryon, poussa le docteur Keith Moore, Professeur
-                d’anatomie et d’embryologie à l’Université d’Ottawa, au Canada, à déclarer,
-                lors du colloque tenu au Caire, en 1986, sur la persuasivité
-                <a
-                        href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn1"
-                        name="_ftnref1"
-                        title=""
-                >
-                    *
-                </a>
-                scientifique du <strong>Qur’ān</strong>, qu’il n’y a en aucune langue de
-                termes équivalents, en leur précision, à ceux qui décrivent la formation de
-                l’embryon dans le <strong>Qur’ān</strong>, et proposa de les introduire
-                dans le langage médical ou courant. C’est pourquoi nous adoptons cette
-                proposition pour les trois principaux termes :
-            </p>
-            <p>
-                <strong>Nu</strong>
-                <strong>ë</strong>
-                <strong>fah</strong>
-                : pour « gouttelette » de sperme, point de départ de toute formation
-                embryonnaire. Période qui s’étend du moment de la fécondation jusqu’au
-                sixième jour.
-            </p>
-            <p>
-                <strong>‘Alaqah</strong>
-                : pour « quelque chose qui s’accroche », qui désigne la fixation de l’œuf,
-                grâce à des villosités qui l’accrochent à l’utérus. Le pluriel est    <strong>‘alaq</strong>. Cette période s’étend du sixième jour jusqu’à la
-                troisième semaine.
-            </p>
-            <p>
-                <strong>Mu</strong>
-                <strong>å</strong>
-                <strong>ğ</strong>
-                <strong>ah </strong>
-                : pour « mâchure », étape au cours de laquelle se forment les somites ou
-                petites masses de tissus conjonctifs, de 42 à 45 paires, et qui ont
-                effectivement l’aspect de viande mâchée. Période qui s’étend de la
-                troisième à la septième semaine.
-            </p>
-            <p>
-                D’autres problèmes relèvent du substantif, quand il donne deux familles
-                distinctes de dérivés. Telle la racine <strong>ra</strong>    <strong>0</strong><strong>m</strong>, رحم qui comprend et “miséricorde” et
-                “matrice”, qu’on a vu plus haut avec le fameux “matricien” et “matriciel”
-                de Chouraqui ; ou le mot <strong>K</strong><strong>ā</strong>    <strong>fir </strong> (كافر) de <strong>Kafara</strong> (كفر). D’un côté il
-                désigne l’agriculteur, celui qui fourre le grain dans la terre, qui le
-                couvre ; d’un autre côté il désigne ce sens composé, largement usité dans
-                le <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, celui de
-                “mécréant-négateur de vérité”. On ne rencontre le premier qu’une seule fois
-                dans le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> (    <strong>Sūrah</strong> 57, Verset 20), et ne pas en tenir compte dénature
-                le texte.
-            </p>
-            <p>
-                D’autres problèmes sont soulevés quand on a affaire à un terme qui, dans la
-                langue cible, a gagné un sens particulier :
-            </p>
-            <p>
-                Le substantif الغيب (<strong>al-</strong><strong>ğ</strong>    <strong>aïb</strong>), est généralement traduit par “ l’inconnaissable ”,
-                “l’inconnu” ou “le mystère”, ce qui ne correspond point au sens précis du
-                terme, puisque ce domaine de l’au-delà est “connaissable” grâce au    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, il est “connu”
-                grâce à tous les versets qui le décrivent. Il n’est pas un “mystère”, non
-                seulement pour les connotations de ce terme avec le christianisme, mais
-                parce que chaque lecteur du <strong>Qur’ân </strong>saisira de quoi il
-                s’agit là-haut, comment sera le jugement, comment seront les récompenses et
-                les punitions. Le <strong>ğaïb, </strong>dans son ensemble, c’est la foi en
-                ce qui nous a été annoncé sur la Résurrection, le Paradis, l’Enfer et le
-                Jugement du Jour dernier. C’est le domaine de la Vie psychique, Astrale, le
-                monde de la perception extra sensorielle, qui existe en fait avec toutes
-                ses variétés et ses particularités mais qui nous est occulté dans cette vie
-                terrestre. C’est pourquoi nous avons préféré le mot « Occulte», avec un O
-                majuscule pour le différencier du sens restreint de l’occultisme, ou de
-                celui qui prend un sens méchant au pluriel seulement : les sciences
-                occultes.
-            </p>
-            <p>
-                Le substantif فلح (<strong>fala</strong><strong>0</strong><strong>a</strong>), duquel est formé le mot <strong>al-mufli</strong>    <strong>0</strong><strong>ûn</strong>, veut dire : couper ; fendre, surtout
-                fendre le sol ; labourer ; cultiver. C’est-à-dire faire les travaux
-                nécessaires pour rendre la terre plus fertile et améliorer ses productions.
-                Au sens figuré, cultiver veut dire : s’adonner à des études, chercher à se
-                perfectionner ; cultiver son esprit ; sa raison, son âme ; défricher la vie
-                et cultiver les mœurs ; conserver, entretenir, augmenter les relations, les
-                sentiments qui lient les personnes entre elles ; cultiver la connaissance,
-                l’amitié, la bienveillance et l’affection. C’est ce double sens, propre et
-                figuré, qui ressort du terme <strong>mufli</strong><strong>0</strong>    <strong>ūn</strong>. Et c’est dans toute l’étendue du terme que Voltaire
-                l’employa dans son fameux “cultiver son jardin”… C’est dans ce sens aussi
-                que nous l’avons traduit par “ceux qui cultivent” pour le différencier des
-                “cultivateurs” tout court.
-            </p>
-            <p>
-                Le superlatif, peu usité en français, fut-il absolu ou relatif, représente
-                un autre genre de problèmes, étant donné que la langue arabe connaît un
-                éventail plus large. Un des attributs d’Allah, par exemple, se présente
-                sous quatre degrés de supériorité, ce qui est assez fréquent en arabe :<strong>‘</strong><strong>ā</strong><strong>lem</strong> (عالم) ,    <strong>’</strong><strong>a</strong><strong>‘</strong><strong>lam</strong>
-                (أعلم) <em>, </em><strong>‘</strong><strong>a</strong><strong>lī</strong><strong>m</strong><em> </em>(عليم) , et <strong>‘all</strong>    <strong>ā</strong><strong>m</strong> (علام) , que nous avons traduit ,
-                respectivement , par : Très-Scient , Plus-Scient , Tout-Scient et
-                Omniscient.
-            </p>
-            <p>
-                Un autre degré de supériorité avec l’attribut العلى (<strong>al-‘Aliy</strong>) “le Haut”, sous sa forme superlative الأعلى (    <strong>al-A‘lā</strong>), qui veut dire le “Plus-Haut” n’a été donné par
-                personne, et l’on ne sait trop pourquoi toutes les traductions gardent le
-                même terme de “Très-Haut” ?!
-            </p>
-            <p>
-                Le trope ou الالتفات est une des figures de style qui sont très fréquentes
-                dans le <strong>Qur’ān</strong>. Une des solutions qui permet de surmonter
-                la difficulté de ce changement de personne en cours de propos est d’avoir
-                recours aux deux points, pour ne pas changer la forme ou le temps du verbe
-                en arabe.
-            </p>
-            <p>
-                Les problèmes suscités par les équivalents de la langue cible, dans la
-                traduction littérale, nécessitent une autre attention.
-            </p>
-            <p>
-                L’adjectif “dernier”, dans l’emploi nominal, prend le sens de “vil”.
-                L’expression française “le dernier des hommes” veut dire “l’homme le plus
-                misérable”. Quand cela concerne l’expression de آخر النبيين, que certains
-                traduisent littéralement par : “le dernier des Prophètes” au lieu de dire
-                “l’ultime Prophète”, on ne peut empêcher amertume et frustration qui ne
-                portent atteinte qu’au traducteur…
-            </p>
-            <p>
-                Tout à fait différent est le problème que soulèvent notre degré de
-                connaissances et la limite de notre logique. Il est des Versets face
-                auxquels le traducteur se cabre, n’ose pas traduire tout simplement et a
-                recours au subterfuge qui consiste soit à contourner le texte, soit à des
-                omissions. Tel le verset 43 de la <strong>Sūrah</strong> 24, disant :
-            </p>
-            <p>
-                « N’as-tu donc pas vu qu’Allah Pousse doucement les nuages, ensuite les
-                Rapproche entre eux, ensuite Il en Fait un cumulo-nimbus ? Alors tu vois
-                les charges électriques sortir de ses cavités, et Il Fait descendre du
-                ciel, <u>de sur des montagnes qui s’y trouvent, de la grêle</u>
-                <a
-                        href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn2"
-                        name="_ftnref2"
-                        title=""
-                >
-                    *
-                </a>
-                avec laquelle Il Atteint qui Il Veut et qu’Il Détourne de qui Il Veut. Peu
-                s’en faut que l’éclat de son éclair ne ravisse les vues ».
-            </p>
-            <p>
-                Inutile de dire que personne n’en a donné la traduction exacte, ne pouvant
-                peut-être pas concevoir qu’il puisse y avoir des montagnes de nuages au
-                sommet desquelles se trouve de la grêle !
-            </p>
-            <p>
-                Ce n’est qu’à partir de 1950 que les conceptions sur la formation de la
-                pluie attribuent un rôle prépondérant à des particules de glaces présentes
-                dans les parties supérieures, les plus froides, des nuages qui donnent la
-                pluie. Le cumulo-nimbus se présente en fait sous forme de montagne, dont le
-                sommet est couvert de cristaux de glace qui jouent un rôle fondamental dans
-                le déclenchement des précipitations, et donne généralement des averses de
-                pluies, de neige ou de grêle, parfois accompagnées de manifestations
-                orageuses.
-            </p>
-            <p>
-                Quant aux remarques qui concernent les règles à suivre pour la traduction
-                du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, elles sont
-                dues à ce que nous avons noté en cours de travail. Les transmettre à ceux
-                qui poursuivront ce chantier de la traduction du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, qu’aucun effort humain ne peut
-                combler, ne doit point être pris comme une critique, mais plutôt comme un
-                aide-mémoire.
-            </p>
-            <p>
-                Traduire le sens du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> nécessite du traducteur de tenir compte des points
-                suivants :
-            </p>
-            <p>
-                · Souvent le substantif arabe possède plusieurs sens, différents les uns
-                des autres, il est donc indispensable de choisir un sens déterminé grâce
-                aux ouvrages d’exégèse d’abord, ensuite d’avoir recours aux dictionnaires
-                de la langue. Tel le mot جزاء dont le sens en arabe comprend et “la
-                récompense” et “la punition”, selon le texte. Cela paraît ridicule de lire
-                en français que “Les malfaiteurs auront l’Enfer comme récompense”!
-                Traduction que l’on trouve partout.
-            </p>
-            <p>
-                · Tenir compte des subtilités de nuances, ou de sens, dans les synonymes et
-                les homonymes.
-            </p>
-            <p>
-                · Il est indispensable de tenir compte des tournures syntaxiques, sinon il
-                est impossible d’arriver à une traduction correcte, tel le Verset 137, de
-                la <strong>Sūrah</strong> 6 : « De même, leurs associés ont embelli à
-                beaucoup de polythéistes l’assassinat de leurs enfants, pour les faire
-                périr et pour les confondre dans leur religion (….) », où l’enjambement
-                renvoi le mot “associés” presque à la fin du verset.
-            </p>
-            <p>
-                · Quand le sens du vocable ou le choix de l’équivalent change selon le
-                destinateur désigné par l’énoncé : tel le mot مكر (<strong>makara</strong>
-                ), il prend le sens de “ruse” ou “ruser” quand il s’agit de personnes, mais
-                prend le sens de “planification” ou “planifier” quand il s’agit d’une
-                action se rapportant à Allah, tel le Verset 50 de la <strong>Sūrah</strong>
-                27.
-            </p>
-            <p>
-                · Il est indispensable de tenir compte de la foi Islamique pour saisir le
-                sens des expressions linguistiques, car nombreux sont les orientalistes qui
-                abordent le texte du point de vue lexique et tombent par-là dans des
-                erreurs ridicules, tel ce fameux «تبارك الله» (<strong>tab</strong>    <strong>ā</strong><strong>raka</strong><em> </em><strong>Allāhou)</strong>,
-                où le nom d’Allah dans cette formule est sujet d’un verbe actif, qui
-                sous-entend la profusion dans la bénédiction. Toutes les traductions
-                donnent : “Béni soit Allah” ou “Béni soit Dieu”! Alors qu’il faut traduire
-                par “Allah Combla de bénédictions”. Mais là aussi les traducteurs musulmans
-                ont suivi les pas des orientalistes, ou de l’expression courante en
-                français, sans jamais se demander : Béni par qui ? ! S’ils avaient suivi la
-                voyellisation correcte, ils auraient sûrement fait le choix adéquat.
-            </p>
-            <p>
-                De même pour le mot مخلص (<strong>Mo</strong><strong>h</strong>    <strong>li</strong><strong>4</strong>) qui veut dire “sincère” dans le sens
-                le plus courant. Mais quand la voyellisation de la lettre i est ouverte en
-                “a” : “مخلص” (<strong>mo</strong><strong>h</strong><strong>la</strong><strong>4</strong>)<em>,</em> comme dans le Verset 5 de la    <strong>Sūrah</strong> 19, cela veut dire : “pur”, ou “choisi pour être
-                protégé de toute erreur grave”.
-            </p>
-            <p>
-                · Tenir compte de la forme affirmative et de la forme intensive, comme pour
-                le Verset 12 de la <strong>Sūrah</strong> 36, « Nous, Nous Faisons revivre
-                les morts (…) » «إنا نحن نحى الموتى », et surtout sous sa forme de
-                complément absolu المفعول المطلق . C’est une des formes de rhétorique que
-                l’on rencontre souvent dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et qui consiste à répéter le nom verbal pour affirmer
-                le sens : une fois inclus dans le verbe, et une fois nettement pour
-                éloigner tout sens péjoratif.
-            </p>
-            <p>
-                La traduction de cette forme se fait soit par la répétition du verbe, soit
-                par la répétition du nom verbal, soit en employant un nom, un adjectif ou
-                un adverbe pour affirmer le sens. Tel le Verset 16 de la    <strong>Sūrah</strong> 17 « فدمرناها تدميراّ» que nous traduisons par : «
-                et Nous la Détruisîmes une vraie destruction ». Il est étonnant de voir que
-                personne n’a tenu compte de cette forme du complément absolu, qui revient
-                assez souvent dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n, </strong>comme figure de style très particulière et qui désigne
-                la réalisation effective de ce qui est dit.
-            </p>
-            <p>
-                · Il faut tenir compte de l’enjambement entre versets, en respectant le
-                verset en soi, sans changer l’ordre des versets ni les coupures du    <strong>Qur’ān</strong>.
-            </p>
-            <p>
-                · Il est important de prendre en considération les points d’arrêt à
-                l’intérieur du verset, tels qu’ils sont marqués par les différents signes
-                de ponctuations, car le sens risque d’être complètement détérioré, comme
-                pour le Verset 65 de la <strong>Sūrah</strong> 10 : « Et que ce qu’ils
-                disent ne t’afflige point ! Certes, l’invincibilité, en totalité,
-                appartient à Allah (...) ». Si le traducteur ne suit pas la ponctuation
-                juste, le verset prend le sens contraire : « Et que ce qu’ils disent ne
-                t’afflige point que l’invincibilité, en totalité, appartient à Allah » !
-            </p>
-            <p>
-                · Il ne faut point prendre de parti-pris de quelconque tendance dans
-                l’exégèse, tels ceux qui traduisent «أهل البيت» (gens de la maison), verset
-                33 de la <strong>Sūrah</strong> 33, par « les femmes du Prophète », ou par
-                « les enfants de ‘Ali et Fātima ». Ce rôle incombe à l’exégète et non pas
-                au traducteur.
-            </p>
-            <ul>
-                <li>
-                    Faire attention en traduisant les noms des <strong>Suwar</strong> qui,
-                    parfois, sont une partie ou un mot du verset, et qu’il faut traduire
-                    tel qu’il est décliné dans le verset, et non pas en tant qu’un vocable
-                    à part. La moindre erreur, là, est de mélanger féminin et masculin ou
-                    singulier et pluriel.
-                </li>
-            </ul>
-            <p>
-                Le nom de la <strong>Sūrah</strong> 77 « المرسلات » (    <strong>al-mursal</strong><strong>ā</strong><strong>t</strong>) , d’après
-                le contexte, doit être traduit au masculin pluriel “les Envoyés” et non pas
-                au féminin pluriel, tel qu’on le pense au premier abord. De même « النازعات
-                » (<strong>an-n</strong><strong>ā</strong><strong>zi‘ā</strong>    <strong>t</strong>), <strong>Sūrah</strong> 79, où il faut mettre “les
-                Arracheurs” et non pas “Celles qui arrachent” ou “les Arracheuses”, puisque<em>“</em><strong>al-mursalāt</strong>” désignent “les Vents” et “    <strong>an-n</strong><strong>ā</strong><strong>zi‘āt</strong>” désigne “les
-                Anges”.
-            </p>
-            <p>
-                · Au traducteur de réduire les commentaires dans le texte, ou au bas de la
-                page, au strict nécessaire.
-            </p>
-            <p>
-                · Tenir compte des conjonctions, des particules et des prépositions qui,
-                dans la langue arabe, sont souvent accolées au mot et donnent une variété
-                de nuances et de sens, surtout dans le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>.
-            </p>
-            <p>
-                · Tenir compte des locutions dont le nombre, dans le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, nécessite un travail à part, qui doit
-                servir de base ou de guide pour les traductions en langues étrangères.
-                Traduites littéralement, les locutions dénaturent le sens, surtout sous la
-                plume des orientalistes, comme pour l’expression : « حتى يأتيك اليقين » (<strong>0</strong><strong>attā</strong><strong> ya’tiyaka al-yaqīne</strong>) (Verset 99 de la    <strong>Sūrah</strong> 15), qui veut dire « jusqu’à la mort » alors que
-                Berque et autres traduisent par « jusqu’à ce que tu deviennes croyant »! Et
-                quand on apprend que ces paroles étaient adressées au Prophète, on se rend
-                compte de l’énormité de l’erreur.
-            </p>
-            <p>
-                · Tenir compte des exceptions de la grammaire : le serment en style négatif
-                est considéré comme le serment le plus solennel. Quiconque ne tient pas
-                compte de cette règle, saisirait mal la tournure de ce genre de versets,
-                tel « فلا أقسم » (verset 75 de la <strong>Sūrah</strong> 56), que toutes
-                les traductions rendent par : « Je ne jure point », alors qu’il faut dire :
-                « Je Jure formellement par…».
-            </p>
-            <ul>
-                <li>
-                    Tenir compte du verbe être en arabe “كان” (<strong>K</strong>        <strong>ā</strong><strong>na</strong>), généralement traduit par
-                    “était” ou “a été”. Quand il est en rapport direct avec le nom d’Allah,
-                    ou un pronom qui lui revient, il prend sans exception, une désignation
-                    de continuité dans le passé, le présent et le futur. Forme que nous
-                    avons rendue par : “Il A toujours Eté”.
-                </li>
-            </ul>
-            <p>
-                <strong></strong>
-            </p>
-            <p align="center">
-                <strong>D - Le travail effectué en cette traduction</strong>
-            </p>
-            <ul>
-                <li>
-                    Nous avons tenu compte de la lecture de £afs<em>,</em> d’après<strong>‘</strong>Ā4im<em>,</em> et la numérotation du        <strong>mus</strong><strong>0</strong><strong>af</strong><em> </em>
-                    officiel égyptien.
-                </li>
-            </ul>
-            <p>
-                · Pour l’exégèse, nous avons tenu compte de ce qui est fourni par les deux
-                grands exégètes al-Qur6ubî et ar-Rāzi.
-            </p>
-            <p>
-                · Nous avons consulté les traductions ci-haut mentionnées pour chaque
-                verset. C’est ce qui nous a permis de voir de près toutes les remarques
-                formulées.
-            </p>
-            <ul>
-                <li>
-                    Nous avons essayé de rendre le sens du <strong>Qur’</strong>        <strong>ā</strong><strong>n</strong> dans la plus grande clarté
-                    possible, sans avoir recours à des rajouts ou à des syntagmes, sauf
-                    dans des cas où cela était indispensable pour la compréhension,
-                    explications que nous avons mises entre parenthèses.
-                </li>
-            </ul>
-            <p>
-                · De même, les notes, les reports en fin de volume, ou les allusions à des
-                faits historiques ont été réduits au minimum.
-            </p>
-            <p>
-                La traduction s’efforce de suivre le mouvement du texte arabe dans la
-                mesure où le permet la syntaxe française. Par contre, il nous a paru utile
-                d’attirer l’attention du lecteur occidental sur quelques-uns des versets,
-                dont la science moderne a prouvé la véracité. Tel la S2rah 86 intitulée
-                AØ-ØĀRIQ. C’est l’étoile à neutrons ou pulsar (1969), dont la densité est
-                de 10 kg/cm³ i.e. cent millions de tonnes par centimètre cube, et dont le
-                rayon atteint 10 km environ. L’étoile à neutrons tourne sur son axe à
-                grande vitesse, en émettant régulièrement des signaux de forte intensité,
-                des pulsations régulières, d’où son appellation de pulsar, mot dérivé de
-                l’anglais: pulsating star. La densité de cette étoile est difficile à
-                concevoir: un ballon de football par exemple, de cette matière à neutrons,
-                pèserait cinquante mille billions de tonnes: placé sur la terre, ou sur
-                n’importe quelle autre planète, il la perforerait avec la même facilité
-                qu’une bille de plomb perforerait un amas de farine, laissant derrière elle
-                un trou du même format que la bille!!
-            </p>
-            <p>
-                C’est une des caractéristiques du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, qui ne contient en fait aucune affirmation qui puisse
-                être critiquable du point de vue scientifique à l’époque moderne.
-            </p>
-            <ul>
-                <li>
-                    Les lettres isolées qui président vingt-neuf <strong>Suwar</strong> ou
-                    qui représentent le nom de certaines d’entre elles, ont été transcrites
-                    tout simplement.
-                </li>
-                <li>
-                    Les versets probables (<strong>muta</strong><strong>š</strong>        <strong>ābihāt</strong>, voir <strong>Sūrah</strong> 3, verset 7) ont
-                    été interprétés selon la croyance des musulmans, qui vise à la
-                    sanctification d’Allah de tout anthropomorphisme.
-                </li>
-            </ul>
-            <p>
-                · Nous avons maintenu le nom d’ « Allah » dans sa transcription phonétique
-                arabe, et non pas « Dieu », car un nom propre ne se traduit pas mais on le
-                transcrit. Puis, la conception théologique diffère dans ces deux
-                appellations :
-            </p>
-            <p>
-                Pour les chrétiens, Dieu est une trinité, une trinité qui tourne de nos
-                jours vers une christologie plus accentuée, vers l’adoration d’un être
-                humain, déifié par l’Église en 325 au 1<sup>er</sup> concile de Nicée ! Ce
-                qui représente, pour les musulmans, une forme de polythéisme inadmissible
-                ou inconcevable. Alors qu’Allah est Unique, rien ne lui est semblable.
-            </p>
-            <p>
-                Ce credo est l’inébranlable pivot du monothéisme auquel nous, les
-                musulmans, croyons fermement, et c’est ce qui constitue le vrai désaccord
-                ou l’irrémédiable fissure entre chrétiens et musulmans, et c’est ce qui
-                explique cette sourde haine qui pousse le fanatisme ecclésial à lutter
-                contre l’Islam avec un acharnement sans pareil, – le    <strong>Qur’ān</strong> renfermant en fait les irréfutables preuves des
-                manipulations qu’a subies le christianisme.
-            </p>
-            <p>
-                · Nous tenons compte de la langue source, et non cible, quitte à donner des
-                tournures inusitées, des répétitions, ou même des lourdeurs de styles. La
-                concordance des temps n’a pas toujours été respectée dans la même phrase,
-                en français, afin de rester fidèle au texte arabe.
-            </p>
-            <p>
-                · Nous avons eu recours des fois à l’emploi d’un nom classé “vieux” ou
-                “rare” dans les Dictionnaires, pour être toujours plus fidèle au texte du    <strong>Qur’ān</strong>.
-            </p>
-            <p>
-                · Les verbes et les pronoms qui se rapportent à Allah seront écrits en
-                majuscules pour faciliter la distinction sans ajouter des notes
-                explicatives.
-            </p>
-            <p>
-                Pour le travail de la langue arabe, nous avons eu recours au<strong>Lexique répertorié des</strong> <strong>termes du</strong>    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> par Mu0ammad
-                Abdel-Bāqi ; le <strong>Dictionnaire des particules et des pronoms</strong>    <strong>dans le saint Qur’</strong><strong>ā</strong><strong>n</strong>,
-                par Dr Ismaïl ‘Amāyreh ; le <strong>Dictionnaire des graphèmes et</strong>    <strong>particules du Qur’</strong><strong>ā</strong><strong>n </strong>par
-                Mu0ammed £assan et Dr ‘Abdel-£amīd El-Sayed ; le<strong>Dictionnaire</strong> <strong>des termes du saint</strong>    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> par l’Académie de
-                langue arabe, au Caire ; le <strong>Dictionnaire des</strong><strong>termes du saint Qur’an </strong>par ‘Abdallah El-Nadawi ;<strong>les Synonymes dans le glorieux</strong> <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> par Mu0ammad Ma0moud Ghali.
-            </p>
-            <br clear="all"/>
-            <p align="center">
-                <strong>Néologismes Proposés</strong>
-                <a
-                        href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn3"
-                        name="_ftnref3"
-                        title=""
-                >
-                    <strong>*</strong>
-                </a>
-                <strong></strong>
-            </p>
-            <p>
-                Matination : Action de faire éclore le matin.
-            </p>
-            <p>
-                Miséricordeur : En parlant d’Allah, qui est Miséricorde et Octroie Sa
-                Miséricorde à tout le monde sans exception.
-            </p>
-            <br clear="all"/>
-            <p align="center">
-                <strong>EMPLACEMENT DU SIGNE DES PROSTERNATIONS</strong>
-            </p>
-            <p>
-                Sūrah 7 ( al-’A‘RĀF ) : Verset 206
-            </p>
-            <p>
-                Sūrah 16 ( an- NA£L ) : Verset 49
-            </p>
-            <p>
-                Sūrah 17 ( al-ISRĀ’ ) : Verset 107
-            </p>
-            <p>
-                Sūrah 19 ( MARIAM ) : Verset 57
-            </p>
-            <p>
-                Sūrah 22 ( al-£AJJ ) : Verset 18
-            </p>
-            <p>
-                Sūrah 22 ( al-£AJJ ) : Verset 77
-            </p>
-            <p>
-                Sūrah 25 ( al-FURQĀN ) : Verset 60
-            </p>
-            <p>
-                Sūrah 27 ( an-NAML ) : Verset 25
-            </p>
-            <p>
-                Sūrah 32 ( as-SAJDAH ) : Verset 15
-            </p>
-            <p>
-                Sūrah 38 ( ÔAD ) : Verset 24
-            </p>
-            <p>
-                Sūrah 41 ( FOÔÔILAT ) : Verset 37
-            </p>
-            <p>
-                Sūrah 53 ( an-NAJM ) : Verset 62
-            </p>
-            <p>
-                Sūrah 84 ( al-INŠIQĀQ ) : Verset 21
-            </p>
-            <p>
-                Sūrah 96 ( al-‘ALAQ ) : Verset 19
-            </p>
-            <br clear="all"/>
-            <p align="center">
-                <strong>Système de transcription</strong>
-            </p>
-            <p>
-                Ô = ص ’ =ء
-            </p>
-            <p>
-                ‘ = ع A = أ
-            </p>
-            <p>
-                F = ف B = ب
-            </p>
-            <p>
-                Õ = ض J = ج
-            </p>
-            <p>
-                Q =ق D = د
-            </p>
-            <p>
-                R = ر H =هـ
-            </p>
-            <p>
-                S = س W = و
-            </p>
-            <p>
-                T = ت Z = ز
-            </p>
-            <p>
-                T = ث £ = ح
-            </p>
-            <p>
-                H = خ Ø = ط
-            </p>
-            <p>
-                D = ذ Y = ي
-            </p>
-            <p>
-                Û = ظ K = ك
-            </p>
-            <p>
-                Ğ = غ L = ل
-            </p>
-            <p>
-                Š = ش M = م
-            </p>
-            <p>
-                N = ن
-            </p>
-            <p>
-                Les voyelles longues seront surmontées d’un tiret : ā ī ū
-            </p>
-            <div>
-                <br clear="all"/>
-                <hr align="left" size="1" width="33%"/>
-                <div id="ftn1">
-                    <p>
-                        <a
-                                href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref1"
-                                name="_ftn1"
-                                title=""
-                        >
-                            *
-                        </a>
-                        Nous préférons ce terme à « inimitabilité », qui porte plutôt sur
-                        le côté linguistique, alors que la persuasion scientifique est plus
-                        proche de la réalité du texte qur’ānique.
-                    </p>
-                </div>
-                <div id="ftn2">
-                    <p>
-                        <a
-                                href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref2"
-                                name="_ftn2"
-                                title=""
-                        >
-                            *
-                        </a>
-                        C’est nous qui soulignons.
-                    </p>
-                </div>
-                <div id="ftn3">
-                    <p>
-                        <a
-                                href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref3"
-                                name="_ftn3"
-                                title=""
-                        >
-                            *
-                        </a>
-                        Ce n’est point par pédantisme que nous proposons ces néologismes,
-                        mais avec l’intention d’être aussi fidèle que possible au texte du
-                        Qur’ān, et afin d’éviter un pléonasme inutile dans la traduction.
-                    </p>
-                </div>
+        {{--<div class="translate-content">--}}
+            {{--<p align="center">--}}
+                {{--Le Qur’ān--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>Traduction du sens de ses Versets</strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="left">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--Par--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>ZEINAB ABDELAZIZ</strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--Professeur émérite de civilisation française--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--Université Al-AZHAR, Université Ménoufiya--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--2010--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--a    <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>INTRODUCTION</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>A- Pourquoi Cette Traduction ?</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Est-il besoin d’une nouvelle traduction du <strong>Qur’</strong>    <strong>ā</strong><strong>n </strong>en langue française ? L’affirmative--}}
+                {{--s’impose dans la mesure où l’on peut dire, sans grand risque d’erreur, que--}}
+                {{--toutes celles qui existent déjà laissent à désirer... L’éventail des--}}
+                {{--égarements s’étend de la simple inattention jusqu’aux altérations--}}
+                {{--préméditées, en passant par toutes les difficultés que la langue arabe--}}
+                {{--présente au traducteur.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il ne s’agit pas de reproches inutiles, fussent-ils fondés, ou de--}}
+                {{--discussions stériles, mais de remarques objectives que chacun peut--}}
+                {{--constater dans leurs grandes lignes :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Un manque de respect dû au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> et à sa particularité de Texte Révélé, chez les uns ;--}}
+            {{--</p>--}}
+            {{--<span id="dots">...</span>--}}
+            {{--<span id="more" style="display: none;" >--}}
+            {{--<p>--}}
+                {{--· Un Manque de probité scientifique, chez d’autres, qui va jusqu'à--}}
+                {{--dénaturer le texte et avoir recours à une terminologie avilissante, surtout--}}
+                {{--quand le choix se présente, telle la traduction d’A. Chouraqui ;--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· L’incapacité, chez certains, de saisir le sens du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ou les grandes affinités de ses--}}
+                {{--nuances et leurs variations ;--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· La plupart des traducteurs ont recours à une sorte de commentaire ou de--}}
+                {{--rajout qui vient doubler la traduction, ce qui submerge le texte de--}}
+                {{--périphrases des fois sans rapport avec le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ;--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Le grand écart qui se trouve entre l’étendue des deux langues, les--}}
+                {{--caractéristiques de l’arabe lui permettant d’être des dizaines de fois plus--}}
+                {{--vaste que le français. Ce que l’on verra un peu plus loin.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Une remarque essentielle reste à faire : la différenciation entre les--}}
+                {{--traductions effectuées par des orientalistes, et celles qui ont été--}}
+                {{--réalisées par des musulmans. Différenciation qui s’impose, par la force des--}}
+                {{--choses, et qui les divise en deux groupes distincts, ne serait-ce que dans--}}
+                {{--le but de leur réalisation. C’est déjà tout dire, puisque le but d’une--}}
+                {{--trajectoire comporte en soi toutes les modalités à suivre…--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Nul n’ignore, en fait, que dès les primes débuts de l’expansion de l’Islam,--}}
+                {{--les attaques commencèrent pour ne plus s’arrêter. Envisagé d’abord comme un--}}
+                {{--schisme hérétique chrétien, dans la lignée des Marcion, Mani, Arius et tant--}}
+                {{--d’autres, qui avaient tous été contre la déification de Jésus, les pages--}}
+                {{--que lui consacre Jean Damascène (env.650 - 750 env.) dans son ouvrage--}}
+                {{--capital intitulé <strong>Source de la Connaissance</strong>, chapitre des--}}
+                {{--hérésies, seront un intarissable réservoir d’idées erronées et d’images--}}
+                {{--déformées, duquel se nourrira l’Occident pour l’imposer, le long des--}}
+                {{--siècles et jusqu'à nos jours, avec un acharnement grandissant.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’un autre côté, la même image déformée de l’Islam, du Prophète Mu0ammad et--}}
+                {{--des musulmans, à laquelle s’ajoutera l’esprit de croisade, servira de trame--}}
+                {{--sur laquelle sera tissée “laborieusement” la première traduction du<strong>Qur’</strong><strong>ā</strong><strong>n</strong> au début du XII    <sup>ème </sup>siècle. C’est ce que démontre la lettre que Pierre le--}}
+                {{--Vénérable adressa à saint Bernard, avec une copie de la traduction--}}
+                {{--effectuée par Robert de Rétines, assisté par des moines des Citeaux. Et--}}
+                {{--cela, pour « le besoin d’effacer de l’esprit de convertis musulmans, tout--}}
+                {{--vestige de leur foi première », comme l’écrit R. Blachère à la page 9 de--}}
+                {{--son ouvrage intitulé <strong>le Coran</strong> (1966). Autrement dit,--}}
+                {{--fanatisme ecclésial des uns, et préméditation obstinée des autres,--}}
+                {{--chantèrent à l’unisson pour mettre à point une falsification voulue--}}
+                {{--éternelle !..--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ainsi, la traduction du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, effectuée par des orientalistes ou par des membres du--}}
+                {{--clergé, ne déviera point de cette règle, et s’inscrira dès lors dans une--}}
+                {{--attitude de polémique contre l’Islam. Et pour comble, elle aura pour--}}
+                {{--critère : la réfutation de l’Islam à travers l’enseignement du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ! Ce qui montre à--}}
+                {{--quel point iront les altérations, les fabulations et tout ce à quoi pourra--}}
+                {{--s’ingénier un esprit d’attaque et de haine mal fondée, et à quel point--}}
+                {{--iront les acrobaties pour les imposer…--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De même, le siècle des Lumières puisa toutes ses connaissances et son--}}
+                {{--aversion dans ces écrits contre l’Islam et surtout contre le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, séculairement et--}}
+                {{--méthodiquement attaqué par la chrétienté. Connaissances et aversion qui,--}}
+                {{--non seulement nourriront les générations suivantes, mais finiront par--}}
+                {{--former, instinctivement, un tempérament quasi inné de la nature--}}
+                {{--occidentale, une attitude de refus aveugle face à tout ce qui tient de--}}
+                {{--l’Islam.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Si tels étaient les buts et les conséquences des traductions entreprises--}}
+                {{--par les orientalistes, ce qui constitue le premier groupe, celles qui ont--}}
+                {{--été réalisées par les musulmans partent bien sûr d’une optique différente,--}}
+                {{--visant à rectifier cette image traditionnellement faussée et maintenue de--}}
+                {{--père en fils, si l’on peut dire ...--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De là, les réserves qui concernent ce second groupe de traductions portent--}}
+                {{--plutôt sur un autre domaine : celui de la langue française.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sachant qu’elle n’est pas leur langue maternelle, même si certains d’entre--}}
+                {{--eux vivent en France ou y ont suivi leur formation, l’ensemble de ces--}}
+                {{--traducteurs ont eu recours aux travaux de leurs confrères, étant les--}}
+                {{--possesseurs de la langue, pour s’orienter dans leur propre travail. Ce qui--}}
+                {{--est normal pour tout travail académique. Mais outre les copies, certains--}}
+                {{--glissèrent sans se rendre compte, et firent usage des mêmes erreurs--}}
+                {{--malignement camouflées, à ne citer que celui qui copia la fameuse--}}
+                {{--expression de J. Berque, disant qu’Allah “se repent ” au lieu de dire qu’Il--}}
+                {{--est Rémissif ! Il est vrai que le verbe يتوب (<strong>yat</strong>    <strong>ū</strong><strong>b</strong>), en arabe, veut dire “se repentir”--}}
+                {{--quand il est employé par ou pour un être humain ; et en arabe toujours, le--}}
+                {{--même verbe, employé pour désigner Allah, prend tout de suite et sans la--}}
+                {{--moindre hésitation, le sens de “faire rémission”. Pour un musulman, ce--}}
+                {{--choix de l’un ou de l’autre sens se fait spontanément, selon le contexte ;--}}
+                {{--pour un orientaliste qui cherche à dénaturer et à frauder, l’exemple de J.--}}
+                {{--Berque passe pour identique !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Un autre exemple moins grave, du point de vue théologique, et qui a passé--}}
+                {{--presque dans toutes les traductions, le choix de certains vocables, tel le--}}
+                {{--mot “répudiation” pour طلاق, alors que l’équivalent correct existe en--}}
+                {{--français, c’est “divorce”. La différence entre les deux termes de la langue--}}
+                {{--cible est que “divorce” représente un fait déterminé, alors que--}}
+                {{--“répudiation” sous-entend, pour la femme, l’humiliation d’être chassée. Ce--}}
+                {{--qui porte atteinte à la réalité de l’Islam et à son attitude par rapport à--}}
+                {{--la femme.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ce n’était là qu’un simple exemple du “jeu” mené par ces fameux--}}
+                {{--orientalistes, dont presque pas une page de leurs traductions n’est--}}
+                {{--exempte.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Demeure un problème majeur. Vu la différente étendue des deux langues, on--}}
+                {{--ne peut vraiment effectuer une traduction satisfaisante du sens du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, en langue--}}
+                {{--française, sans avoir recours au néologisme. C’est une nécessité dont tous--}}
+                {{--ceux qui on abordé ce domaine se sont sûrement rendu compte. Mais cette--}}
+                {{--nécessité objective, qui peut donc l’assumer ? Ceux qui passèrent quatorze--}}
+                {{--siècles à maintenir une manipulation délibérée du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> ? Vont-ils avoir le souci de formuler--}}
+                {{--des néologismes afin de donner une image aussi près que possible d’un texte--}}
+                {{--qu’ils cherchent à éliminer de sur terre ? !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’un autre côté, les musulmans osent rarement aborder le domaine, et pour--}}
+                {{--cause, sachant à quel point des cheveux se hérisseraient, rien qu’à l’idée--}}
+                {{--!--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Telle était, en ses grandes lignes, la raison pour laquelle la tentative de--}}
+                {{--cette traduction s’imposait. Cela ne diminue en rien l’effort fourni par--}}
+                {{--ceux qui nous ont précédés sur cette voie.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Cependant, demeure l’espoir… L’espoir qu’un linguiste, ou un membre de--}}
+                {{--l’Académie, aura le courage de surmonter cette barrière de haine ou de--}}
+                {{--répulsion, séculairement et injustement implantée, pour prendre en charge--}}
+                {{--la formation de néologismes adéquats ! Tâche doublement ardue, mais combien--}}
+                {{--humanitaire et scientifique.--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>B - Les Traductions Précédentes</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Les traductions intégrales que nous avons pu obtenir et consulter sont les--}}
+                {{--suivantes, classées selon leur date de publication :--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Du Ryer : <strong>l’Alcoran de Mahomet</strong>, 1647--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Savary : <strong>Le Koran</strong>, 1783--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Kazimirski, B. : <strong>Le Coran</strong>, 1840--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Montet, E. : <strong>Le Coran</strong>, 1929--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Laïmech, A. : <strong>Le Coran</strong>, 1931--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Pesle, O. &amp; Tidjani, A. : <strong>Le Coran</strong>, 1954--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Blachère, R. : <strong>Le Coran</strong>, 1966--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Masson, D. : <strong>Le Coran inimitable</strong>, 1967--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Ma0moud, N.ben : <strong>Le Coran</strong>, 1976--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Grosjean, J. : <strong>Le Coran,</strong> 1979--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--· Kechrid, S.E.: <strong>Al-Qur’</strong><strong>ā</strong>    <strong>n Al-Karim</strong>, 1984--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Boubakeur, H. : <strong>Le Coran</strong>, 1985--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Ahmad, M.T. : <strong>Le Saint Coran</strong>, 1985--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--£amidullah, M. : <strong>Le Saint Coran</strong>, 1986--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Khawam, R. : <strong>Le Coran</strong>, 1990--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Berque, J. : <strong>Le Coran</strong>, 1990--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Chouraqui, A. : <strong>Le Coran</strong>, 1990--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Complexe du roi Fahd : <strong>Le Saint Coran</strong>, 1994--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Maziegh, S.: <strong>Le Coran</strong>, S.d.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--Comme on le voit, dix d’entre elles sont effectuées par des orientalistes,--}}
+                {{--une est réalisée en collaboration entre un orientaliste et un musulman, et--}}
+                {{--huit sont faites par des érudits musulmans ou par des institutions--}}
+                {{--islamiques.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il n’est pas lieu ici de faire un compte rendu de chacune d’entre elles et--}}
+                {{--dire le pour et le contre, mais là aussi distinction s’impose, entre les--}}
+                {{--deux groupes, pour montrer avec un peu plus de détails, les raisons pour--}}
+                {{--lesquelles les traductions des orientalistes sont critiquables, vu le--}}
+                {{--manque de probité scientifique préalable avec lequel ils entreprirent leurs--}}
+                {{--travaux.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De là, on peut dire globalement que toutes leurs traductions, sans--}}
+                {{--exception, s’élancent du même point de départ : refuser le fait que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> est une--}}
+                {{--Révélation divine, assurer que le Prophète Mu0ammad en est l’inventeur,--}}
+                {{--dénier qu’il était analphabète, prouver qu’il a copié ou pastiché les--}}
+                {{--anciens, démontrer que ce <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> ne contient aucune loi, qu’il n’est, au fond, qu’un amas--}}
+                {{--de propos ridicules et d’absurdités, pour arriver tous, plus ou moins, à la--}}
+                {{--même fin : que c’est un ouvrage de balivernes à rejeter…--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Et si le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ne leur--}}
+                {{--facilite pas cette “mission” par l’intermédiaire d’un choix de termes--}}
+                {{--déterminés, les notes et les commentaires au bas des pages, et les--}}
+                {{--introductions leur donnent amplement l’espace pour en fausser ou dénaturer--}}
+                {{--le sens.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Toutes, aussi, chantent à l’unisson pour avoir recours à la même technique--}}
+                {{--: camoufler ou réfuter les versets qui dénoncent le dogme de la Trinité, et--}}
+                {{--ceux qui prouvent les manipulations desquelles a souffert la Bible--}}
+                {{--originale – celle de Jésus – sous toutes les formes : déplacement de mots,--}}
+                {{--altérations, falsifications, etc. Et surtout les versets qui accusent la--}}
+                {{--déification de Jésus. De même, tous ces auteurs s’accordent pour éliminer--}}
+                {{--toute ressemblance de données principales, le monothéisme étant un et seul--}}
+                {{--message : l’Unicité d’Allah.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le choix des vocables passe sous le même paradigme. Le mot “paradis”, par--}}
+                {{--exemple, ne paraîtra presque pas dans ce groupe de traductions, mais on lui--}}
+                {{--substituera le mot “jardin”. Même procédé que pour le verbe “se repentir”--}}
+                {{--qu’on a vu plus haut, le mot جنة (<strong>jannah</strong>) en arabe--}}
+                {{--désignant les deux : et paradis, et jardin. C’est le contexte qui décide,--}}
+                {{--qui oriente le choix instantanément.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Telle est, en ses grandes lignes, l’orientation préméditée, suivie par les--}}
+                {{--orientalistes. La différence qui se trouve entre chacune de leurs--}}
+                {{--traductions n’est, en fait, que différence de style et de contournement,--}}
+                {{--mais le commun dénominateur demeure le même.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le rapport présenté par le Comité chargé de réviser la    <strong>Traduction du Coran, </strong>faite par J. Berque, en est--}}
+                {{--représentatif et révèle à quel point on peut dire que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> n’a jamais été--}}
+                {{--présenté avec probité par les orientalistes, dans aucune langue européenne,--}}
+                {{--ni d’une façon qui le rende véritablement compréhensible. Le résumé suivant--}}
+                {{--en dit assez.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Nommé par feu Šeih Gad El-Haq ‘Ali Gad El-Haq, Grand Imam d’Al-Azhar, par--}}
+                {{--l’Arrêté No 402 de 1995, daté du 26 juin 1995, ce Comité comprenait :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr Mostapha El-Chak‘ā, Doyen de la Faculté de Lettres à l’Université de--}}
+                {{--‘Ain Chams, membre de l’Institut des recherches Islamiques, grand ami et--}}
+                {{--collègue de Jacques Berque.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr Mu0ammad Badr, Professeur des systèmes juridiques à l’Université de--}}
+                {{--‘Ain Chams.--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--L’ambassadeur A0madein Khalil, islamologue et francophone.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--· Dr Mu0ammad Mehanna, Professeur de loi à la Faculté de Loi.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr Zeinab Abdelaziz, Professeur de Civilisation et chef du Département de--}}
+                {{--langue et de littérature françaises, à la Faculté de Lettres de Chébine--}}
+                {{--El-Kōm, et auteur de l’ouvrage intitulé    <strong> les Doubles faces de Jacques Berque</strong>.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le rapport collectif présenté par ce Comité, était accompagné de trois--}}
+                {{--rapports personnels, par :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr A0mad El-Bossāti, Doyen de la Faculté des Etudes Arabes et Islamiques--}}
+                {{--à l’Université Al-Azhar.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr ‘Ali Gom‘ā, Professeur des Règles de Jurisprudence à l’Université--}}
+                {{--Al-Azhar.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Dr Ma0moud ‘Azab, maître de conférence à l’Université Al-Azhar, d’un--}}
+                {{--parti pris déclaré pour J. Berque, mais qui proposa l’élimination complète--}}
+                {{--de l’essai qui fait suite à la <strong>Traduction du Coran</strong> de--}}
+                {{--Berque, car «il porte gravement atteinte à son auteur » !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le rapport collectif a été publié le 21 Mars1997 dans le journal “    <strong>Al-Cha‘b</strong>”, et comprend quinze sortes de remarques :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--1 <strong><u>Ignorance de la langue arabe</u></strong> : Saisissant mal les--}}
+                {{--profondeurs de la langue arabe et ses possibilités uniques, lisant mal les--}}
+                {{--voyellisations, il se permet d’aboutir à des résultats avec lesquels il--}}
+                {{--critique le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> ou--}}
+                {{--fait de l’exégèse, alors qu’il n’en possède pas les données élémentaires.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>2 </strong>--}}
+                {{--<strong><u>Incompréhension du texte qur’ā</u></strong>--}}
+                {{--<strong><u>nique </u></strong>--}}
+                {{--: Vu son ignorance de la langue arabe, de ses règles de grammaire, de sa--}}
+                {{--rhétorique, et par-là : la lecture correcte, il commet des erreurs,--}}
+                {{--controuve, formule de faux arguments pour prouver que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> renferme des--}}
+                {{--fautes linguistiques impardonnables et injustifiables ! <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>3 </strong>--}}
+                {{--<strong><u>Manque de Probité scientifique </u></strong>--}}
+                {{--: Il mutile les références des anciens exégètes, remet en cause--}}
+                {{--l’historicité du texte pour le mettre à pied d’égalité avec les Evangiles--}}
+                {{--et aboutir, par là, à la conclusion que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est écrit par des humains et n’est--}}
+                {{--point Révélé par Allah. De même, il a recours à des citations amputées,--}}
+                {{--qu’il place hors de leur contexte, pour prouver ses propres fabulations,--}}
+                {{--tel ce fameux «pour tout Ecrit un terme» (p.787)<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>4 </strong>--}}
+                {{--<strong><u>Traduction erronée </u></strong>--}}
+                {{--: Il a recours à des mots et des expressions qui n’expriment point le sens--}}
+                {{--du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, qui révèlent--}}
+                {{--une ignorance scandaleuse de la langue arabe et une mauvaise intention--}}
+                {{--préméditée, à ne citer que la traduction du nom de la    <strong>Sūrah</strong> 30 «<strong>Al-Rūm</strong>» par «Rome », la--}}
+                {{--capitale d’Italie, alors que le terme désigne les Romains ! Et de surcroît,--}}
+                {{--il ajoute au bas de la page : «Nous disons pour des raisons d’euphonie--}}
+                {{--“Rome” où il faudrait bien sûr “les Byzantins” (p.431) !<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>5 </strong>--}}
+                {{--<strong><u>Le mot “</u></strong>--}}
+                {{--<strong><u>Qur’ā</u></strong>--}}
+                {{--<strong><u>n”</u></strong>--}}
+                {{--<strong><u> </u></strong>--}}
+                {{--: Il ne suit même pas les règles élémentaires de la traduction en ce qui--}}
+                {{--concerne un seul et même mot, mais a recours à des variations pour le mot    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>. Ce qui déroute--}}
+                {{--le lecteur et révèle un manque de sérieux.<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>6 </strong>--}}
+                {{--<strong><u>“</u></strong>--}}
+                {{--<strong><u>Allah dans le Coran”</u></strong>--}}
+                {{--<strong><u> </u></strong>--}}
+                {{--: Il présente Allah sous une forme terrifiante, toute de contradictions, en--}}
+                {{--précisant : “dans le Coran”, comme s’il s’agissait d’une théorie quelconque--}}
+                {{--! Et par comble de ridicule, il ajoute : “Il possède une sorte de bilarité--}}
+                {{--dans ses rapports avec la créature : Il est heureux d’être loué, Il prie,--}}
+                {{--il se repent” ! (p.791).<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>7 </strong>--}}
+                {{--<strong><u>Le recensement du Qur’ā</u></strong>--}}
+                {{--<strong><u>n </u></strong>--}}
+                {{--: Il s’évertue à prouver que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> a été falsifié lors du recensement, et de la--}}
+                {{--voyellisation, et qu’il porte, jusqu’à nos jours, les traces de ces--}}
+                {{--manipulations !<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>8 </strong>--}}
+                {{--<strong><u>L’aspect humain du Qur’ā</u></strong>--}}
+                {{--<strong><u>n </u></strong>--}}
+                {{--: Il assure à plusieurs endroits que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est écrit par le Prophète, influencé--}}
+                {{--par la poésie antéislamique, la pensée grecque et les Psaumes de David.    <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>9 </strong>--}}
+                {{--<strong><u>Le Qur’ā</u></strong>--}}
+                {{--<strong><u>n “</u></strong>--}}
+                {{--<strong><u>poésie ancienne”</u></strong>--}}
+                {{--<strong><u> </u></strong>--}}
+                {{--: Il trouve que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> est une sorte de poésie ancienne, fait le rapprochement--}}
+                {{--avec Parménide duquel, dit-il, le Prophète s’est inspiré pour écrire la<strong>Sūrah</strong> de <strong>l’Unicité</strong><strong>d’Allah</strong>, puis assure que si le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> était soumis à la linguistique moderne--}}
+                {{--et ses théories, de nombreuses <strong>Suwar</strong> perdraient leur--}}
+                {{--valeur ! <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>10 </strong>--}}
+                {{--<strong><u>Critique et évaluation du Qur’ā</u></strong>--}}
+                {{--<strong><u>n </u></strong>--}}
+                {{--: Il use des données erronées pour dire que le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> est venu en une place déterminée, pour--}}
+                {{--une époque déterminée, et pour des conditions humaines précises. Et comme--}}
+                {{--ces conditions changent et évoluent, on se doit de changer et faire évoluer--}}
+                {{--le texte du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, car--}}
+                {{--sa “fixité” à travers le temps est une de ses tares !<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>11 </strong>--}}
+                {{--<strong><u>Critique des </u></strong>--}}
+                {{--<strong><u>0</u></strong>--}}
+                {{--<strong><u>adiths et de la Sunna </u></strong>--}}
+                {{--: Il voit que les <strong>0</strong><strong>adiths</strong> et la    <strong>Sunna</strong> du Prophète ne sont que des analogies d’événements--}}
+                {{--historiques antécédents et propose de les délaisser, étant pleins de--}}
+                {{--lacunes, d’imprécisions, et manquant de véracité !<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>12 </strong>--}}
+                {{--<strong><u>Accusations des savants musulmans </u></strong>--}}
+                {{--: Il essaye de prouver qu’ils fraudèrent afin de faire prévaloir certains--}}
+                {{--sens dans le <strong>Qur’</strong><strong>ā</strong><strong>n</strong>,--}}
+                {{--alors que les orientalistes mettent à nu leurs subterfuges !    <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>13 </strong>--}}
+                {{--<strong><u>Réfutation qu’il y ait une loi dans le Qur’ā</u></strong>--}}
+                {{--<strong><u>n </u></strong>--}}
+                {{--: Il assure que le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> est un mélange obscur de religion, de morale, et le peu--}}
+                {{--qu’il contient de juridiction est obscur ou pris de Justinien ou d’autres.    <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>14 </strong>--}}
+                {{--<strong><u>Séparation de la Religion de l’Etat </u></strong>--}}
+                {{--: Il mésinterprète le sens des Versets pour dire que le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> prohibe le--}}
+                {{--pouvoir politique aux religieux musulmans, alors qu’en vérité le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> prohibe la--}}
+                {{--divination ou la prétention à la divinité.<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>15 </strong>--}}
+                {{--<strong><u>Ce à quoi il incite</u></strong>--}}
+                {{--: Avançant que l’Islam est une religion obscure, qui désigne la soumission,--}}
+                {{--qu’elle abonde de contradictions, il incite les musulmans à rectifier le--}}
+                {{--texte qur’ānique, à rechercher d’autres ressources pour la tradition,--}}
+                {{--basées sur la nature et non sur le “mystère”, répétant une dizaine de fois,--}}
+                {{--la nécessité de soumettre le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> à la critique historique, et à l’analyse de la--}}
+                {{--linguistique moderne, non seulement pour le débarrasser des falsifications--}}
+                {{--qui s’y trouvent – à son avis – mais pour lui faire une transposition dans--}}
+                {{--le présent, qui puisse permettre son intégration dans le monde moderne !    <strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le Comité termine le rapport en insistant sur le fait que ces données, qui--}}
+                {{--se perpétuent le long des 82 pages de cet essai, ne sont point fortuites,--}}
+                {{--mais représentent les lignes de base selon lesquelles il a tramé sa--}}
+                {{--traduction.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--A la suite d’un tel rapport, on se sent vraiment vexé, en sachant que--}}
+                {{--Jacques Berque était membre de l’Académie de Langue Arabe, du Caire, et--}}
+                {{--Professeur honoraire au collège de France ! D’ailleurs, c’est le seul mot--}}
+                {{--de passe avec lequel il coiffe son ouvrage !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Telles furent les raisons pour lesquelles la traduction de J. Berque a--}}
+                {{--provoqué un remous, sans pareil, en Egypte et dans le monde musulman dès sa--}}
+                {{--parution, et fut mise à l’index.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il n’est pas question de faire un commentaire pour toutes ces données--}}
+                {{--variablement abordées par les orientalistes, mais on ne peut omettre cette--}}
+                {{--exigence, perpétuée par Berque et autres, de soumettre le    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> à un examen de--}}
+                {{--critique historique, à lui appliquer les méthodes de la linguistique--}}
+                {{--moderne, et à le soumettre à une transposition dans le présent…--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Toute logique normale peut facilement concevoir que tous les procédés--}}
+                {{--d’analyse auxquels l’Occident est parvenu dans ses études linguistiques,--}}
+                {{--sont en rapport direct avec ses langues et ils leur conviennent--}}
+                {{--parfaitement, la source ou la base même des deux étant une et pour la--}}
+                {{--langue, et pour ces travaux de linguistique.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Quant aux procédés d’analyse linguistique qui conviennent à la langue--}}
+                {{--arabe, les musulmans les ont découverts dans les premiers siècles de--}}
+                {{--l’Islam, les appliquèrent au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et trouvèrent que c’est un livre d’une précision--}}
+                {{--extrême, d’un style inégalable tant sur le plan de la forme que du contenu.--}}
+                {{--C’est pourquoi les musulmans y tiennent fermement, à travers les âges, et y--}}
+                {{--croient foncièrement.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--L’Occident n’arrive pas à saisir cet état de chose, ayant lui-même souffert--}}
+                {{--d’une expérience juste à l’opposé, avec ses textes sacrés, qui n’ont cessé--}}
+                {{--de subir des manipulations jusqu’à nos jours, à ne citer que les tentatives--}}
+                {{--de Jean Paul II de “remanier” 70 strophes ou versets afin de réaliser cette--}}
+                {{--union de toutes les églises, qu’il veut sous l’égide du catholicisme--}}
+                {{--vaticanais, pour ne rien dire des contradictions que renferment les--}}
+                {{--Evangiles et qui sont carrément insurmontables.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--C’est pourquoi l’Occident n’arrive pas à saisir ce profond attachement qui--}}
+                {{--lie les musulmans au <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, ni cette immuable vénération qu’ils lui vouent. La--}}
+                {{--demande de Berque et ses semblables n’est donc qu’une erreur de méthode,--}}
+                {{--<u>--}}
+                    {{--car on ne peut point appliquer les règles de grammaire et les procédés--}}
+                    {{--d’analyse d’une langue sur une autre langue, surtout les disciplines--}}
+                    {{--d’une langue latine sur une langue sémitique.--}}
+                {{--</u>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Quant à la “transposition du <strong>Qur’</strong><strong>ā</strong><strong>n</strong> dans le présent”, autrement dit, à la manipulation du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, sur laquelle ils--}}
+                {{--insistent pour le faire concorder avec le présent ou avec la prétendue--}}
+                {{--modernité, non seulement il n’appartient à personne de toucher quoi que ce--}}
+                {{--soit de ce Texte Sacré, Saint, Immaculé et Inviolable, mais la seule--}}
+                {{--réplique à dire est ce Verset 9, de la <strong>Sūrah</strong> 15, disant :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--“C’est Nous, en fait, qui Avons Révélé le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, et Nous le Conservons à jamais”…--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>--}}
+                    {{--C- Problèmes de la traduction vers le français, et règles à suivre--}}
+                {{--</strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De longue date, la réflexion sur la traduction a été centrée sur des--}}
+                {{--oppositions binaires : langue source/langue cible ; texte original/texte--}}
+                {{--traduit ; littéralisme/traduction libre ; traduction de la--}}
+                {{--lettre/traduction de l’esprit. Ces polarités, qui ne sont point du même--}}
+                {{--ordre, mènent à un point essentiel : S’orienter vers le texte source ou--}}
+                {{--vers le texte traduit ? Cependant, quelles que soient les options ou les--}}
+                {{--difficultés, il existe toujours des opérations communes à toutes les--}}
+                {{--langues qui permettent d’établir des équivalences.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--En ce qui concerne la traduction du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, tenant compte des difficultés de la langue arabe, ses--}}
+                {{--particularités et ses caractéristiques, on ne peut se contenter de faire le--}}
+                {{--choix d’un seul système à suivre, mais on se doit d’avoir recours à tous--}}
+                {{--les procédés possibles de la traduction, selon le cas qui se présente, afin--}}
+                {{--de pouvoir donner une idée assez correcte du sens.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il est d’usage d’écrire, tout simplement, que la langue arabe est une--}}
+                {{--langue sémitique, qu’elle diffère des langues latines et qu’elle jouit--}}
+                {{--d’une grande flexibilité, dans la mesure où elle comprend une immense--}}
+                {{--étendue de dérivations.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--En fait, la différence entre l’idiome arabe et tout idiome européen réside--}}
+                {{--dans cette large envergure de la première, qui comprend, entre autres : une--}}
+                {{--grande maniabilité des tournures syntaxiques, une extrême souplesse de--}}
+                {{--grammaire, due à un système particulier de racines verbales et une variété--}}
+                {{--de nombreux dérivés. Ce qui permet une extraordinaire richesse de--}}
+                {{--vocabulaire et une subtilité de nuances qui ne peuvent être traduites--}}
+                {{--correctement sans avoir recours au néologisme.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il serait peut-être plus pratique de citer un exemple afin que le lecteur--}}
+                {{--saisisse ce que l’on entend par cette flexibilité peu connue. Les dérivés--}}
+                {{--qu’un verbe peut donner sont les suivants : la forme active : au prétérit--}}
+                {{--et à l’aoriste ; l’impératif ; le passif : au prétérit et à l’aoriste ; le--}}
+                {{--nom d’action; le nom d’unité ou de genre ; le nom d’agent ; le nom d’objet--}}
+                {{--ou nom d’action avec la lettre م (m) ; le nom de place et de temps. Soit--}}
+                {{--une dizaine de formes, chacune donnant lieu à huit modalités différentes.--}}
+                {{--Ce qui donne quatre-vingt moyens de dérivations pour un seul verbe. Le--}}
+                {{--chiffre se double presque en tenant compte des temps au féminin.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Notons que chacune de ces dérivations comporte une différence de sens ou de--}}
+                {{--nuance. Ce qui révèle non seulement l’étendue et la flexibilité de l’arabe,--}}
+                {{--mais l’importance et la stricte nécessité de tenir compte de la--}}
+                {{--voyellisation pour traduire correctement, sinon les erreurs se présentent--}}
+                {{--malgré toutes les bonnes volontés du traducteur. Est-il besoin d’ajouter--}}
+                {{--que bien des fois la langue française ne possède même pas le verbe ou--}}
+                {{--l’adjectif d’un substantif, ni la forme du duel ni le féminin de certaines--}}
+                {{--formes de conjugaison comme l’impératif et autres ?--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’un autre côté, la langue arabe possède une grande terminologie pour--}}
+                {{--marquer la différenciation précise des états variés, tel le Verset 103 de--}}
+                {{--la <strong>Sūrah</strong> 5, où il est question d’appellations--}}
+                {{--particulières pour le chameau, la chamelle ou la brebis. On trouve    <strong>ba</strong><strong>0</strong><strong>īra</strong>, pour la chamelle--}}
+                {{--ayant produit cinq fois, à laquelle on fendait l’oreille, indiquant qu’elle--}}
+                {{--était libre de paître partout, et qu’elle était consacrée à une idole ;    <strong>sā</strong><strong>’iba</strong>, pour la chamelle laissée en--}}
+                {{--liberté et consacrée à une idole ; <strong>wa</strong><strong>4ī</strong>    <strong>la</strong>, pour une brebis ayant donné naissance à des jumeaux--}}
+                {{--cinq fois de suite ; et <strong>0ā</strong><strong>m</strong>, pour un--}}
+                {{--chameau étalon ayant fécondé une chamelle dix fois de suite. N’ayant pas--}}
+                {{--d’équivalent en français, le traducteur se trouve devant faire face à trois--}}
+                {{--alternatives : traduire par un syntagme ou tout une phrase, transcrire--}}
+                {{--phonétiquement, ou chercher des néologismes.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le néologisme représente, en fait, un des grands problèmes. Nous y avons eu--}}
+                {{--recours dans la stricte mesure où cela était indispensable, surtout pour la    <strong>Basmalah</strong> (البسملة ), formule qui représente le nom d’Allah--}}
+                {{--et ses deux principaux attributs, que le musulman récite avant--}}
+                {{--d’entreprendre quoi que ce soit, et non seulement lors de la prière.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le verbe <strong>Ra</strong><strong>0</strong><strong>ima</strong> (رحم)--}}
+                {{--signifie faire miséricorde. <strong>Ra</strong><strong>0</strong><strong>mā</strong><strong>n</strong> (رحمن) et <strong>Ra</strong>    <strong>0ī</strong><strong>m</strong> (رحيم) sont deux noms-adjectifs,--}}
+                {{--presque synonymes, qui rendent l’idée de miséricorde. Cependant, le premier--}}
+                {{--qualifie celui qui fait l’action, le second revêt la forme la plus courante--}}
+                {{--du nom-adjectif “miséricordieux”. D’un autre côté, le mot    <strong>Ra</strong><strong>0</strong><strong>mā</strong><strong>n</strong>,--}}
+                {{--en arabe, ne s’applique qu’à Allah Seul, embrassant dans Sa miséricorde--}}
+                {{--tous les êtres sans distinction, alors que <strong>Ra</strong>    <strong>0ī</strong><strong>m</strong> veut dire “miséricordieux” dans un--}}
+                {{--sens plus restreint, envers seulement ceux qui méritent Sa miséricorde.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Comme il n’existe pas en français de mot qualifiant celui qui fait l’action--}}
+                {{--de miséricorde, comme “travailleur” pour celui qui fait le travail, il--}}
+                {{--était nécessaire de former le substantif-propre “Miséricordeur”, ne--}}
+                {{--s’appliquant qu’à Allah, afin de rendre la même forme stylistique de--}}
+                {{--l’arabe, où les deux noms-adjectifs sont basés sur la même racine, et pour--}}
+                {{--marquer la différence qu’il y a entre les deux substantifs : le premier--}}
+                {{--précisant Celui qui fait l’action, le second désignant Sa qualification.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Nous avons eu recours au même adjectif latin, puisque le même mot, selon--}}
+                {{--Grévisse, peut avoir deux dérivés synonymes. Ce qui donne la traduction la--}}
+                {{--plus proche de l’arabe du point de vue forme et contenu : بسم الله الرحمن--}}
+                {{--الرحيم : au Nom d’Allah, le Miséricordeur, le Miséricordieux.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’ailleurs, c’est le même travail qu’a essayé de faire André Miquel dans--}}
+                {{--son ouvrage intitulé “l’Evénement”, où il fait la critique de quelques--}}
+                {{--traductions de la <strong>Sūrah</strong> 56, qui porte le même nom, et dans--}}
+                {{--lequel il propose une nouvelle traduction pour la <strong>Basmalah</strong>--}}
+                {{--, qui soit de la même racine pour les deux termes, mais malheureusement il--}}
+                {{--part d’un autre substantif que “miséricorde”, et dit :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--«Autre problème, plus grave d’apparence, dit-il : “magnificent” n’existe--}}
+                {{--pas, si l’on se rapporte à l’usage. Une aubaine, au contraire, puisque ce--}}
+                {{--néologisme respecte le statut particulier de <em>ra</em><em>0</em>    <em>mā</em><em>n</em> et convient parfaitement à Dieu, à qui est réservée,--}}
+                {{--exclusivement, cette épithète, puisqu’Il est le “seul” à être absolument    <em>ra</em><em>0</em><em>mā</em><em>n</em>. En respectant ce “seul”, qui--}}
+                {{--souligne la différence de statut entre les deux épithètes, on propose donc--}}
+                {{--: «Au nom de Dieu, le seul Magnificent, le Magnanime» !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Est-il besoin de dire que cette proposition ne respecte même pas le statut--}}
+                {{--de la formule arabe puisqu’il a dû ajouter le mot “seul”. En outre, on ne--}}
+                {{--sait trop pourquoi monsieur Miquel n’est pas parti de la même racine--}}
+                {{--équivalente de l’arabe et qui existe en français, i.e. de “miséricorde” ?--}}
+                {{--Magnanime désigne : Enclin au pardon des injustes, alors que miséricorde--}}
+                {{--comprend le pardon, l’absolution complète du coupable. La différence est--}}
+                {{--grande.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Autrement triste et ridicule est la traduction d’André Chouraqui, qui--}}
+                {{--choisit un autre dérivé de la racine <strong>Ra</strong><strong>0</strong>    <strong>ima</strong>, qui, à part “miséricorde”, donne le mot “matrice” et--}}
+                {{--ses dérivés, et il écrit : matrice, matricien, et matriciel, « Allah--}}
+                {{--privilégie de ses matrices qui il décide » (p.57) !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Tel qu’on le voit, un des principaux problèmes de la traduction du    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, en français, est--}}
+                {{--le manque d’équivalences.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--En ce qui concerne les mots qui ne sont point employés en français hors de--}}
+                {{--leur désignation précise dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et dont le sens religieux islamique est leur raison--}}
+                {{--d’être, il nous a semblé plus logique de maintenir leur transcription--}}
+                {{--phonétique, tels les termes suivants :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Qur’ā</strong>--}}
+                {{--<strong>n</strong>--}}
+                {{--: Dans le Robert, dictionnaire historique de la langue française, on--}}
+                {{--trouve, à la suite du mot “Coran” : Emprunté à l’arabe “<strong>al-qur’ān</strong>” «la lecture par excellence», dérivé de “    <strong>qara’a</strong>”. Est-il lieu d’ajouter tous les changements qu’a--}}
+                {{--connus ce vocable sous la plume des orientalistes, de “ alchoran” et “--}}
+                {{--alcoran ” (fin XV s.) à “Koran” (1657) et autres, pour aboutir à cette--}}
+                {{--forme distordue de “Coran” ?--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ce qui est vraiment navrant, c’est le fait de voir que les Français savent--}}
+                {{--comment écrire la transcription phonétique exacte, comme on vient de le--}}
+                {{--lire, et pourtant on voit une drôle d’insistance à maintenir une--}}
+                {{--orthographe inadéquate, et ce qui plus est, on trouve à la page 15 de--}}
+                {{--l’ouvrage de Blachère, ci-haut mentionné : «Pour ne pas contrarier un usage--}}
+                {{--qui tend à se généraliser en France, on adoptera l’orthographe Coran » !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Là, on ne peut s’empêcher de demander : pourquoi insister à maintenir une--}}
+                {{--orthographe incorrecte, alors qu’il serait plus juste et plus honnête--}}
+                {{--d’adopter le plus représentatif, quitte à contrarier un usage qui manque de--}}
+                {{--probité ? Usage que l’on voit se répéter aussi avec le nom du Prophète--}}
+                {{--Mu0ammad, passant de Maometto, Mahomet, Baphomet, Mathomus, Mahom et autres--}}
+                {{--pour aboutir à cette forme déformée de “Mahomet” !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Il est vexant de voir comment tous les Français savent très bien écrire--}}
+                {{--“Mu0ammad”, quand il s’agit de toute autre personne que le Prophète !--}}
+                {{--N’est-il pas temps de “contrarier” tant d’usages erronés, qui ne se sont--}}
+                {{--généralisés que trop, grâce à un parti-pris borné et d’écrire correctement--}}
+                {{--le nom du Prophète ?!--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--En ce qui concerne cette traduction, nous adoptons l’orthographe “    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>”, qui est la plus--}}
+                {{--proche entre toutes de la prononciation arabe, dans l’espoir de la voir se--}}
+                {{--généraliser dans les textes français.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Zakā</strong>--}}
+                {{--<strong>t</strong>--}}
+                {{--: La <strong>Zak</strong><strong>ā</strong><strong>t</strong> n’est ni la--}}
+                {{--dîme, ni l’aumône ou aumône légale comme la traduisent les orientalistes :--}}
+                {{--c’est une somme précise, prélevée sur des revenus déterminés, à donner à--}}
+                {{--des destinataires déterminés. Ces destinataires sont mentionnés dans la    <strong>Sūrah</strong> 9, Verset 60 (le Repentir) ; les revenus sont--}}
+                {{--désignés dans les <strong>0</strong><strong>adiths</strong> du Prophète.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Al</strong>--}}
+                {{--<strong><em>-</em></strong>--}}
+                {{--<strong>Anfāl</strong>--}}
+                {{--: Il n’existe pas d’équivalent, en français, pour ce terme (الانفال)--}}
+                {{--traduit généralement par “surérogatoires”, quand il s’agit des prières. Le--}}
+                {{--mot “butin” désigne ce qu’on prend aux ennemis pendant une guerre, après la--}}
+                {{--victoire, ou le partage de ce qui a été pris à l’ennemi. Alors que--}}
+                {{--“dépouilles” (au pluriel) désigne : ce qu’on enlève à l’ennemi sur le champ--}}
+                {{--de bataille. Le terme <strong>anfāl</strong><em> </em>comprend un sens--}}
+                {{--essentiel que l’on ne trouve point dans les deux termes précédents,--}}
+                {{--puisqu’il désigne : un gain dû à la guerre, comme conséquence, loin du--}}
+                {{--champ de bataille, et auquel on ne pensait point. Une sorte de--}}
+                {{--butin-aubaine.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Sūrah : </strong>--}}
+                {{--C’est la transcription phonétique la plus proche pour le mot سورة et non--}}
+                {{--pas Sourate, tel qu’il est usage de l’écrire. Le pluriel est    <strong>Suwar.</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De même, nous avons rectifié la transcription des deux noms de villes,--}}
+                {{--d’une importance capitale pour les musulmans et que la transcription--}}
+                {{--“francisée” déforme. Nous adoptons <strong>Makkah</strong> pour la Mecque,--}}
+                {{--et <strong>al</strong>-<strong>Madīnah</strong> pour Médine, dans l’espoir--}}
+                {{--de les voir rectifiés dans les textes français.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De même, l’extrême minutie avec laquelle le <strong>Qur’ān</strong> décrit--}}
+                {{--la formation de l’embryon, poussa le docteur Keith Moore, Professeur--}}
+                {{--d’anatomie et d’embryologie à l’Université d’Ottawa, au Canada, à déclarer,--}}
+                {{--lors du colloque tenu au Caire, en 1986, sur la persuasivité--}}
+                {{--<a--}}
+                        {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn1"--}}
+                        {{--name="_ftnref1"--}}
+                        {{--title=""--}}
+                {{-->--}}
+                    {{--*--}}
+                {{--</a>--}}
+                {{--scientifique du <strong>Qur’ān</strong>, qu’il n’y a en aucune langue de--}}
+                {{--termes équivalents, en leur précision, à ceux qui décrivent la formation de--}}
+                {{--l’embryon dans le <strong>Qur’ān</strong>, et proposa de les introduire--}}
+                {{--dans le langage médical ou courant. C’est pourquoi nous adoptons cette--}}
+                {{--proposition pour les trois principaux termes :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Nu</strong>--}}
+                {{--<strong>ë</strong>--}}
+                {{--<strong>fah</strong>--}}
+                {{--: pour « gouttelette » de sperme, point de départ de toute formation--}}
+                {{--embryonnaire. Période qui s’étend du moment de la fécondation jusqu’au--}}
+                {{--sixième jour.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>‘Alaqah</strong>--}}
+                {{--: pour « quelque chose qui s’accroche », qui désigne la fixation de l’œuf,--}}
+                {{--grâce à des villosités qui l’accrochent à l’utérus. Le pluriel est    <strong>‘alaq</strong>. Cette période s’étend du sixième jour jusqu’à la--}}
+                {{--troisième semaine.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--<strong>Mu</strong>--}}
+                {{--<strong>å</strong>--}}
+                {{--<strong>ğ</strong>--}}
+                {{--<strong>ah </strong>--}}
+                {{--: pour « mâchure », étape au cours de laquelle se forment les somites ou--}}
+                {{--petites masses de tissus conjonctifs, de 42 à 45 paires, et qui ont--}}
+                {{--effectivement l’aspect de viande mâchée. Période qui s’étend de la--}}
+                {{--troisième à la septième semaine.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’autres problèmes relèvent du substantif, quand il donne deux familles--}}
+                {{--distinctes de dérivés. Telle la racine <strong>ra</strong>    <strong>0</strong><strong>m</strong>, رحم qui comprend et “miséricorde” et--}}
+                {{--“matrice”, qu’on a vu plus haut avec le fameux “matricien” et “matriciel”--}}
+                {{--de Chouraqui ; ou le mot <strong>K</strong><strong>ā</strong>    <strong>fir </strong> (كافر) de <strong>Kafara</strong> (كفر). D’un côté il--}}
+                {{--désigne l’agriculteur, celui qui fourre le grain dans la terre, qui le--}}
+                {{--couvre ; d’un autre côté il désigne ce sens composé, largement usité dans--}}
+                {{--le <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, celui de--}}
+                {{--“mécréant-négateur de vérité”. On ne rencontre le premier qu’une seule fois--}}
+                {{--dans le <strong>Qur’</strong><strong>ā</strong><strong>n</strong> (    <strong>Sūrah</strong> 57, Verset 20), et ne pas en tenir compte dénature--}}
+                {{--le texte.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D’autres problèmes sont soulevés quand on a affaire à un terme qui, dans la--}}
+                {{--langue cible, a gagné un sens particulier :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le substantif الغيب (<strong>al-</strong><strong>ğ</strong>    <strong>aïb</strong>), est généralement traduit par “ l’inconnaissable ”,--}}
+                {{--“l’inconnu” ou “le mystère”, ce qui ne correspond point au sens précis du--}}
+                {{--terme, puisque ce domaine de l’au-delà est “connaissable” grâce au    <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, il est “connu”--}}
+                {{--grâce à tous les versets qui le décrivent. Il n’est pas un “mystère”, non--}}
+                {{--seulement pour les connotations de ce terme avec le christianisme, mais--}}
+                {{--parce que chaque lecteur du <strong>Qur’ân </strong>saisira de quoi il--}}
+                {{--s’agit là-haut, comment sera le jugement, comment seront les récompenses et--}}
+                {{--les punitions. Le <strong>ğaïb, </strong>dans son ensemble, c’est la foi en--}}
+                {{--ce qui nous a été annoncé sur la Résurrection, le Paradis, l’Enfer et le--}}
+                {{--Jugement du Jour dernier. C’est le domaine de la Vie psychique, Astrale, le--}}
+                {{--monde de la perception extra sensorielle, qui existe en fait avec toutes--}}
+                {{--ses variétés et ses particularités mais qui nous est occulté dans cette vie--}}
+                {{--terrestre. C’est pourquoi nous avons préféré le mot « Occulte», avec un O--}}
+                {{--majuscule pour le différencier du sens restreint de l’occultisme, ou de--}}
+                {{--celui qui prend un sens méchant au pluriel seulement : les sciences--}}
+                {{--occultes.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le substantif فلح (<strong>fala</strong><strong>0</strong><strong>a</strong>), duquel est formé le mot <strong>al-mufli</strong>    <strong>0</strong><strong>ûn</strong>, veut dire : couper ; fendre, surtout--}}
+                {{--fendre le sol ; labourer ; cultiver. C’est-à-dire faire les travaux--}}
+                {{--nécessaires pour rendre la terre plus fertile et améliorer ses productions.--}}
+                {{--Au sens figuré, cultiver veut dire : s’adonner à des études, chercher à se--}}
+                {{--perfectionner ; cultiver son esprit ; sa raison, son âme ; défricher la vie--}}
+                {{--et cultiver les mœurs ; conserver, entretenir, augmenter les relations, les--}}
+                {{--sentiments qui lient les personnes entre elles ; cultiver la connaissance,--}}
+                {{--l’amitié, la bienveillance et l’affection. C’est ce double sens, propre et--}}
+                {{--figuré, qui ressort du terme <strong>mufli</strong><strong>0</strong>    <strong>ūn</strong>. Et c’est dans toute l’étendue du terme que Voltaire--}}
+                {{--l’employa dans son fameux “cultiver son jardin”… C’est dans ce sens aussi--}}
+                {{--que nous l’avons traduit par “ceux qui cultivent” pour le différencier des--}}
+                {{--“cultivateurs” tout court.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le superlatif, peu usité en français, fut-il absolu ou relatif, représente--}}
+                {{--un autre genre de problèmes, étant donné que la langue arabe connaît un--}}
+                {{--éventail plus large. Un des attributs d’Allah, par exemple, se présente--}}
+                {{--sous quatre degrés de supériorité, ce qui est assez fréquent en arabe :<strong>‘</strong><strong>ā</strong><strong>lem</strong> (عالم) ,    <strong>’</strong><strong>a</strong><strong>‘</strong><strong>lam</strong>--}}
+                {{--(أعلم) <em>, </em><strong>‘</strong><strong>a</strong><strong>lī</strong><strong>m</strong><em> </em>(عليم) , et <strong>‘all</strong>    <strong>ā</strong><strong>m</strong> (علام) , que nous avons traduit ,--}}
+                {{--respectivement , par : Très-Scient , Plus-Scient , Tout-Scient et--}}
+                {{--Omniscient.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Un autre degré de supériorité avec l’attribut العلى (<strong>al-‘Aliy</strong>) “le Haut”, sous sa forme superlative الأعلى (    <strong>al-A‘lā</strong>), qui veut dire le “Plus-Haut” n’a été donné par--}}
+                {{--personne, et l’on ne sait trop pourquoi toutes les traductions gardent le--}}
+                {{--même terme de “Très-Haut” ?!--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Le trope ou الالتفات est une des figures de style qui sont très fréquentes--}}
+                {{--dans le <strong>Qur’ān</strong>. Une des solutions qui permet de surmonter--}}
+                {{--la difficulté de ce changement de personne en cours de propos est d’avoir--}}
+                {{--recours aux deux points, pour ne pas changer la forme ou le temps du verbe--}}
+                {{--en arabe.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Les problèmes suscités par les équivalents de la langue cible, dans la--}}
+                {{--traduction littérale, nécessitent une autre attention.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--L’adjectif “dernier”, dans l’emploi nominal, prend le sens de “vil”.--}}
+                {{--L’expression française “le dernier des hommes” veut dire “l’homme le plus--}}
+                {{--misérable”. Quand cela concerne l’expression de آخر النبيين, que certains--}}
+                {{--traduisent littéralement par : “le dernier des Prophètes” au lieu de dire--}}
+                {{--“l’ultime Prophète”, on ne peut empêcher amertume et frustration qui ne--}}
+                {{--portent atteinte qu’au traducteur…--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Tout à fait différent est le problème que soulèvent notre degré de--}}
+                {{--connaissances et la limite de notre logique. Il est des Versets face--}}
+                {{--auxquels le traducteur se cabre, n’ose pas traduire tout simplement et a--}}
+                {{--recours au subterfuge qui consiste soit à contourner le texte, soit à des--}}
+                {{--omissions. Tel le verset 43 de la <strong>Sūrah</strong> 24, disant :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--« N’as-tu donc pas vu qu’Allah Pousse doucement les nuages, ensuite les--}}
+                {{--Rapproche entre eux, ensuite Il en Fait un cumulo-nimbus ? Alors tu vois--}}
+                {{--les charges électriques sortir de ses cavités, et Il Fait descendre du--}}
+                {{--ciel, <u>de sur des montagnes qui s’y trouvent, de la grêle</u>--}}
+                {{--<a--}}
+                        {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn2"--}}
+                        {{--name="_ftnref2"--}}
+                        {{--title=""--}}
+                {{-->--}}
+                    {{--*--}}
+                {{--</a>--}}
+                {{--avec laquelle Il Atteint qui Il Veut et qu’Il Détourne de qui Il Veut. Peu--}}
+                {{--s’en faut que l’éclat de son éclair ne ravisse les vues ».--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Inutile de dire que personne n’en a donné la traduction exacte, ne pouvant--}}
+                {{--peut-être pas concevoir qu’il puisse y avoir des montagnes de nuages au--}}
+                {{--sommet desquelles se trouve de la grêle !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ce n’est qu’à partir de 1950 que les conceptions sur la formation de la--}}
+                {{--pluie attribuent un rôle prépondérant à des particules de glaces présentes--}}
+                {{--dans les parties supérieures, les plus froides, des nuages qui donnent la--}}
+                {{--pluie. Le cumulo-nimbus se présente en fait sous forme de montagne, dont le--}}
+                {{--sommet est couvert de cristaux de glace qui jouent un rôle fondamental dans--}}
+                {{--le déclenchement des précipitations, et donne généralement des averses de--}}
+                {{--pluies, de neige ou de grêle, parfois accompagnées de manifestations--}}
+                {{--orageuses.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Quant aux remarques qui concernent les règles à suivre pour la traduction--}}
+                {{--du <strong>Qur’</strong><strong>ā</strong><strong>n</strong>, elles sont--}}
+                {{--dues à ce que nous avons noté en cours de travail. Les transmettre à ceux--}}
+                {{--qui poursuivront ce chantier de la traduction du <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, qu’aucun effort humain ne peut--}}
+                {{--combler, ne doit point être pris comme une critique, mais plutôt comme un--}}
+                {{--aide-mémoire.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Traduire le sens du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong> nécessite du traducteur de tenir compte des points--}}
+                {{--suivants :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Souvent le substantif arabe possède plusieurs sens, différents les uns--}}
+                {{--des autres, il est donc indispensable de choisir un sens déterminé grâce--}}
+                {{--aux ouvrages d’exégèse d’abord, ensuite d’avoir recours aux dictionnaires--}}
+                {{--de la langue. Tel le mot جزاء dont le sens en arabe comprend et “la--}}
+                {{--récompense” et “la punition”, selon le texte. Cela paraît ridicule de lire--}}
+                {{--en français que “Les malfaiteurs auront l’Enfer comme récompense”!--}}
+                {{--Traduction que l’on trouve partout.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Tenir compte des subtilités de nuances, ou de sens, dans les synonymes et--}}
+                {{--les homonymes.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Il est indispensable de tenir compte des tournures syntaxiques, sinon il--}}
+                {{--est impossible d’arriver à une traduction correcte, tel le Verset 137, de--}}
+                {{--la <strong>Sūrah</strong> 6 : « De même, leurs associés ont embelli à--}}
+                {{--beaucoup de polythéistes l’assassinat de leurs enfants, pour les faire--}}
+                {{--périr et pour les confondre dans leur religion (….) », où l’enjambement--}}
+                {{--renvoi le mot “associés” presque à la fin du verset.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Quand le sens du vocable ou le choix de l’équivalent change selon le--}}
+                {{--destinateur désigné par l’énoncé : tel le mot مكر (<strong>makara</strong>--}}
+                {{--), il prend le sens de “ruse” ou “ruser” quand il s’agit de personnes, mais--}}
+                {{--prend le sens de “planification” ou “planifier” quand il s’agit d’une--}}
+                {{--action se rapportant à Allah, tel le Verset 50 de la <strong>Sūrah</strong>--}}
+                {{--27.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Il est indispensable de tenir compte de la foi Islamique pour saisir le--}}
+                {{--sens des expressions linguistiques, car nombreux sont les orientalistes qui--}}
+                {{--abordent le texte du point de vue lexique et tombent par-là dans des--}}
+                {{--erreurs ridicules, tel ce fameux «تبارك الله» (<strong>tab</strong>    <strong>ā</strong><strong>raka</strong><em> </em><strong>Allāhou)</strong>,--}}
+                {{--où le nom d’Allah dans cette formule est sujet d’un verbe actif, qui--}}
+                {{--sous-entend la profusion dans la bénédiction. Toutes les traductions--}}
+                {{--donnent : “Béni soit Allah” ou “Béni soit Dieu”! Alors qu’il faut traduire--}}
+                {{--par “Allah Combla de bénédictions”. Mais là aussi les traducteurs musulmans--}}
+                {{--ont suivi les pas des orientalistes, ou de l’expression courante en--}}
+                {{--français, sans jamais se demander : Béni par qui ? ! S’ils avaient suivi la--}}
+                {{--voyellisation correcte, ils auraient sûrement fait le choix adéquat.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--De même pour le mot مخلص (<strong>Mo</strong><strong>h</strong>    <strong>li</strong><strong>4</strong>) qui veut dire “sincère” dans le sens--}}
+                {{--le plus courant. Mais quand la voyellisation de la lettre i est ouverte en--}}
+                {{--“a” : “مخلص” (<strong>mo</strong><strong>h</strong><strong>la</strong><strong>4</strong>)<em>,</em> comme dans le Verset 5 de la    <strong>Sūrah</strong> 19, cela veut dire : “pur”, ou “choisi pour être--}}
+                {{--protégé de toute erreur grave”.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Tenir compte de la forme affirmative et de la forme intensive, comme pour--}}
+                {{--le Verset 12 de la <strong>Sūrah</strong> 36, « Nous, Nous Faisons revivre--}}
+                {{--les morts (…) » «إنا نحن نحى الموتى », et surtout sous sa forme de--}}
+                {{--complément absolu المفعول المطلق . C’est une des formes de rhétorique que--}}
+                {{--l’on rencontre souvent dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, et qui consiste à répéter le nom verbal pour affirmer--}}
+                {{--le sens : une fois inclus dans le verbe, et une fois nettement pour--}}
+                {{--éloigner tout sens péjoratif.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--La traduction de cette forme se fait soit par la répétition du verbe, soit--}}
+                {{--par la répétition du nom verbal, soit en employant un nom, un adjectif ou--}}
+                {{--un adverbe pour affirmer le sens. Tel le Verset 16 de la    <strong>Sūrah</strong> 17 « فدمرناها تدميراّ» que nous traduisons par : «--}}
+                {{--et Nous la Détruisîmes une vraie destruction ». Il est étonnant de voir que--}}
+                {{--personne n’a tenu compte de cette forme du complément absolu, qui revient--}}
+                {{--assez souvent dans le <strong>Qur’</strong><strong>ā</strong>    <strong>n, </strong>comme figure de style très particulière et qui désigne--}}
+                {{--la réalisation effective de ce qui est dit.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Il faut tenir compte de l’enjambement entre versets, en respectant le--}}
+                {{--verset en soi, sans changer l’ordre des versets ni les coupures du    <strong>Qur’ān</strong>.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Il est important de prendre en considération les points d’arrêt à--}}
+                {{--l’intérieur du verset, tels qu’ils sont marqués par les différents signes--}}
+                {{--de ponctuations, car le sens risque d’être complètement détérioré, comme--}}
+                {{--pour le Verset 65 de la <strong>Sūrah</strong> 10 : « Et que ce qu’ils--}}
+                {{--disent ne t’afflige point ! Certes, l’invincibilité, en totalité,--}}
+                {{--appartient à Allah (...) ». Si le traducteur ne suit pas la ponctuation--}}
+                {{--juste, le verset prend le sens contraire : « Et que ce qu’ils disent ne--}}
+                {{--t’afflige point que l’invincibilité, en totalité, appartient à Allah » !--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Il ne faut point prendre de parti-pris de quelconque tendance dans--}}
+                {{--l’exégèse, tels ceux qui traduisent «أهل البيت» (gens de la maison), verset--}}
+                {{--33 de la <strong>Sūrah</strong> 33, par « les femmes du Prophète », ou par--}}
+                {{--« les enfants de ‘Ali et Fātima ». Ce rôle incombe à l’exégète et non pas--}}
+                {{--au traducteur.--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Faire attention en traduisant les noms des <strong>Suwar</strong> qui,--}}
+                    {{--parfois, sont une partie ou un mot du verset, et qu’il faut traduire--}}
+                    {{--tel qu’il est décliné dans le verset, et non pas en tant qu’un vocable--}}
+                    {{--à part. La moindre erreur, là, est de mélanger féminin et masculin ou--}}
+                    {{--singulier et pluriel.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--Le nom de la <strong>Sūrah</strong> 77 « المرسلات » (    <strong>al-mursal</strong><strong>ā</strong><strong>t</strong>) , d’après--}}
+                {{--le contexte, doit être traduit au masculin pluriel “les Envoyés” et non pas--}}
+                {{--au féminin pluriel, tel qu’on le pense au premier abord. De même « النازعات--}}
+                {{--» (<strong>an-n</strong><strong>ā</strong><strong>zi‘ā</strong>    <strong>t</strong>), <strong>Sūrah</strong> 79, où il faut mettre “les--}}
+                {{--Arracheurs” et non pas “Celles qui arrachent” ou “les Arracheuses”, puisque<em>“</em><strong>al-mursalāt</strong>” désignent “les Vents” et “    <strong>an-n</strong><strong>ā</strong><strong>zi‘āt</strong>” désigne “les--}}
+                {{--Anges”.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Au traducteur de réduire les commentaires dans le texte, ou au bas de la--}}
+                {{--page, au strict nécessaire.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Tenir compte des conjonctions, des particules et des prépositions qui,--}}
+                {{--dans la langue arabe, sont souvent accolées au mot et donnent une variété--}}
+                {{--de nuances et de sens, surtout dans le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Tenir compte des locutions dont le nombre, dans le <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong>, nécessite un travail à part, qui doit--}}
+                {{--servir de base ou de guide pour les traductions en langues étrangères.--}}
+                {{--Traduites littéralement, les locutions dénaturent le sens, surtout sous la--}}
+                {{--plume des orientalistes, comme pour l’expression : « حتى يأتيك اليقين » (<strong>0</strong><strong>attā</strong><strong> ya’tiyaka al-yaqīne</strong>) (Verset 99 de la    <strong>Sūrah</strong> 15), qui veut dire « jusqu’à la mort » alors que--}}
+                {{--Berque et autres traduisent par « jusqu’à ce que tu deviennes croyant »! Et--}}
+                {{--quand on apprend que ces paroles étaient adressées au Prophète, on se rend--}}
+                {{--compte de l’énormité de l’erreur.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Tenir compte des exceptions de la grammaire : le serment en style négatif--}}
+                {{--est considéré comme le serment le plus solennel. Quiconque ne tient pas--}}
+                {{--compte de cette règle, saisirait mal la tournure de ce genre de versets,--}}
+                {{--tel « فلا أقسم » (verset 75 de la <strong>Sūrah</strong> 56), que toutes--}}
+                {{--les traductions rendent par : « Je ne jure point », alors qu’il faut dire :--}}
+                {{--« Je Jure formellement par…».--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Tenir compte du verbe être en arabe “كان” (<strong>K</strong>        <strong>ā</strong><strong>na</strong>), généralement traduit par--}}
+                    {{--“était” ou “a été”. Quand il est en rapport direct avec le nom d’Allah,--}}
+                    {{--ou un pronom qui lui revient, il prend sans exception, une désignation--}}
+                    {{--de continuité dans le passé, le présent et le futur. Forme que nous--}}
+                    {{--avons rendue par : “Il A toujours Eté”.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p align="center">--}}
+                {{--<strong>D - Le travail effectué en cette traduction</strong>--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Nous avons tenu compte de la lecture de £afs<em>,</em> d’après<strong>‘</strong>Ā4im<em>,</em> et la numérotation du        <strong>mus</strong><strong>0</strong><strong>af</strong><em> </em>--}}
+                    {{--officiel égyptien.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--· Pour l’exégèse, nous avons tenu compte de ce qui est fourni par les deux--}}
+                {{--grands exégètes al-Qur6ubî et ar-Rāzi.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Nous avons consulté les traductions ci-haut mentionnées pour chaque--}}
+                {{--verset. C’est ce qui nous a permis de voir de près toutes les remarques--}}
+                {{--formulées.--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Nous avons essayé de rendre le sens du <strong>Qur’</strong>        <strong>ā</strong><strong>n</strong> dans la plus grande clarté--}}
+                    {{--possible, sans avoir recours à des rajouts ou à des syntagmes, sauf--}}
+                    {{--dans des cas où cela était indispensable pour la compréhension,--}}
+                    {{--explications que nous avons mises entre parenthèses.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--· De même, les notes, les reports en fin de volume, ou les allusions à des--}}
+                {{--faits historiques ont été réduits au minimum.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--La traduction s’efforce de suivre le mouvement du texte arabe dans la--}}
+                {{--mesure où le permet la syntaxe française. Par contre, il nous a paru utile--}}
+                {{--d’attirer l’attention du lecteur occidental sur quelques-uns des versets,--}}
+                {{--dont la science moderne a prouvé la véracité. Tel la S2rah 86 intitulée--}}
+                {{--AØ-ØĀRIQ. C’est l’étoile à neutrons ou pulsar (1969), dont la densité est--}}
+                {{--de 10 kg/cm³ i.e. cent millions de tonnes par centimètre cube, et dont le--}}
+                {{--rayon atteint 10 km environ. L’étoile à neutrons tourne sur son axe à--}}
+                {{--grande vitesse, en émettant régulièrement des signaux de forte intensité,--}}
+                {{--des pulsations régulières, d’où son appellation de pulsar, mot dérivé de--}}
+                {{--l’anglais: pulsating star. La densité de cette étoile est difficile à--}}
+                {{--concevoir: un ballon de football par exemple, de cette matière à neutrons,--}}
+                {{--pèserait cinquante mille billions de tonnes: placé sur la terre, ou sur--}}
+                {{--n’importe quelle autre planète, il la perforerait avec la même facilité--}}
+                {{--qu’une bille de plomb perforerait un amas de farine, laissant derrière elle--}}
+                {{--un trou du même format que la bille!!--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--C’est une des caractéristiques du <strong>Qur’</strong><strong>ā</strong>    <strong>n</strong>, qui ne contient en fait aucune affirmation qui puisse--}}
+                {{--être critiquable du point de vue scientifique à l’époque moderne.--}}
+            {{--</p>--}}
+            {{--<ul>--}}
+                {{--<li>--}}
+                    {{--Les lettres isolées qui président vingt-neuf <strong>Suwar</strong> ou--}}
+                    {{--qui représentent le nom de certaines d’entre elles, ont été transcrites--}}
+                    {{--tout simplement.--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--Les versets probables (<strong>muta</strong><strong>š</strong>        <strong>ābihāt</strong>, voir <strong>Sūrah</strong> 3, verset 7) ont--}}
+                    {{--été interprétés selon la croyance des musulmans, qui vise à la--}}
+                    {{--sanctification d’Allah de tout anthropomorphisme.--}}
+                {{--</li>--}}
+            {{--</ul>--}}
+            {{--<p>--}}
+                {{--· Nous avons maintenu le nom d’ « Allah » dans sa transcription phonétique--}}
+                {{--arabe, et non pas « Dieu », car un nom propre ne se traduit pas mais on le--}}
+                {{--transcrit. Puis, la conception théologique diffère dans ces deux--}}
+                {{--appellations :--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Pour les chrétiens, Dieu est une trinité, une trinité qui tourne de nos--}}
+                {{--jours vers une christologie plus accentuée, vers l’adoration d’un être--}}
+                {{--humain, déifié par l’Église en 325 au 1<sup>er</sup> concile de Nicée ! Ce--}}
+                {{--qui représente, pour les musulmans, une forme de polythéisme inadmissible--}}
+                {{--ou inconcevable. Alors qu’Allah est Unique, rien ne lui est semblable.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ce credo est l’inébranlable pivot du monothéisme auquel nous, les--}}
+                {{--musulmans, croyons fermement, et c’est ce qui constitue le vrai désaccord--}}
+                {{--ou l’irrémédiable fissure entre chrétiens et musulmans, et c’est ce qui--}}
+                {{--explique cette sourde haine qui pousse le fanatisme ecclésial à lutter--}}
+                {{--contre l’Islam avec un acharnement sans pareil, – le    <strong>Qur’ān</strong> renfermant en fait les irréfutables preuves des--}}
+                {{--manipulations qu’a subies le christianisme.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Nous tenons compte de la langue source, et non cible, quitte à donner des--}}
+                {{--tournures inusitées, des répétitions, ou même des lourdeurs de styles. La--}}
+                {{--concordance des temps n’a pas toujours été respectée dans la même phrase,--}}
+                {{--en français, afin de rester fidèle au texte arabe.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Nous avons eu recours des fois à l’emploi d’un nom classé “vieux” ou--}}
+                {{--“rare” dans les Dictionnaires, pour être toujours plus fidèle au texte du    <strong>Qur’ān</strong>.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--· Les verbes et les pronoms qui se rapportent à Allah seront écrits en--}}
+                {{--majuscules pour faciliter la distinction sans ajouter des notes--}}
+                {{--explicatives.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Pour le travail de la langue arabe, nous avons eu recours au<strong>Lexique répertorié des</strong> <strong>termes du</strong>    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> par Mu0ammad--}}
+                {{--Abdel-Bāqi ; le <strong>Dictionnaire des particules et des pronoms</strong>    <strong>dans le saint Qur’</strong><strong>ā</strong><strong>n</strong>,--}}
+                {{--par Dr Ismaïl ‘Amāyreh ; le <strong>Dictionnaire des graphèmes et</strong>    <strong>particules du Qur’</strong><strong>ā</strong><strong>n </strong>par--}}
+                {{--Mu0ammed £assan et Dr ‘Abdel-£amīd El-Sayed ; le<strong>Dictionnaire</strong> <strong>des termes du saint</strong>    <strong>Qur’</strong><strong>ā</strong><strong>n</strong> par l’Académie de--}}
+                {{--langue arabe, au Caire ; le <strong>Dictionnaire des</strong><strong>termes du saint Qur’an </strong>par ‘Abdallah El-Nadawi ;<strong>les Synonymes dans le glorieux</strong> <strong>Qur’</strong>    <strong>ā</strong><strong>n</strong> par Mu0ammad Ma0moud Ghali.--}}
+            {{--</p>--}}
+            {{--<br clear="all"/>--}}
+            {{--<p align="center">--}}
+                {{--<strong>Néologismes Proposés</strong>--}}
+                {{--<a--}}
+                        {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftn3"--}}
+                        {{--name="_ftnref3"--}}
+                        {{--title=""--}}
+                {{-->--}}
+                    {{--<strong>*</strong>--}}
+                {{--</a>--}}
+                {{--<strong></strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Matination : Action de faire éclore le matin.--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Miséricordeur : En parlant d’Allah, qui est Miséricorde et Octroie Sa--}}
+                {{--Miséricorde à tout le monde sans exception.--}}
+            {{--</p>--}}
+            {{--<br clear="all"/>--}}
+            {{--<p align="center">--}}
+                {{--<strong>EMPLACEMENT DU SIGNE DES PROSTERNATIONS</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 7 ( al-’A‘RĀF ) : Verset 206--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 16 ( an- NA£L ) : Verset 49--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 17 ( al-ISRĀ’ ) : Verset 107--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 19 ( MARIAM ) : Verset 57--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 22 ( al-£AJJ ) : Verset 18--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 22 ( al-£AJJ ) : Verset 77--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 25 ( al-FURQĀN ) : Verset 60--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 27 ( an-NAML ) : Verset 25--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 32 ( as-SAJDAH ) : Verset 15--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 38 ( ÔAD ) : Verset 24--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 41 ( FOÔÔILAT ) : Verset 37--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 53 ( an-NAJM ) : Verset 62--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 84 ( al-INŠIQĀQ ) : Verset 21--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Sūrah 96 ( al-‘ALAQ ) : Verset 19--}}
+            {{--</p>--}}
+            {{--<br clear="all"/>--}}
+            {{--<p align="center">--}}
+                {{--<strong>Système de transcription</strong>--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ô = ص ’ =ء--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--‘ = ع A = أ--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--F = ف B = ب--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Õ = ض J = ج--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Q =ق D = د--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--R = ر H =هـ--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--S = س W = و--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--T = ت Z = ز--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--T = ث £ = ح--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--H = خ Ø = ط--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--D = ذ Y = ي--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Û = ظ K = ك--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Ğ = غ L = ل--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Š = ش M = م--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--N = ن--}}
+            {{--</p>--}}
+            {{--<p>--}}
+                {{--Les voyelles longues seront surmontées d’un tiret : ā ī ū--}}
+            {{--</p>--}}
+            {{--<div>--}}
+                {{--<br clear="all"/>--}}
+                {{--<hr align="left" size="1" width="33%"/>--}}
+                {{--<div id="ftn1">--}}
+                    {{--<p>--}}
+                        {{--<a--}}
+                                {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref1"--}}
+                                {{--name="_ftn1"--}}
+                                {{--title=""--}}
+                        {{-->--}}
+                            {{--*--}}
+                        {{--</a>--}}
+                        {{--Nous préférons ce terme à « inimitabilité », qui porte plutôt sur--}}
+                        {{--le côté linguistique, alors que la persuasion scientifique est plus--}}
+                        {{--proche de la réalité du texte qur’ānique.--}}
+                    {{--</p>--}}
+                {{--</div>--}}
+                {{--<div id="ftn2">--}}
+                    {{--<p>--}}
+                        {{--<a--}}
+                                {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref2"--}}
+                                {{--name="_ftn2"--}}
+                                {{--title=""--}}
+                        {{-->--}}
+                            {{--*--}}
+                        {{--</a>--}}
+                        {{--C’est nous qui soulignons.--}}
+                    {{--</p>--}}
+                {{--</div>--}}
+                {{--<div id="ftn3">--}}
+                    {{--<p>--}}
+                        {{--<a--}}
+                                {{--href="file:///E:/freelance/2_introduction_11-01-10%5b1%5d.doc#_ftnref3"--}}
+                                {{--name="_ftn3"--}}
+                                {{--title=""--}}
+                        {{-->--}}
+                            {{--*--}}
+                        {{--</a>--}}
+                        {{--Ce n’est point par pédantisme que nous proposons ces néologismes,--}}
+                        {{--mais avec l’intention d’être aussi fidèle que possible au texte du--}}
+                        {{--Qur’ān, et afin d’éviter un pléonasme inutile dans la traduction.--}}
+                    {{--</p>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--</span>--}}
+
+            {{--<button onclick="myFunction()" id="myBtn" style="border:3px solid #000;--}}
+  {{--color:#000;--}}
+  {{--font:12px Montserrat;--}}
+  {{--text-transform:uppercase;--}}
+  {{--padding:10px;--}}
+  {{--font-weight:600;--}}
+  {{--max-width:250px;--}}
+  {{--display:block;--}}
+  {{--text-align:center;--}}
+  {{--margin:10px auto;--}}
+  {{--position:relative;">Read more</button>--}}
+        {{--</div>--}}
+            <div style="text-align: center;" class="view-item-conetent-data">
+                <h3><strong> Le Qur’ān </strong><br>
+                    Traduction du sens de ses Versets</h3>
+                <embed  src="{{ asset('storage/2_introduction_11-01-10[1].pdf') }}" style="width:900px; height:800px;" frameborder="0">
             </div>
-            </span>
-
-            <button onclick="myFunction()" id="myBtn" style="border:3px solid #000;
-  color:#000;
-  font:12px Montserrat;
-  text-transform:uppercase;
-  padding:10px;
-  font-weight:600;
-  max-width:250px;
-  display:block;
-  text-align:center;
-  margin:10px auto;
-  position:relative;">Read more</button>
-        </div>
-
         </section>
 
         {{--<a href="#top" style="position:sticky">Back to top of page</a>--}}

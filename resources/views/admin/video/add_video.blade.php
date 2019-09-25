@@ -3,10 +3,14 @@
 @section('content')
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-md-8">
+      <div class="col-md-12">
         <div class="card">
           <div class="card-header">{{ __('Add Video') }}</div>
-
+          @if (session('message'))
+            <div class="alert alert-success">
+              {{ session('message') }}
+            </div>
+          @endif
           <div class="card-body">
             <form method="POST" action="{{ route('addVideo') }}" enctype="multipart/form-data">
               @csrf

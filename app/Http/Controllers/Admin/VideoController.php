@@ -6,7 +6,9 @@ use App\Models\Video;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Validator;
 class VideoController extends Controller
@@ -51,6 +53,7 @@ class VideoController extends Controller
      */
     public function store(Request $request)
     {
+
         if($request->hasFile('video'))
         {
             $video = $request->file('video');

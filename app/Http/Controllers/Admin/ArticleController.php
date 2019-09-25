@@ -55,11 +55,9 @@ class ArticleController extends Controller
     {
         if($request->hasFile('photo'))
         {
-         //   dd($request);
             $cover = $request->file('photo');
             $extension = $cover->getClientOriginalExtension();
-            Storage::disk('public')->put($cover->getFilename().'.'.$extension,  File::get($cover));
-         //   $image = Image::create(['image_name'=>$cover->getFilename().'.'.$extension]);
+            Storage::disk('public')->put($cover->getClientOriginalName().'.'.$extension,  File::get($cover));
             $data = ['title' => $request->title ,'body' => $request->body, 'type' => $request->type , 'category' => $request->category,
                  'date_of_publish' => $request->date_of_publish ];
           //  dd($data);
@@ -77,7 +75,7 @@ class ArticleController extends Controller
                     ->withInput();
             }
             Article::create(['title' => request('title') , 'body' => request('body') ,
-                             'category' => request('category') ,'image_name'=>$cover->getFilename().'.'.$extension ,
+                             'category' => request('category') ,'image_name'=>$cover->getClientOriginalName().'.'.$extension ,
                              'type' => request('type'), 'date_of_publish' => request('date_of_publish')]);
 
             Session::flash('message','article created successfully');

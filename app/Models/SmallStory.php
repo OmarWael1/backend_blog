@@ -15,6 +15,6 @@ class SmallStory extends Model
      * @var array
      */
     protected $fillable = [
-        'title', 'body', 'date_of_publication' ,'number_of_readers',
+        'title', 'body', 'date_of_publication' ,'number_of_readers','image_name',
     ];
 }

@@ -10,8 +10,8 @@
                 <p class="story-breif">
                     {{$book -> description}}
                 </p>
-                <div class="view-item-conetent-data">
-                    <embed src="{{ asset('storage/'.$book->file_name) }}" style="width:600px; height:800px;" frameborder="0">
+                <div  class="view-item-conetent-data">
+                    <embed  src="{{ asset('storage/'.$book->file_name) }}" style="width:900px; height:800px;" frameborder="0">
                 </div>
             </div>
         </section>

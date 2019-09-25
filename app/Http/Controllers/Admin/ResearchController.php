@@ -7,6 +7,9 @@ use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\File;
 class ResearchController extends Controller
 {
 
@@ -50,8 +53,11 @@ class ResearchController extends Controller
      */
     public function store(Request $request)
     {
-
-            $data = ['title' => $request->title ,'body' => $request->body, 'date_of_publication' => $request->date_of_publication];
+        if($request->hasFile('photo')) {
+            $cover = $request->file('photo');
+            $extension = $cover->getClientOriginalExtension();
+            Storage::disk('public')->put($cover->getClientOriginalName().'.'.$extension,  File::get($cover));
+            $data = ['title' => $request->title, 'body' => $request->body, 'date_of_publication' => $request->date_of_publication];
             $validator = Validator::make($data, [
                 'title' => ['required', 'string', 'max:255'],
                 'body' => ['required', 'string'],
@@ -62,9 +68,10 @@ class ResearchController extends Controller
                     ->withErrors($validator)
                     ->withInput();
             }
-            Research::create(['title' => request('title') , 'body' => request('body') ,
-                'date_of_publication' => $request->date_of_publication]);
-            Session::flash('message','research created successfully');
+            Research::create(['title' => request('title'), 'body' => request('body'),
+                'date_of_publication' => $request->date_of_publication,'image_name'=>$cover->getClientOriginalName().'.'.$extension ]);
+            Session::flash('message', 'research created successfully');
+        }
         return view('admin/research/add_research');
     }
 

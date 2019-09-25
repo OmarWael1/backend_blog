@@ -17,14 +17,20 @@ class BookAndResearchPageController extends Controller
      * @return \Illuminate\Http\Response
      */
 // Articles , Books and researches , videos
-    public function index()
+    public function indexForBooks()
     {
         $publishedBooks = Book::where('category', 'published')->get();
         $unpublishedBooks = Book::where('category','unpublished')->get();
+        //$researches = Research::all();
+        return view('reader/books')->with('publishedBooks',$publishedBooks)
+                                                    ->with('unpublishedBooks',$unpublishedBooks);
+    }
+
+    public function indexForResearches()
+    {
+
         $researches = Research::all();
-        return view('reader/books_researches')->with('publishedBooks',$publishedBooks)
-                                                    ->with('unpublishedBooks',$unpublishedBooks)
-                                                    ->with('researches',$researches);
+        return view('reader/researches')->with('researches',$researches);
     }
 
 

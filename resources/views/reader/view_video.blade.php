@@ -4,7 +4,7 @@
     <section>
     <br>
         <div class="video-container" style="width: 50%">
-            <video id="vid" src="{{asset('storage/'.$video->file_name)}}"></video>
+            <video id="vid" src="{{asset('storage/video1.mp4')}}"></video>
             <div class="play-button">
                 <button id="play">
                     <img src="{{asset('storage/fa-solid-play.png')}}">
@@ -13,6 +13,7 @@
                 <p class="video-desc">
                     {{$video->title}}
                     <br>
+
                     {{$video->description}}
                 </p>
             </div>

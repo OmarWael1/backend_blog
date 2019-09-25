@@ -7,7 +7,7 @@
           </h2>
            <br>
             <p class="view-item-conetent-data">
-                {!! strip_tags($story->body) !!}
+                {!! strip_tags($story->body,'<p><br><img>') !!}
             </p>
             <div class="tags-visits">
                 <div class="tags">

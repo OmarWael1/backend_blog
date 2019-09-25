@@ -3,15 +3,15 @@
 <main>
         <section class="view-item-container">
             <div class="item-img">
-                <img src="{{asset('storage/'.$article->image_name)}}">
-                <div class="view-title-date">
+                 <img src="{{asset('storage/'.$article->image_name)}}">
+            </div>
+            <div class="view-title-date">
                     <span class="title">
                             {{$article->title}}
                     </span>
-                    <span class="date">
+                <span class="date">
                             {{$article->date_of_publish}}
                     </span>
-                </div>
             </div>
         </section>
 
@@ -28,7 +28,7 @@
             </div>
 
             <p class="view-item-conetent-data">
-                {!! strip_tags($article->body) !!}
+                {!! strip_tags($article->body,'<p><br><img>') !!}
             </p>
 
         </section>

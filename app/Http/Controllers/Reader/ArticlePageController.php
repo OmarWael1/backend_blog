@@ -18,13 +18,13 @@ class ArticlePageController extends Controller
      */
     public function indexAr()
     {
-        $islamicArticles = Article::where(['type' => 'arabic', 'category'=>'islamic' ])->get();
-        $jewishArticles = Article::where(['type' => 'arabic', 'category'=>'jewish' ])->get();
-        $christianArticles = Article::where(['type' => 'arabic', 'category'=>'christian' ])->get();
-        $variedArticles = Article::where(['type' => 'arabic', 'category'=>'varied' ])->get();
-        $literaryArticles = Article::where(['type' => 'arabic', 'category'=>'literary' ])->get();
-        $artisticArticles = Article::where(['type' => 'arabic', 'category'=>'artistic' ])->get();
-        $metaphysicsArticles = Article::where(['type' => 'arabic', 'category'=>'metaphysics' ])->get();
+        $islamicArticles = Article::where(['type' => 'arabic', 'category'=>'اسلاميه' ])->get();
+        $jewishArticles = Article::where(['type' => 'arabic', 'category'=>'يهوديه' ])->get();
+        $christianArticles = Article::where(['type' => 'arabic', 'category'=>'مسيحيه' ])->get();
+        $variedArticles = Article::where(['type' => 'arabic', 'category'=>'متنوعه' ])->get();
+        $literaryArticles = Article::where(['type' => 'arabic', 'category'=>'ادبيه' ])->get();
+        $artisticArticles = Article::where(['type' => 'arabic', 'category'=>'فنيه' ])->get();
+        $metaphysicsArticles = Article::where(['type' => 'arabic', 'category'=>'غيبيات' ])->get();
 
         return view('reader/articles')->with('islamicArticles',$islamicArticles)
                                             ->with('jewishArticles',$jewishArticles)
@@ -55,7 +55,7 @@ class ArticlePageController extends Controller
             $article = Article::findOrFail($id);
             $article->number_of_readers++;
             $article->save();
-            $articles = Article::paginate(3);
+            $articles = Article::orderBy('number_of_readers', 'desc')->paginate(3);
             return view('reader/view_article')->with('article', $article)->with('articles',$articles);
         }catch (ModelNotFoundException $e){
             abort(404);

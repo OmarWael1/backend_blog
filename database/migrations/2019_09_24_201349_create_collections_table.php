@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateResearchesTable extends Migration
+class CreateCollectionsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,13 +13,9 @@ class CreateResearchesTable extends Migration
      */
     public function up()
     {
-        Schema::create('researches', function (Blueprint $table) {
+        Schema::create('collections', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('title');
-            $table->longText('body');
-            $table->string('image_name');
-            $table->string('date_of_publication');
-            $table->integer('number_of_readers')->default(0);
+            $table->string('name');
             $table->timestamps();
         });
     }
@@ -31,6 +27,6 @@ class CreateResearchesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('researches');
+        Schema::dropIfExists('collections');
     }
 }

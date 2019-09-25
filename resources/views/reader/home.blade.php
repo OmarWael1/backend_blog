@@ -11,7 +11,7 @@
             <span class="doctor-name">للدكتورة زينب عبد العزيز</span>
         </div>
         <div class="navigate-down">
-            <a href="#aboutSection">
+            <a style="text-decoration:none"  href="#aboutSection">
                 <span>انزل للاسفل</span>
                 <img src="{{asset('storage/chevron.png')}}">
             </a>
@@ -21,7 +21,7 @@
     <section id="aboutSection" class="container about-doctor no-grid-mobile">
         <div class="about-text">
                 <span class="about-doctor-title">
-                        عن الدكتورة
+                <a style="text-decoration: none" href="{{route('about')}}">    عن الدكتورة    </a>
                 </span>
 
             <p>
@@ -105,7 +105,7 @@
             <div class="atricle is-mobile-fullwidth">
                 {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                 <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
-                <div class="atricle-content">
+                <div class="story-content">
                     <span class="article-content-header">{{$article->title}}</span>
                     <p> {{ str_limit(strip_tags($article->body),300)  }} ...</p>
                     <p>{{$article->date_of_publish}}</p>
@@ -126,7 +126,7 @@
         <div class="researches-books-container no-grid-mobile no-background-mobile">
             @foreach($researches as $research)
             <div class="book">
-                <img class="book-img" src="{{asset('storage/bg.png')}}">
+                <img class="book-img" src="{{asset('storage/34.jpg')}}">
                 <div class="book-desc">
                             <span class="book-title">
                                 {{$research->title}}
@@ -146,18 +146,20 @@
                         </span>
         </div>
 
-        @foreach($videos as $video)
+        {{--@foreach($videos as $video)--}}
         <div class="video-container">
-            <video id="vid" src="{{asset('storage/'.$video->file_name)}}"></video>
+            <video id="vid" src="{{asset('storage/video1.mp4')}}"></video>
             <div class="play-button">
                 <button id="play">
                     <img src="{{asset('storage/fa-solid-play.png')}}">
                 </button>
 
                 <p class="video-desc">
-                    {{$video->title}}
+                    {{--{{$video->title}}--}}
+                    كلام رائع للدكتورة زينب عبد العزيز عن الحجاب ورأيها فيه .. حوار ممتع وقوى
                     <br>
-                    {{$video->description}}
+
+                    {{--{{$video->description}}--}}
                 </p>
             </div>
             <div class="video-controls">
@@ -176,7 +178,7 @@
                 </button>
             </div>
         </div>
-        @endforeach
+        {{--@endforeach--}}
     </section>
 
     <section class="container opinions">

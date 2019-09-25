@@ -3,10 +3,10 @@
 @section('content')
 <div class="container" >
     <div class="row justify-content-center">
-        <div class="col-md-8">
+        <div class="col-md-12">
             <div class="card">
                 <div class="card-header">Articles
-                    <a style="padding: 70%" href="{{route('addArticleView')}}" role="button">{{__('Add new article')}}</a>
+                    <a style="text-decoration: none; padding: 40%;" href="{{route('addArticleView')}}" role="button">{{__('Add article')}}</a>
                 </div>
 
                 <div class="card-body">
