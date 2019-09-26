@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Collection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Paint.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Paint.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_09_24_201349_create_collections_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PaintController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PaintController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="149" column="106" selection-start-line="149" selection-start-column="106" selection-end-line="149" selection-end-column="106" />
+            <state relative-caret-position="459">
+              <caret line="166" column="39" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="39" />
               <folding>
                 <element signature="e#46#72#0#PHP" expanded="true" />
               </folding>
@@ -38,14 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CollectionController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php">
+      <file leaf-file-name="all_paints.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
-              <folding>
-                <element signature="e#46#72#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -53,17 +42,8 @@
       <file leaf-file-name="add_paint.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="49" column="132" selection-start-line="49" selection-start-column="119" selection-end-line="49" selection-end-column="132" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit_paint.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="49" column="154" selection-start-line="49" selection-start-column="154" selection-end-line="49" selection-end-column="154" />
+            <state relative-caret-position="204">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -71,8 +51,8 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="204">
+              <caret line="85" column="91" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -190,7 +170,6 @@
         <option value="$PROJECT_DIR$/resources/views/reader/videos.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/ArticlePageController.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/quran-trans.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_24_200536_create_paints_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ArticleController.php" />
         <option value="$PROJECT_DIR$/app/Models/Collection.php" />
@@ -199,12 +178,13 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/collection/add_collection.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/collection/all_collections.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/collection/edit_collection.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php" />
       </list>
     </option>
   </component>
@@ -331,6 +311,32 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+              <item name="views" type="cbb8eebc:String" user="views" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+              <item name="views" type="cbb8eebc:String" user="views" />
+              <item name="admin" type="cbb8eebc:String" user="admin" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+              <item name="views" type="cbb8eebc:String" user="views" />
+              <item name="admin" type="cbb8eebc:String" user="admin" />
+              <item name="paint" type="cbb8eebc:String" user="paint" />
             </path>
           </expand>
           <select />
@@ -505,35 +511,37 @@
       <workItem from="1568834788348" duration="640000" />
       <workItem from="1569346678148" duration="9950000" />
       <workItem from="1569409614923" duration="4895000" />
+      <workItem from="1569485399097" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257967000" />
+    <option name="totallyTimeSpent" value="258316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" x="559" y="34" width="247" height="660" id="Project" order="0" visible="true" weight="0.238653" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" content_ui="combo" x="559" y="34" width="247" height="660" id="Project" order="0" visible="true" weight="0.238653" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,6 +551,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/video/all_videos.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -758,9 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="1422" column="48" selection-start-line="1422" selection-start-column="48" selection-end-line="1422" selection-end-column="48" />
-          <folding>
-            <element signature="e#96646#96673#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,17 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="34" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="30" column="125" selection-start-line="30" selection-start-column="125" selection-end-line="30" selection-end-column="125" />
-          <folding>
-            <element signature="e#249#292#0#HTML" expanded="true" />
-            <element signature="e#459#477#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,9 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/collection/add_paint.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -852,17 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="27" column="96" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="96" />
-          <folding>
-            <element signature="e#254#297#0#HTML" expanded="true" />
-            <element signature="e#474#492#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
@@ -875,8 +862,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CollectionController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="95" column="40" lean-forward="true" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+        <state relative-caret-position="1530">
+          <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+          <folding>
+            <element signature="e#46#72#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="154" selection-start-line="49" selection-start-column="154" selection-end-line="49" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="166" column="39" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="39" />
           <folding>
             <element signature="e#46#72#0#PHP" expanded="true" />
           </folding>
@@ -885,25 +889,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/add_paint.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="49" column="132" selection-start-line="49" selection-start-column="119" selection-end-line="49" selection-end-column="132" />
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/edit_paint.blade.php">
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="49" column="154" selection-start-line="49" selection-start-column="154" selection-end-line="49" selection-end-column="154" />
+        <state relative-caret-position="204">
+          <caret line="85" column="91" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/PaintController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/paint/all_paints.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="149" column="106" selection-start-line="149" selection-start-column="106" selection-end-line="149" selection-end-column="106" />
-          <folding>
-            <element signature="e#46#72#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="122">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
         </state>
       </provider>
     </entry>

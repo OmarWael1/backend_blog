@@ -14,10 +14,10 @@
 
 Auth::routes();
 
-Route::get('locale/{locale}', function ($locale){
-    Session::put('locale', $locale);
-    return redirect()->back();
-});
+//Route::get('locale/{locale}', function ($locale){
+//    Session::put('locale', $locale);
+//    return redirect()->back();
+//});
 
 
 Route::get('/dashboard', 'Admin\DashboardController@index')->name('dashboard');
@@ -83,6 +83,7 @@ Route::get('/admin/paint/add', 'Admin\PaintController@create')->name('addPaintVi
 Route::post('/admin/paint/add', 'Admin\PaintController@store')->name('addPaint');
 Route::get('/admin/paint/edit/{id}', 'Admin\PaintController@edit')->name('editPaintView');
 Route::post('/admin/paint/edit/{id}', 'Admin\PaintController@update')->name('editPaint');
+Route::get('/admin/paint/delete/{id}', 'Admin\PaintController@destroy')->name('deletePaint');
 Route::get('/admin/paint/{id}', 'Admin\PaintController@show')->name('paint');
 
 

@@ -161,6 +161,10 @@ class PaintController extends Controller
      */
     public function destroy($id)
     {
+        Paint::destroy($id);
+        $paints = Paint::all();
+        Session::flash('message','paint deleted successfully');
+        return view('admin/paint/all_paints')->with('paints',$paints);
         //
     }
 }

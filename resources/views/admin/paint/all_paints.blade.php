@@ -8,7 +8,11 @@
                 <div class="card-header">Paints
                     <a style="text-decoration: none;padding: 40%;" href="{{route('addPaintView')}}" role="button">{{__('Add new paint')}}</a>
                 </div>
-
+                @if (session('message'))
+                    <div class="alert alert-success">
+                        {{ session('message') }}
+                    </div>
+                @endif
                 <div class="card-body">
                     <table style="width:100%" border=1 frame=void rules=rows>
                         <thead>
@@ -19,6 +23,7 @@
                                 <th class="text-center">No of Readers</th>
                                 <th class="text-center">image</th>
                                 <th class="text-center">Edit</th>
+                                <th class="text-center">Delete</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -30,6 +35,7 @@
                                     <td  class="text-center">{{$paint->number_of_readers}}</td>
                                     <td  class="text-center" style="padding: 10px;"><img src="{{asset('storage/'.$paint->file_name)}}" style="width: 100px; height: 100px"> </td>
                                     <td class="text-center"><a href="{{route('editPaintView', ['id' => $paint->id])}}" role="button">{{__('Edit ')}}</a></td>
+                                    <td class="text-center"><a href="{{route('deletePaint', ['id' => $paint->id])}}" role="button">{{__('Delete ')}}</a></td>
                                     {{--<td class="text-center"><a href="{{route('paint', ['id' => $paint->id])}}" role="button">{{__('view ')}}</a></td>--}}
                                 </tr>
                             @endforeach
