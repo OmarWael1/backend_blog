@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/QuranController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LocalizationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LocalizationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,13 +38,22 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="1768">
               <caret line="113" column="56" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuranController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuranController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/QuranController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -150,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/database/migrations/2019_08_23_212656_create_researches_table.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/research/all_researches.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/book/edit_book.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/book/all_books.blade.php" />
@@ -201,6 +207,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/LocalizationController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/QuranController.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -328,58 +335,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-              <item name="Controllers" type="cbb8eebc:String" user="Controllers" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="Http" type="cbb8eebc:String" user="Http" />
-              <item name="Controllers" type="cbb8eebc:String" user="Controllers" />
-              <item name="Admin" type="cbb8eebc:String" user="Admin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
-              <item name="resources" type="cbb8eebc:String" user="resources" />
-              <item name="views" type="cbb8eebc:String" user="views" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-              <item name="paint" type="cbb8eebc:String" user="paint" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -472,19 +427,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\backend_blog\resources\views\admin" />
-      <recent name="C:\laragon\www\backend_blog\app\Models" />
-      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Admin" />
-      <recent name="C:\laragon\www\backend_blog\resources\views\reader" />
-      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Reader" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\laragon\www\profZeniabBlog\app\Models" />
       <recent name="C:\laragon\www\profZeniabBlog\resources\views\admin\users" />
       <recent name="C:\laragon\www\profZeniabBlog\resources\views\admin\articles" />
       <recent name="C:\laragon\www\profZeniabBlog\app\Http\Controllers\Admin" />
       <recent name="C:\laragon\www\profZeniabBlog\app\Http\Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers" />
+      <recent name="C:\laragon\www\backend_blog\resources\views\admin" />
+      <recent name="C:\laragon\www\backend_blog\app\Models" />
+      <recent name="C:\laragon\www\backend_blog\app\Http\Controllers\Admin" />
+      <recent name="C:\laragon\www\backend_blog\resources\views\reader" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -554,12 +509,12 @@
       <workItem from="1569346678148" duration="9950000" />
       <workItem from="1569409614923" duration="4895000" />
       <workItem from="1569485399097" duration="349000" />
-      <workItem from="1569503525244" duration="554000" />
+      <workItem from="1569503525244" duration="1462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258870000" />
+    <option name="totallyTimeSpent" value="259778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -594,13 +549,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/research/add_research.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/SmallStoryController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -934,17 +882,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="113" column="56" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/QuranController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="113" column="56" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
