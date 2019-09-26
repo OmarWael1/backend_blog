@@ -9,7 +9,7 @@ use Datatables;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use App\Http\Controllers\Controller;use Illuminate\Support\Facades\Session;
-class LocalizationController extends Controller
+class QuranController extends Controller
 {
 
 
@@ -18,11 +18,9 @@ class LocalizationController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function changeLanguage($locale)
+    public function index()
     {
-            Session::put('locale', $locale);
-            return redirect()->back();
-
+        return view('reader/quran-trans');
     }
 
   

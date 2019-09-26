@@ -14,10 +14,7 @@
 
 Auth::routes();
 
-//Route::get('locale/{locale}', function ($locale){
-//    Session::put('locale', $locale);
-//    return redirect()->back();
-//});
+Route::get('locale/{locale}', 'LocalizationController@changeLanguage');
 
 
 Route::get('/dashboard', 'Admin\DashboardController@index')->name('dashboard');
@@ -114,7 +111,4 @@ Route::get('/story/{id}' , 'Reader\SmallStoryPageController@show')->name('reader
 Route::get('/book/{id}' , 'Reader\BookAndResearchPageController@showBook')->name('readerBook');
 Route::get('/research/{id}' , 'Reader\BookAndResearchPageController@showResearch')->name('readerResearch');
 Route::get('/article/{id}' , 'Reader\ArticlePageController@show')->name('readerArticle');
-Route::get('/quran/translation' , function (){
-
-    return view('reader/quran-trans');
-})->name('readerQuran');
+Route::get('/quran/translation' , 'QuranController@index')->name('readerQuran');
