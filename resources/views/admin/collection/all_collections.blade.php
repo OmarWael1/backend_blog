@@ -5,8 +5,8 @@
     <div class="row justify-content-center">
         <div class="col-md-12">
             <div class="card">
-                <div class="card-header">Collections
-                    <a style="text-decoration: none;padding: 40%;" href="{{route('addCollectionView')}}" role="button">{{__('Add new collection')}}</a>
+                <div class="card-header">
+                    <a style="text-decoration: none;" href="{{route('addCollectionView')}}" role="button">{{__('Add new collection')}}</a>
                 </div>
 
                 <div class="card-body">

@@ -145,6 +145,6 @@ class CollectionController extends Controller
      */
     public function destroy($id)
     {
-        //
+
     }
 }

@@ -43,6 +43,10 @@ class PaintController extends Controller
     public function create()
     {
         $collections = Collection::all();
+        if(count($collections) == 0){
+            Session::flash('message','please add a collection first before a paint..');
+            return view('admin/collection/add_collection');
+        }
         return view('admin/paint/add_paint')->with('collections',$collections);
     }
 
@@ -165,6 +169,5 @@ class PaintController extends Controller
         $paints = Paint::all();
         Session::flash('message','paint deleted successfully');
         return view('admin/paint/all_paints')->with('paints',$paints);
-        //
     }
 }

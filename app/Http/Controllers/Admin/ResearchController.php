@@ -146,6 +146,9 @@ class ResearchController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Research::destroy($id);
+        $researches = Research::all();
+        Session::flash('message','research deleted successfully');
+        return view('admin/research/all_researches')->with('researches',$researches);
     }
 }

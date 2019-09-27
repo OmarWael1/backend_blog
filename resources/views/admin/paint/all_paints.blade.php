@@ -5,8 +5,8 @@
     <div class="row justify-content-center">
         <div class="col-md-12">
             <div class="card">
-                <div class="card-header">Paints
-                    <a style="text-decoration: none;padding: 40%;" href="{{route('addPaintView')}}" role="button">{{__('Add new paint')}}</a>
+                <div class="card-header">
+                    <a style="text-decoration: none;" href="{{route('addPaintView')}}" role="button">{{__('Add new paint')}}</a>
                 </div>
                 @if (session('message'))
                     <div class="alert alert-success">

@@ -149,6 +149,9 @@ class VideoController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Video::destroy($id);
+        $videos = Video::all();
+        Session::flash('message','video deleted successfully');
+        return view('admin/video/all_videos')->with('videos',$videos);
     }
 }

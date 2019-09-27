@@ -148,6 +148,9 @@ class SmallStoryController extends Controller
      */
     public function destroy($id)
     {
-        //
+        SmallStory::destroy($id);
+        $stories = SmallStory::all();
+        Session::flash('message','story deleted successfully');
+        return view('admin/story/all_stories')->with('stories',$stories);
     }
 }

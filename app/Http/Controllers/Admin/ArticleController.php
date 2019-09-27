@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\admin;
 
 use App\Models\Article;
-use App\Models\Image;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Session;
@@ -161,6 +160,9 @@ class ArticleController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Article::destroy($id);
+        $articles = Article::all();
+        Session::flash('message','article deleted successfully');
+        return view('admin/article/all_articles')->with('articles',$articles);
     }
 }

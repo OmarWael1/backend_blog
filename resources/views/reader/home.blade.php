@@ -91,128 +91,125 @@
         </div>
     </section>
 
-    <section class="container most-read no-grid-mobile">
-        <div class="section-header">
-                <span class="main-header">
-                     الأكثر قراءة
-                </span>
-            <span class="sub-header">
-                    اهم مقالات الدكتورة زينب عبدالعزيز ومختارات اعمالها
-                </span>
-        </div>
-        <div class="most-read-articles  mobile-flex-column no-background-mobile">
-            @foreach($articles as $article)
-            <div class="atricle is-mobile-fullwidth">
+    {{--<section class="container most-read no-grid-mobile">--}}
+        {{--<div class="section-header">--}}
+                {{--<span class="main-header">--}}
+                     {{--الأكثر قراءة--}}
+                {{--</span>--}}
+            {{--<span class="sub-header">--}}
+                    {{--اهم مقالات الدكتورة زينب عبدالعزيز ومختارات اعمالها--}}
+                {{--</span>--}}
+        {{--</div>--}}
+        {{--<div class="most-read-articles  mobile-flex-column no-background-mobile">--}}
+            {{--@foreach($articles as $article)--}}
+            {{--<div class="atricle is-mobile-fullwidth">--}}
                 {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
-                <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
-                <div class="story-content">
-                    <span class="article-content-header">{{$article->title}}</span>
-                    <p> {{ str_limit(strip_tags($article->body),300)  }} ...</p>
-                    <p>{{$article->date_of_publish}}</p>
-                </div>
-                </a>
-            </div>
-            @endforeach
-        </div>
-    </section>
+                {{--<a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">--}}
+                {{--<div class="story-content">--}}
+                    {{--<span class="article-content-header">{{$article->title}}</span>--}}
+                    {{--<p> {{ str_limit(strip_tags($article->body),300)  }} ...</p>--}}
+                    {{--<p>{{$article->date_of_publish}}</p>--}}
+                {{--</div>--}}
+                {{--</a>--}}
+            {{--</div>--}}
+            {{--@endforeach--}}
+        {{--</div>--}}
+    {{--</section>--}}
 
-    <section class="container researches-books no-grid-mobile">
-        <div class="section-header">
-                    <span class="main-header">
-                            كتب و ابحاث
-                    </span>
-        </div>
+    {{--<section class="container researches-books no-grid-mobile">--}}
+        {{--<div class="section-header">--}}
+                    {{--<span class="main-header">--}}
+                            {{--كتب و ابحاث--}}
+                    {{--</span>--}}
+        {{--</div>--}}
 
-        <div class="researches-books-container no-grid-mobile no-background-mobile">
-            @foreach($researches as $research)
-            <div class="book">
-                <img class="book-img" src="{{asset('storage/34.jpg')}}">
-                <div class="book-desc">
-                            <span class="book-title">
-                                {{$research->title}}
-                            </span>
-                    <p>{{$research->date_of_publication}}</p>
-                </div>
-            </div>
-            @endforeach
+        {{--<div class="researches-books-container no-grid-mobile no-background-mobile">--}}
+            {{--@foreach($researches as $research)--}}
+            {{--<div class="book">--}}
+                {{--<img class="book-img" src="{{asset('storage/34.jpg')}}">--}}
+                {{--<div class="book-desc">--}}
+                            {{--<span class="book-title">--}}
+                                {{--{{$research->title}}--}}
+                            {{--</span>--}}
+                    {{--<p>{{$research->date_of_publication}}</p>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--@endforeach--}}
 
-        </div>
-    </section>
+        {{--</div>--}}
+    {{--</section>--}}
 
-    <section class="container videos no-grid-mobile no-background-mobile">
-        <div class="section-header">
-                        <span class="main-header">
-                                فيديوهات
-                        </span>
-        </div>
+    {{--<section class="container videos no-grid-mobile no-background-mobile">--}}
+        {{--<div class="section-header">--}}
+                        {{--<span class="main-header">--}}
+                                {{--فيديوهات--}}
+                        {{--</span>--}}
+        {{--</div>--}}
 
-        {{--@foreach($videos as $video)--}}
-        <div class="video-container">
-            <video id="vid" src="{{asset('storage/video1.mp4')}}"></video>
-            <div class="play-button">
-                <button id="play">
-                    <img src="{{asset('storage/fa-solid-play.png')}}">
-                </button>
+       {{--<div class="video-container">--}}
+            {{--<video id="vid" src="{{asset('storage/'.$video->file_name)}}"></video>--}}
+            {{--<div class="play-button">--}}
+                {{--<button id="play">--}}
+                    {{--<img src="{{asset('storage/fa-solid-play.png')}}">--}}
+                {{--</button>--}}
 
-                <p class="video-desc">
+                {{--<p class="video-desc">--}}
                     {{--{{$video->title}}--}}
-                    كلام رائع للدكتورة زينب عبد العزيز عن الحجاب ورأيها فيه .. حوار ممتع وقوى
-                    <br>
+                    {{--<br>--}}
 
                     {{--{{$video->description}}--}}
-                </p>
-            </div>
-            <div class="video-controls">
-                <button id="pause-play">
-                    <img src="{{asset('storage/pause.png')}}">
-                </button>
+                {{--</p>--}}
+            {{--</div>--}}
+            {{--<div class="video-controls">--}}
+                {{--<button id="pause-play">--}}
+                    {{--<img src="{{asset('storage/pause.png')}}">--}}
+                {{--</button>--}}
 
-                <div id="progress-bar">
-                    <div id="progress-bar-filler">
+                {{--<div id="progress-bar">--}}
+                    {{--<div id="progress-bar-filler">--}}
 
-                    </div>
-                </div>
+                    {{--</div>--}}
+                {{--</div>--}}
 
-                <button id="fullscreen">
-                    <img src="{{asset('storage/fullscreen.png')}}">
-                </button>
-            </div>
-        </div>
-        {{--@endforeach--}}
-    </section>
+                {{--<button id="fullscreen">--}}
+                    {{--<img src="{{asset('storage/fullscreen.png')}}">--}}
+                {{--</button>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
 
-    <section class="container opinions">
-        <div class="section-header">
-                        <span class="main-header">
-                                أراء وكتابات
-                        </span>
-        </div>
+    {{--<section class="container opinions">--}}
+        {{--<div class="section-header">--}}
+                        {{--<span class="main-header">--}}
+                                {{--أراء وكتابات--}}
+                        {{--</span>--}}
+        {{--</div>--}}
 
-        <div class="opinion-container">
-            <div class="opinion-item">
-                <p>“ صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها و جهودها على مدى عمرها  لخدمة قضية شائكة بالغة التعقيد تدرأ بها عن عقيدة الإسلام ما يلّفقه له خصومه فى الخارج. ”</p>
-                <span class="opinion-issuer">
-                                د. ثروت عكاشة
-                        </span>
-                <span class="time-place">
-                                المعادى فى 5 يناير2005
-                        </span>
-            </div>
+        {{--<div class="opinion-container">--}}
+            {{--<div class="opinion-item">--}}
+                {{--<p>“ صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها و جهودها على مدى عمرها  لخدمة قضية شائكة بالغة التعقيد تدرأ بها عن عقيدة الإسلام ما يلّفقه له خصومه فى الخارج. ”</p>--}}
+                {{--<span class="opinion-issuer">--}}
+                                {{--د. ثروت عكاشة--}}
+                        {{--</span>--}}
+                {{--<span class="time-place">--}}
+                                {{--المعادى فى 5 يناير2005--}}
+                        {{--</span>--}}
+            {{--</div>--}}
 
-        </div>
+        {{--</div>--}}
 
-        <div class="commenters">
-            <div class="commenter">
-                <img src="{{asset('storage/Pantheon-770x433.jpg')}}">
-            </div>
-            <div class="commenter">
-                <img src="{{asset('storage/Pantheon-770x433.jpg')}}">
-            </div>
-            <div class="commenter">
-                <img src="{{asset('storage/Pantheon-770x433.jpg')}}">
-            </div>
-        </div>
-    </section>
+        {{--<div class="commenters">--}}
+            {{--<div class="commenter">--}}
+                {{--<img src="{{asset('storage/Pantheon-770x433.jpg')}}">--}}
+            {{--</div>--}}
+            {{--<div class="commenter">--}}
+                {{--<img src="{{asset('storage/Pantheon-770x433.jpg')}}">--}}
+            {{--</div>--}}
+            {{--<div class="commenter">--}}
+                {{--<img src="{{asset('storage/Pantheon-770x433.jpg')}}">--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
 
 
 

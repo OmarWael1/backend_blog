@@ -152,6 +152,9 @@ class BookController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Book::destroy($id);
+        $books = Book::all();
+        Session::flash('message','book deleted successfully');
+        return view('admin/book/all_books')->with('books',$books);
     }
 }

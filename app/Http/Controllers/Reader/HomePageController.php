@@ -19,9 +19,9 @@ class HomePageController extends Controller
     public function index()
     {
         $articles = Article::paginate(3);
-        $videos = Video::paginate(1);
+        $video = Video::first();
         $researches = Research::paginate(2);
-        return view('reader/home')->with('articles',$articles)->with('videos',$videos)->with('researches',$researches);
+        return view('reader/home')->with('articles',$articles)->with('video',$video)->with('researches',$researches);
     }
 
   }
