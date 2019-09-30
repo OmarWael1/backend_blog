@@ -81,7 +81,7 @@ Route::post('/jump/to/admin/paint/add', 'Admin\PaintController@store')->name('ad
 Route::get('/jump/to/admin/paint/edit/{id}', 'Admin\PaintController@edit')->name('editPaintView');
 Route::post('/jump/to/admin/paint/edit/{id}', 'Admin\PaintController@update')->name('editPaint');
 Route::get('/jump/to/admin/paint/delete/{id}', 'Admin\PaintController@destroy')->name('deletePaint');
-Route::get('/jump/to/admin/paint/{id}', 'Admin\PaintController@show')->name('paint');
+//Route::get('/jump/to/admin/paint/{id}', 'Admin\PaintController@show')->name('paint');
 
 
 
@@ -92,7 +92,7 @@ Route::get('/jump/to/admin/collection/add', 'Admin\CollectionController@create')
 Route::post('/jump/to/admin/collection/add', 'Admin\CollectionController@store')->name('addCollection');
 Route::get('/jump/to/admin/collection/edit/{id}', 'Admin\CollectionController@edit')->name('editCollectionView');
 Route::post('/jump/to/admin/collection/edit/{id}', 'Admin\CollectionController@update')->name('editCollection');
-Route::get('/jump/to/admin/collection/{id}', 'Admin\CollectionController@show')->name('collection');
+//Route::get('/jump/to/admin/collection/{id}', 'Admin\CollectionController@show')->name('collection');
 
 /* Reader routes*/
 

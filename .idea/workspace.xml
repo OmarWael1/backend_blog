@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PaintsPageController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PaintsPageController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/PaintsPageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="459">
               <caret line="34" column="7" selection-start-line="24" selection-start-column="5" selection-end-line="34" selection-end-column="7" />
             </state>
           </provider>
@@ -36,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersTableSeeder.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UsersTableSeeder.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/seeds/UsersTableSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="255">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -91,17 +87,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find />
+      <find>.navigation-list-item {</find>
       <find>referenceDOMS</find>
       <find>registerEvents</find>
       <find>back</find>
       <find>images</find>
-      <find />
+      <find>@media screen and (max-width: 769px) {</find>
       <find>navigation-list</find>
-      <find />
+      <find>flex-direction: column;</find>
       <find>toggleMenu</find>
-      <find />
-      <find />
+      <find>عن الد</find>
+      <find>@media screen and</find>
       <find>.navigation-list-item</find>
       <find>image</find>
       <find>fonts</find>
@@ -123,19 +119,19 @@
       <find>home</find>
     </findStrings>
     <replaceStrings>
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
-      <replace />
+      <replace>&lt;li href=&quot;#102&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#103&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#104&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#105&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#10&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#107&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#108&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#109&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#110&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#111&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#112&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#113&quot;&gt;</replace>
+      <replace>&lt;li href=&quot;#114&quot;&gt;</replace>
       <replace>&lt;/li&gt;&lt;br&gt;</replace>
       <replace>&lt;li&gt;&lt;a</replace>
       <replace>&lt;/a&gt;&lt;/li&gt;</replace>
@@ -350,6 +346,12 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="Http" type="cbb8eebc:String" user="Http" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backend_blog" type="cbb8eebc:String" user="backend_blog" />
               <item name="database" type="cbb8eebc:String" user="database" />
             </path>
           </expand>
@@ -528,16 +530,15 @@
       <workItem from="1569485399097" duration="349000" />
       <workItem from="1569503525244" duration="3609000" />
       <workItem from="1569608640670" duration="7369000" />
-      <workItem from="1569827897779" duration="1250000" />
+      <workItem from="1569827897779" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270544000" />
+    <option name="totallyTimeSpent" value="271123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="559" y="34" width="247" height="660" id="Project" order="0" visible="true" weight="0.238653" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -874,13 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/PaintsPageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="7" selection-start-line="24" selection-start-column="5" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -924,8 +918,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/UsersTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/PaintsPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="34" column="7" selection-start-line="24" selection-start-column="5" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
