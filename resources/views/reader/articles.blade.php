@@ -55,12 +55,12 @@
                             {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                             <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                                 <div class="story-content">
-                                <span class="story-title">
+                                <p class="story-title">
                                     {{$article->title}}
-                                </span>
-                                    <p class="story-breif">
+                                </p>
+                                    {{-- <p class="story-breif">
                                         {!! substr(strip_tags($article->body),0,900) !!}...
-                                    </p>
+                                    </p> --}}
                                     <div class="story-details">
                                         <span class="story-publish-date">
                                                 {{$article->date_of_publish}}
@@ -87,12 +87,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p>
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
@@ -119,12 +119,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p>
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
@@ -151,12 +151,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p>
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
@@ -183,12 +183,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p>
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
@@ -215,12 +215,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p>
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
@@ -247,12 +247,12 @@
                         {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                         <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                 {{$article->title}}
-                            </span>
-                                <p class="story-breif">
+                            </p
+                                {{-- <p class="story-breif">
                                     {!! substr(strip_tags($article->body),0,900) !!}...
-                                </p>
+                                </p> --}}
                                 <div class="story-details">
                                     <span class="story-publish-date">
                                             {{$article->date_of_publish}}
