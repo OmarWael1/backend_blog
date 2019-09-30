@@ -75,7 +75,7 @@ Route::post('/jump/to/admin/video/edit/{id}', 'Admin\VideoController@update')->n
 Route::get('/jump/to/admin/video/{id}', 'Admin\VideoController@show')->name('video');
 Route::get('/jump/to/admin/video/delete/{id}', 'Admin\VideoController@destroy')->name('deleteVideo');
 /* paints routes */
-Route::get('/jump/to/admin/paints', 'Admin\paintController@index')->name('paints');
+Route::get('/jump/to/admin/paints', 'Admin\PaintController@index')->name('paints');
 Route::get('/jump/to/admin/paint/add', 'Admin\PaintController@create')->name('addPaintView');
 Route::post('/jump/to/admin/paint/add', 'Admin\PaintController@store')->name('addPaint');
 Route::get('/jump/to/admin/paint/edit/{id}', 'Admin\PaintController@edit')->name('editPaintView');
