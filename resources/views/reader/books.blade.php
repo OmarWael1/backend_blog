@@ -30,9 +30,9 @@
                         <img src="{{asset('storage/34.jpg')}}">
                     <a href="{{route('readerBook',$book->id)}}"  style="text-decoration:none">
                     <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                    {{$book->title}}
-                            </span>
+                            </p>
                             <p class="story-breif">
                                     {{$book->description}}
                             </p>
@@ -63,9 +63,9 @@
                             <img src="{{asset('storage/34.jpg')}}">
                             <a href="{{route('readerBook',$book->id)}}"  style="text-decoration:none">
                                 <div class="story-content">
-                                <span class="story-title">
+                                <p class="story-title">
                                        {{$book->title}}
-                                </span>
+                                </p>
                                     <p class="story-breif">
                                         {{$book->description}}
                                     </p>

@@ -24,7 +24,7 @@
 
                         <br>
                             <div>
-                                <embed src="{{ asset('storage/'.$book->file_name) }}" style="width:600px; height:800px;" frameborder="0">
+                                <embed src="{{ asset('storage/'.$book->file_name) }}" style="width:100%; height:800px;" frameborder="0">
                             </div>
                             <br>
 

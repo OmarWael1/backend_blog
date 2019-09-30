@@ -13,9 +13,9 @@
                     <img src="{{asset('storage/34.jpg')}}">
                     <a href="{{route('readerStory',$story->id)}}"  style="text-decoration:none">
                     <div class="story-content">
-                        <span class="story-title">
+                        <p class="story-title">
                                 {{$story->title}}
-                        </span>
+                        </p>
                         <p class="story-breif">
                             {!! substr(strip_tags($story->body),0,350) !!}...
                         </p>

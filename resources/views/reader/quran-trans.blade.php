@@ -1422,13 +1422,13 @@
             <div style="text-align: center;" class="view-item-conetent-data">
                 <h3><strong> Le Qur’ān </strong><br>
                     Traduction du sens de ses Versets</h3>
-                <embed  src="{{ asset('storage/2_introduction_11-01-10[1].pdf') }}" style="width:900px; height:800px;" frameborder="0">
+                <embed  src="{{ asset('storage/2_introduction_11-01-10[1].pdf') }}" style="width:100%; height:800px;" frameborder="0">
             </div>
         </section>
 
         {{--<a href="#top" style="position:sticky">Back to top of page</a>--}}
 
-        <section class="container quran-suar">
+        <section class="container quran-suar pt-0">
               <div class="quran-suar-container">
                   <div class="quran-contents">
                       <span class="quran-contents-title">THE NOBLE QUR'AN</span>
@@ -1897,9 +1897,9 @@
                   <div class="suar">
                       <ul class="suar-contents">
                           <li id="1" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   1
-                              </div>
+                              </div> --}}
                               <div style="font-family: Borgtimb">
                               <div >
                                   <p align="center">
@@ -1970,9 +1970,9 @@
                               </div>
                           </li>
                           <li id="2" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   2
-                              </div>
+                              </div> --}}
 
 
                               <div style="font-family: Borgtimb">
@@ -4269,9 +4269,9 @@
                               </div>
                           </li>
                           <li id="3" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   3
-                              </div>
+                              </div> --}}
                               <div style="font-family: Borgtimb;">
                                   <div>
                                       <p align="center">
@@ -5511,9 +5511,9 @@
                               </div>
                           </li>
                           <li id="4" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   4
-                              </div>
+                              </div> --}}
                               <div style="font-family: Borgtimb;">
                                   <div>
                                       <p align="center">
@@ -6891,9 +6891,9 @@
                               </div>
                           </li>
                           <li id="5" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   5
-                              </div>
+                              </div> --}}
                               <div style="font-family: Borgtimb;">
                                   <div>
                                       <p align="center">
@@ -7852,9 +7852,9 @@
                               </div>
                           </li>
                           <li id="6" class="suarah">
-                              <div class="suarah-number">
+                              {{-- <div class="suarah-number">
                                   6
-                              </div>
+                              </div> --}}
                               <div style="font-family: Borgtimb;">
                                   <div>
                                       <p align="center">

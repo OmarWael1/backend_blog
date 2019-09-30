@@ -15,9 +15,9 @@
                     <img src="{{asset('storage/34.jpg')}}">
                     <a href="{{route('readerVideo',$video->id)}}"  style="text-decoration:none">
                     <div class="story-content">
-                        <span class="story-title">
+                        <p class="story-title">
                                {{$video -> title}}
-                        </span>
+                        </p>
                         <div class="story-details">
                                 <span class="story-publish-date">
                                         {{$video -> date_of_publication}}

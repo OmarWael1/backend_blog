@@ -15,9 +15,9 @@
                         <img src="{{asset('storage/34.jpg')}}">
                         <a href="{{route('readerResearch',$research->id)}}"  style="text-decoration:none">
                             <div class="story-content">
-                            <span class="story-title">
+                            <p class="story-title">
                                    {{$research->title}}
-                            </span>
+                            </p>
                                 <p class="story-breif">
                                     {{$research->description}}
                                 </p>
