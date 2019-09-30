@@ -28,7 +28,7 @@
             </div>
 
             <p class="view-item-conetent-data">
-                {!! strip_tags($article->body,'<p><br><img><h3>') !!}
+                {!! strip_tags($article->body,'<p><br><img><h3><h2>') !!}
             </p>
 
         </section>
