@@ -112,3 +112,4 @@ Route::get('/book/{id}' , 'Reader\BookAndResearchPageController@showBook')->name
 Route::get('/research/{id}' , 'Reader\BookAndResearchPageController@showResearch')->name('readerResearch');
 Route::get('/article/{id}' , 'Reader\ArticlePageController@show')->name('readerArticle');
 Route::get('/quran/translation' , 'QuranController@index')->name('readerQuran');
+Route::get('/paint/{id}' , 'Reader\PaintsPageController@show')->name('readerPaint');

@@ -22,16 +22,16 @@ class PaintsPageController extends Controller
         return view('reader/paintings')->with('paints',$paints);
     }
 
-//    public function show($id)
-//    {
-//        try {
-//            $paint = Paint::findOrFail($id);
-//            $paint->number_of_readers ++;
-//            $paint->save();
-//            return view('reader/view_paint')->with('paint', $paint);
-//        }catch (ModelNotFoundException $e){
-//            abort(404);
-//        }
-//    }
+    public function show($id)
+    {
+        try {
+            $paint = Paint::findOrFail($id);
+            $paint->number_of_readers ++;
+            $paint->save();
+            return view('reader/view_paint')->with('paint', $paint);
+        }catch (ModelNotFoundException $e){
+            abort(404);
+        }
+    }
 
   }

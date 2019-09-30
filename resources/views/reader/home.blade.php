@@ -34,62 +34,62 @@
         <div class="about-image">
             <img src="{{asset('storage/about.png')}}">
         </div>
-        <div class="important-work-cards mobile-flex-column">
-            <div class="card is-mobile-fullwidth">
-                <div class="card-header">
-                    <div class="icon quran"></div>
-                    <div class="header-title">
-                        ترجمة القرآن
-                    </div>
+        {{--<div class="important-work-cards mobile-flex-column">--}}
+            {{--<div class="card is-mobile-fullwidth">--}}
+                {{--<div class="card-header">--}}
+                    {{--<div class="icon quran"></div>--}}
+                    {{--<div class="header-title">--}}
+                        {{--ترجمة القرآن--}}
+                    {{--</div>--}}
 
-                </div>
-                <div class="content">
-                    <p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>
-                </div>
+                {{--</div>--}}
+                {{--<div class="content">--}}
+                    {{--<p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>--}}
+                {{--</div>--}}
 
-                <div class="options">
-                    <a href="#">المزيد</a>
-                </div>
-            </div>
-            <div class="card is-mobile-fullwidth">
-                <div class="card-header">
-                    <div class="icon books"></div>
-                    <div class="header-title">
-                        كتب وابحاث
-                    </div>
-                </div>
-                <div class="content">
-                    <p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>
-                </div>
+                {{--<div class="options">--}}
+                    {{--<a href="#">المزيد</a>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<div class="card is-mobile-fullwidth">--}}
+                {{--<div class="card-header">--}}
+                    {{--<div class="icon books"></div>--}}
+                    {{--<div class="header-title">--}}
+                        {{--كتب وابحاث--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="content">--}}
+                    {{--<p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>--}}
+                {{--</div>--}}
 
-                <div class="options">
-                    <a href="#">المزيد</a>
-                </div>
-            </div>
-            <div class="card is-mobile-fullwidth">
-                <div class="card-header">
-                    <div class="icon articles"></div>
-                    <div class="header-title">
-                        مقالات
-                    </div>
-                </div>
-                <div class="content">
-                    <p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>
-                </div>
-                <div class="options">
-                    <a href="#">المزيد</a>
-                </div>
-            </div>
-        </div>
-        <div class="important-work-text">
-                <span class="about-important-works">
-                        أهم اعمال الدكتورة
-                </span>
-            <p>
-                و حسبُ كل عالم أن يكون مثل هذا العطاء من نصيبه ، و لكن هذه السيدة لم تقنع بهذا المجد التليد وحده ، فإذا هى تضيف إلى جهودها العلمية و جهادها الشاق عشق الفن التصويرى حتى غدت من نجومه اللامعات المبدعات ، تنأى بنفسها عن لعبة التجريد.
-            </p>
-        </div>
-    </section>
+                {{--<div class="options">--}}
+                    {{--<a href="#">المزيد</a>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<div class="card is-mobile-fullwidth">--}}
+                {{--<div class="card-header">--}}
+                    {{--<div class="icon articles"></div>--}}
+                    {{--<div class="header-title">--}}
+                        {{--مقالات--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="content">--}}
+                    {{--<p>صُدفة تلك أم منحة من الله عزّ و جلّ  هى التى دفعت دكتورة زينب عبد العزيز أستاذة الأدب الفرنسى و تاريخ الفنون بالجامعات المصرية إلى تكريس حياتها</p>--}}
+                {{--</div>--}}
+                {{--<div class="options">--}}
+                    {{--<a href="#">المزيد</a>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+        {{--<div class="important-work-text">--}}
+                {{--<span class="about-important-works">--}}
+                        {{--أهم اعمال الدكتورة--}}
+                {{--</span>--}}
+            {{--<p>--}}
+                {{--و حسبُ كل عالم أن يكون مثل هذا العطاء من نصيبه ، و لكن هذه السيدة لم تقنع بهذا المجد التليد وحده ، فإذا هى تضيف إلى جهودها العلمية و جهادها الشاق عشق الفن التصويرى حتى غدت من نجومه اللامعات المبدعات ، تنأى بنفسها عن لعبة التجريد.--}}
+            {{--</p>--}}
+        {{--</div>--}}
+    {{--</section>--}}
 
     {{--<section class="container most-read no-grid-mobile">--}}
         {{--<div class="section-header">--}}
