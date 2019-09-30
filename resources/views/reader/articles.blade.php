@@ -54,8 +54,8 @@
                         <div class="story" >
                             {{--<img src="{{asset('storage/'.$article->image_name)}}">--}}
                             <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
-                                <div class="story-content">
-                                <p class="story-title">
+                                <div class="story-content" style="padding-top:1px;">
+                                <p class="story-title custom-margin">
                                     {{$article->title}}
                                 </p>
                                     {{-- <p class="story-breif">

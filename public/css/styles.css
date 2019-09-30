@@ -966,9 +966,13 @@ header
     font-family: "Tajawal-Bold";
     font-size: 21px;
     line-height: 1.52;
-    margin-bottom: 40px;
+    margin-bottom: 15px;
     color: #040a2c;
 
+}
+.custom-margin {
+    margin-top: 20px;
+    margin-bottom: 30px !important;
 }
 
 .story-content > .story-breif
@@ -1093,13 +1097,19 @@ header
     line-height: 3.21;
     color: #545b6d;
 }
-.quran-contents > ul > li > p > a
+.quran-contents > ul > p
 {
     font-family: "Tajawal";
     font-size: 14px;
     color: #545b6d;
 }
-.quran-contents > ul > li > p > a:visited
+.quran-contents > ul > p > a
+{
+    font-family: "Tajawal";
+    font-size: 14px;
+    color: #545b6d;
+}
+.quran-contents > ul > p > a:visited
 {
     font-family: "Tajawal";
     font-size: 14px;
