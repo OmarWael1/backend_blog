@@ -1,7 +1,7 @@
 <footer>
 
     <nav class="navigation footer-nav">
-        <ul class="container navigation-list">
+        <ul class="container navigation-list has-white-background">
             <li class="navigation-list-item logo">
                 <a href="{{route('home')}}">
                     <img src="{{asset('storage/name.png')}}">
@@ -10,7 +10,7 @@
 
 
 
-            @if(App::isLocale('ar'))
+            {{-- @if(App::isLocale('ar')) --}}
 
                 {{--<li class="navigation-list-item">--}}
                     {{--<a href="{{route('about')}}">--}}
@@ -18,7 +18,7 @@
                     {{--</a>--}}
                 {{--</li>--}}
 
-                <li class="navigation-list-item">
+                {{-- <li class="navigation-list-item">
                     <a href="{{route('readerArticles')}}">
                         مقالات
                     </a>
@@ -66,7 +66,7 @@
                 <a href="{{route('readerQuran')}}">
                     {{trans('app.quranTranslation')}}
                 </a>
-            </li>
+            </li> --}}
 
 
 
