@@ -45,14 +45,14 @@
 </div>
 <div class="most-read-articles no-background-mobile">
    @foreach($articles as $article)
-       <div class="atricle">
+       <div class="atricle article-wrapper">
            <img src="{{asset('storage/'.$article->image_name)}}">
            <a href="{{route('readerArticle',$article->id)}}"  style="text-decoration:none">
-           <div class="atricle-content">
-               <span class="article-content-header">{{$article->title}}</span>
-               <p> {{ str_limit(strip_tags($article->body),100)  }} ...</p>
-               <p>{{$article->date_of_publish}}</p>
-           </div>
+            <div class="atricle-content">
+                <p class="article-content-header">{{$article->title}}</p>
+                <p class="article-content-body"> {{ str_limit(strip_tags($article->body),100)  }} ...</p>
+                <p class="article-content-body_absolute">{{$article->date_of_publish}}</p>
+            </div>
            </a>
        </div>
    @endforeach
