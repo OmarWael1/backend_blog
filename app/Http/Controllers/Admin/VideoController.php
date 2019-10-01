@@ -54,15 +54,16 @@ class VideoController extends Controller
     public function store(Request $request)
     {
 
-        if($request->hasFile('video'))
-        {
-            $video = $request->file('video');
-            $extension = $video->getClientOriginalExtension();
-            Storage::disk('public')->put($video->getFilename().'.'.$extension,  File::get($video));
-            $data = ['title' => $request->title ,'date_of_publication' => $request->date_of_publication];
+//        if($request->hasFile('video'))
+//        {
+//            $video = $request->file('video');
+//            $extension = $video->getClientOriginalExtension();
+//            Storage::disk('public')->put($video->getFilename().'.'.$extension,  File::get($video));
+            $data = ['title' => $request->title ,'date_of_publication' => $request->date_of_publication,'link' => $request->link];
             $validator = Validator::make($data, [
                 'title' => ['required', 'string'],
                 'date_of_publication' => ['required', 'string'],
+                'link' => ['required']
 
             ]);
             if ($validator->fails()) {
@@ -71,10 +72,10 @@ class VideoController extends Controller
                     ->withInput();
             }
             Video::create(['title' => request('title'),'date_of_publication' => request('date_of_publication'),
-                             'file_name'=>$video->getFilename().'.'.$extension ,
+                             'link'=>$request->link ,
                             ]);
             Session::flash('message','video created successfully');
-        }
+        //}
         return view('admin/video/add_video');
     }
 
@@ -124,6 +125,7 @@ class VideoController extends Controller
         $validator = Validator::make($data, [
             'title' => ['required', 'string', 'max:255'],
             'date_of_publication' => ['required', 'string'],
+            'link' => ['required'],
 
         ]);
         if ($validator->fails()) {
