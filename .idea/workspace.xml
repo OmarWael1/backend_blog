@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d499d07-d89e-4b09-b028-60636197cdfb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Models/Visitors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/VideoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/VideoController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Video.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_26_160220_create_videos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_26_160220_create_videos_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/video/add_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/video/add_video.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/video/edit_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/video/edit_video.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/navbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/small_stories.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/small_stories.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/videos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/videos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/reader/view_video.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/reader/view_video.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,13 +28,25 @@
       <file leaf-file-name="VideosPageController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+            <state relative-caret-position="323">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePageController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="e#47#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/reader/videos.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -173,7 +171,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/BookAndResearchPageController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/ArticlePageController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/AboutPageController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/french_articles.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/small_stories.blade.php" />
@@ -183,8 +180,9 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_08_26_160220_create_videos_table.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/view_video.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/VideoController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php" />
         <option value="$PROJECT_DIR$/resources/views/reader/videos.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php" />
       </list>
     </option>
   </component>
@@ -567,12 +565,12 @@
       <workItem from="1569827897779" duration="9607000" />
       <workItem from="1569854400872" duration="1013000" />
       <workItem from="1569930113155" duration="4976000" />
-      <workItem from="1569950443071" duration="4004000" />
+      <workItem from="1569950443071" duration="4391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288894000" />
+    <option name="totallyTimeSpent" value="289281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -864,13 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -956,17 +947,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/reader/videos.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/VideosPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Reader/HomePageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#47#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

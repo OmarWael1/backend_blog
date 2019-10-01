@@ -20,7 +20,7 @@ class HomePageController extends Controller
     public function index()
     {
         $visitors_number = Visitors::first();
-        if(count($visitors_number) == 0 ){
+        if(!$visitors_number){
             $visitors_number =  Visitors::create();
         }
         $visitors_number->number++ ;
