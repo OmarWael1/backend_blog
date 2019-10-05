@@ -33,9 +33,9 @@
 
 <nav class="navigation">
     <ul class="container navigation-list">
-        <li class="navigation-list-item logo">
+        <li class="navigation-list-item">
             <a href="{{route('home')}}">
-                <img src="{{asset('storage/name.png')}}">
+               الرئيسيه {{--<img src="{{asset('storage/name.png')}}">--}}
             </a>
         </li>
 
@@ -58,12 +58,6 @@
             <li class="navigation-list-item">
                 <a href="{{route('readerResearches')}}">
                      ابحاث
-                </a>
-            </li>
-
-            <li class="navigation-list-item">
-                <a href="{{route('readerPaints')}}">
-                    لوحات فنيه
                 </a>
             </li>
 
@@ -105,6 +99,11 @@
                 </a>
             </li>
 
+            <li class="navigation-list-item">
+                <a href="{{route('readerPaints')}}">
+                    لوحات فنيه
+                </a>
+            </li>
     </ul>
 </nav>
 

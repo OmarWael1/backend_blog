@@ -6,6 +6,7 @@ use App\Models\Article;
 use App\Http\Controllers\Controller;
 use App\Models\Research;
 use App\Models\Video;
+use App\Models\Visitors;
 
 class HomePageController extends Controller
 {
@@ -18,10 +19,14 @@ class HomePageController extends Controller
 // Articles , Books and researches , videos
     public function index()
     {
-        $articles = Article::paginate(3);
-        $video = Video::first();
-        $researches = Research::paginate(2);
-        return view('reader/home')->with('articles',$articles)->with('video',$video)->with('researches',$researches);
+        $visitors_number = Visitors::first();
+        if(!$visitors_number){
+            $visitors_number =  Visitors::create();
+        }
+        $visitors_number->number++ ;
+        $visitors_number->update();
+
+        return view('reader/home');
     }
 
   }

@@ -2,72 +2,20 @@
 
     <nav class="navigation footer-nav">
         <ul class="container navigation-list has-white-background">
-            <li class="navigation-list-item logo">
+            <li class="navigation-list-item ">
                 <a href="{{route('home')}}">
                     <img src="{{asset('storage/name.png')}}">
                 </a>
             </li>
-
-
-
-            {{-- @if(App::isLocale('ar')) --}}
-
-                {{--<li class="navigation-list-item">--}}
-                    {{--<a href="{{route('about')}}">--}}
-                        {{--السيره الذاتيه--}}
-                    {{--</a>--}}
-                {{--</li>--}}
-
-                {{-- <li class="navigation-list-item">
-                    <a href="{{route('readerArticles')}}">
-                        مقالات
-                    </a>
-                </li>
-
-                <li class="navigation-list-item">
-                    <a href="{{route('readerResearches')}}">
-                        ابحاث
-                    </a>
-                </li>
-
-                <li class="navigation-list-item">
-                    <a href="{{route('readerPaints')}}">
-                        لوحات فنيه
-                    </a>
-                </li>
-
-                <li class="navigation-list-item">
-                    <a href="{{route('readerBooks')}}">
-                        كتب
-                    </a>
-                </li>
-
-                <li class="navigation-list-item">
-                    <a href="{{route('readerStories')}}">
-                        قصص قصيره
-                    </a>
-                </li>
-
-                <li class="navigation-list-item">
-                    <a href="{{route('readerVideos')}}">
-                        فيديوهات
-                    </a>
-                </li>
-
-            @else
-                <li class="navigation-list-item">
-                    <a href="{{route('readerFrArticles')}}">
-                        articles
-                    </a>
-                </li>
-            @endif
-
-            <li class="navigation-list-item">
-                <a href="{{route('readerQuran')}}">
-                    {{trans('app.quranTranslation')}}
-                </a>
-            </li> --}}
-
+            <?php
+            $visitors = App\Models\Visitors::first();
+            $count = $visitors->number;
+            ?>
+            <li style="width: 148px;height: 16px;font-family: Tajawal;font-size: 16px;font-weight: normal;
+                    font-style: normal;font-stretch: normal;line-height: normal;letter-spacing: normal;text-align: right;
+                     color: #8591b0;  font-weight: bold;color: #545b6d;">
+                           عدد زيارات الموقع  {{$count}}
+            </li>
 
 
         </ul>

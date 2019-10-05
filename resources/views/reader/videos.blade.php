@@ -12,7 +12,7 @@
 
                @foreach($videos as $video)
                 <div class="story">
-                    <img src="{{asset('storage/34.jpg')}}">
+                    <img src="{{$images[0]}}">
                     <a href="{{route('readerVideo',$video->id)}}"  style="text-decoration:none">
                     <div class="story-content">
                         <p class="story-title">

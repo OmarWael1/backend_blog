@@ -19,7 +19,17 @@ class VideosPageController extends Controller
     public function index()
     {
         $videos = Video::all();
-        return view('reader/videos')->with('videos',$videos);
+        $images = [];
+        for($i = 0 ; $i < count($videos); $i++){
+            $videoURL = $videos[$i]->link;
+            $urlArr = explode("/",$videoURL);
+            $urlArrNum = count($urlArr);
+            $youtubeVideoId = $urlArr[$urlArrNum - 1];
+            $thumbURL = 'http://img.youtube.com/vi/'.$youtubeVideoId.'/0.jpg';
+            $images[$i] = $thumbURL;
+        }
+
+        return view('reader/videos')->with('videos',$videos)->with('images',$images);
     }
 
     public function show($id)

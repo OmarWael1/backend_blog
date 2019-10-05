@@ -44,10 +44,11 @@
               </div>
 
               <div class="form-group row">
-                <label for="image" class="col-md-4 col-form-label text-md-right">{{ __('Video File') }}</label>
+                <label for="url" class="col-md-4 col-form-label text-md-right">{{ __('Video Link') }}</label>
 
                 <div class="col-md-6">
-                  <input  type="file"   name="video"  required>
+                  <input  type="text" class="form-control @error('link') is-invalid @enderror" name="link" value="{{ old('link') }}"  required autocomplete="name" autofocus>
+
                 </div>
               </div>
               <div class="form-group row mb-0">

@@ -3,35 +3,12 @@
 <main>
     <section>
     <br>
-        <div class="video-container" style="width: 50%">
-            <video id="vid" src="{{asset('storage/video1.mp4')}}"></video>
-            <div class="play-button">
-                <button id="play">
-                    <img src="{{asset('storage/fa-solid-play.png')}}">
-                </button>
-
-                <p class="video-desc">
-                    {{$video->title}}
-                    <br>
-
-                    {{$video->description}}
-                </p>
-            </div>
-            <div class="video-controls">
-                <button id="pause-play">
-                    <img src="{{asset('storage/pause.png')}}">
-                </button>
-
-                <div id="progress-bar">
-                    <div id="progress-bar-filler">
-
-                    </div>
-                </div>
-
-                <button id="fullscreen">
-                    <img src="{{asset('storage/fullscreen.png')}}">
-                </button>
-            </div>
+        <h3 class="video-container" style="justify-content: center">
+            {{$video->title}}
+        </h3><br>
+        <div class="video-container" style="justify-content: center" >
+            <iframe style="width:500px; height:345px;"  src="{{$video->link}}">
+            </iframe>
         </div>
     <br>
     </section>
