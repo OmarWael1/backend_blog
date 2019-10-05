@@ -69,7 +69,7 @@
 
             <li class="navigation-list-item">
                 <a href="{{route('readerStories')}}">
-                    قصص قصيره
+                    قصص قصيرة
                 </a>
             </li>
 
@@ -78,6 +78,13 @@
                     فيديوهات
                 </a>
             </li>
+
+            <li class="navigation-list-item">
+                <a href="{{route('readerPaints')}}">
+                    لوحات فنية
+                </a>
+            </li>
+
 
         @else
             <li class="navigation-list-item">
@@ -96,12 +103,6 @@
             <li class="navigation-list-item menu-toggle">
                 <a href="#" id="menu-toggle">
                     <img src="{{asset('storage/menu.png')}}">
-                </a>
-            </li>
-
-            <li class="navigation-list-item">
-                <a href="{{route('readerPaints')}}">
-                    لوحات فنيه
                 </a>
             </li>
     </ul>

@@ -1,27 +1,27 @@
-
-    /* GLOBALS */
+/* GLOBALS */
 @font-face
 {
     font-family: "Tajawal";
-    src: url('Tajawal-Regular.ttf');
+    src: url('../fonts/Tajawal-Regular.ttf');
 }
 
 @font-face
 {
     font-family: "Tajawal-Bold";
-    src: url('Tajawal-Bold.ttf');
+    src: url('../fonts/Tajawal-Bold.ttf');
 }
 
 @font-face
 {
     font-family: "Cairo-Bold";
-    src: url('Cairo-Bold.ttf');
+    src: url('../fonts/Cairo-Bold.ttf');
 }
 @font-face
 {
     font-family: "Cairo";
-    src: url('Cairo-Regular.ttf');
+    src: url('../fonts/Cairo-Regular.ttf');
 }
+
 
 
 
@@ -47,6 +47,12 @@ main
     height: 100%;
 }
 
+a
+{
+    text-decoration: none;
+    color: inherit;
+}
+
 
 
 .container
@@ -56,11 +62,9 @@ main
     height: 100%;
 }
 
-
 .section-header
 {
     text-align: center;
-    margin-bottom: 40px;
 }
 .section-header > .main-header
 {
@@ -136,12 +140,12 @@ header
 }
 .language-conatiner > .fr
 {
-    /*background-image: url("france.png");*/
+    background-image: url("../images/france.png");
     margin-left: 10px;
 }
 .language-conatiner > .eg
 {
-    /*background-image: url("egypt.png");*/
+    background-image: url("../images/egypt.png");
 }
 .language-conatiner > .fr
 ,.language-conatiner > .eg
@@ -161,12 +165,12 @@ header
 
 .language-conatiner > .fr:hover
 {
-    /*background-image: url("eiffel-tower.png");*/
+    background-image: url("../images/eiffel-tower.png");
 }
 
 .language-conatiner > .eg:hover
 {
-    /*background-image: url("pyramid.png");*/
+    background-image: url("../images/pyramid.png");
 }
 
 .language-conatiner > .fr > img
@@ -191,10 +195,8 @@ header
 
 .footer-nav
 {
-    /* background:#283583; */
+    background:#283583;
     color:#fff !important;
-    box-shadow: 0 20px 40px 0 rgba(125, 138, 159, 0.13);
-    border: solid 2px rgba(201, 209, 219, 0.11);
 }
 
 .footer-nav > .navigation-list > .navigation-list-item > a
@@ -220,6 +222,7 @@ header
 {
     display: inline-block;
     padding:0px 10px;
+    text-align: center;
 }
 .menu-toggle
 {
@@ -261,8 +264,8 @@ header
 }
 .greeting
 {
-    /*background: url("../images/doctor-section-background.png") no-repeat;*/
-    height: 80vh;
+    background: url("../images/doctor-section-background.png") no-repeat;
+    height: 800px;
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -332,26 +335,18 @@ header
     align-items: center;
 }
 
-.navigate-down > a
+.navigate-down > button
 {
     font-size: 18px;
     background: none;
+    border:none;
     cursor: pointer;
-    display: flex;
-    border: none;
-    cursor: pointer;
-    flex-direction: column;
 }
 
-.navigate-down > a > span
+.navigate-down > button > span
 {
     display: block;
-    color: black;
     margin-bottom: 12px;
-}
-.navigate-down > a > img
-{
-    margin: 0 auto;
 }
 
 
@@ -362,7 +357,7 @@ header
     background-image: linear-gradient(310deg, #ffffff, #fcfdfd);
     padding-top: 100px;
     padding-bottom: 100px;
-    /* display: grid; */
+    display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(2,auto);
     height: auto;
@@ -388,27 +383,20 @@ header
 
 .about-image
 {
-    /* display: flex; */
-    float: left;
-    margin-right: 30px;
-    margin-bottom: 30px;
-    margin-top: 100px;
+    display: flex;
 }
-/* .about-image > img
+.about-image > img
 {
     width:100%;
     margin: auto;
-    float: left;
-} */
+}
 
 .important-work-cards
 {
     display: flex;
     justify-content: space-between;
 }
-.has-white-background {
-    background: white !important;
-}
+
 
 .important-work-cards >  .card
 {
@@ -479,15 +467,15 @@ header
     background-image: linear-gradient(310deg, #f8f9fd, #fcfdfd);
     padding-top: 100px;
     padding-bottom: 100px;
-    /* display: grid; */
-    grid-template-rows: 60px auto;
+    display: grid;
+    grid-template-rows:200px auto;
     height: auto;
     gap: 60px;
 }
 
 .most-read-articles
 {
-    background:url("most-read.png") no-repeat;
+    background:url("../images/most-read.png") no-repeat;
     background-size: 100% 100%;
     display: flex;
     flex-direction: row;
@@ -498,11 +486,11 @@ header
 .most-read-articles > .atricle
 {
 
-    border-radius: 6px;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
-    background-color: #ffffff;
-    width:30%;
-    height: 380px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
+  background-color: #ffffff;
+  width:30%;
+  height: 380px;
 }
 
 .most-read-articles > .atricle > img
@@ -511,9 +499,9 @@ header
     width: 100%;
 }
 
-.atricle-content
+.atricle > .atricle-content
 {
-    padding: 10px;
+    padding:10px;
 }
 
 .atricle > .atricle-content > .article-content-header
@@ -547,7 +535,7 @@ header
 
 .researches-books-container
 {
-    background:url("group-14@2x.png") no-repeat;
+    background:url("../images/group-14@2x.png") no-repeat;
     background-size: cover;
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -559,11 +547,11 @@ header
 
 .researches-books-container > .book
 {
-    border-radius: 3.2px;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
-    background-color: #ffffff;
-    height: 400px;
-    width: 100%;
+  border-radius: 3.2px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
+  background-color: #ffffff;
+  height: 400px;
+  width: 100%;
 }
 .researches-books-container > .book > .book-img
 {
@@ -599,7 +587,7 @@ header
     grid-template-rows: auto;
     height: auto;
     gap: 60px;
-    /*background: url("video-background.png") no-repeat;*/
+    background: url("../images/video-background.png") no-repeat;
     background-size: contain;
     background-position: center center;
 }
@@ -671,11 +659,11 @@ header
 .video-container > .video-controls > #pause-play,
 .video-container > .video-controls > #fullscreen
 {
-    background: none;
-    border:none;
-    width: 32px;
-    order:1;
-    cursor: pointer;
+   background: none;
+   border:none;
+   width: 32px;
+   order:1;
+   cursor: pointer;
 }
 .video-container > .video-controls > #fullscreen
 {
@@ -691,20 +679,20 @@ header
 
 .video-container > .video-controls > #progress-bar
 {
-    order: 2;
-    flex-grow: 1;
-    background: #7e8085;
-    height: 5px;
-    border-radius: 1px;
+  order: 2;
+  flex-grow: 1;
+  background: #7e8085;
+  height: 5px;
+  border-radius: 1px;
 
 }
 .video-container > .video-controls > #progress-bar > #progress-bar-filler
 {
-    background: #fff;
-    transition: 1s linear;
-    width:0%;
-    height: 100%;
-    border-radius: 1px;
+   background: #fff;
+   transition: 1s linear;
+   width:0%;
+   height: 100%;
+   border-radius: 1px;
 }
 /*---------------------------OPINIONS----------------------------------*/
 .opinions
@@ -777,9 +765,9 @@ header
 
 .commenters > .commenter > img
 {
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
+   width: 100%;
+   height: 100%;
+   border-radius: 50%;
 
 }
 
@@ -837,9 +825,7 @@ header
     font-size: 30px;
     color: #040a2c;
 }
-.pt-0 {
-    padding-top: 0px !important;
-}
+
 .education,
 .work,
 .membership
@@ -854,7 +840,7 @@ header
     font-family: "Tajawal-Bold";
     font-size: 35px;
     color: #2c2e30;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
 }
 
 .doc-cv-grid
@@ -942,12 +928,11 @@ header
 
 .story
 {
-    /* min-height: 380px; */
+    min-height: 380px;
     max-height: auto;
     border-radius: 6px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
     background-color: #ffffff;
-    margin-bottom: 15px;
 }
 .story > img
 {
@@ -957,8 +942,8 @@ header
 
 .story-content
 {
-    padding: 0px 20px;
-    padding-bottom: 10px;
+    padding: 10px;
+
 }
 
 .story-content > .story-title
@@ -966,13 +951,7 @@ header
     font-family: "Tajawal-Bold";
     font-size: 21px;
     line-height: 1.52;
-    margin-bottom: 15px;
     color: #040a2c;
-
-}
-.custom-margin {
-    margin-top: 20px;
-    margin-bottom: 30px !important;
 }
 
 .story-content > .story-breif
@@ -990,9 +969,9 @@ header
 
 .story-content >  .story-details > .story-publish-date
 {
-    font-family: "Tajawal";
-    font-size: 16px;
-    color: #8591b0;
+  font-family: "Tajawal";
+  font-size: 16px;
+  color: #8591b0;
 }
 .story-content > .story-details > .stroy-visit-count
 {
@@ -1006,7 +985,7 @@ header
 {
     font-family: "Tajawal-bold";
 
-    color: #545b6d;
+    color: #4a5cc4;
 }
 
 /*-----------------------------------QURAN TRANSLATE-------------------------*/
@@ -1083,7 +1062,6 @@ header
     color: #323c5a;
 }
 
-
 .quran-contents > ul,
 .suar-contents
 {
@@ -1095,24 +1073,6 @@ header
     font-family: "Tajawal";
     font-size: 14px;
     line-height: 3.21;
-    color: #545b6d;
-}
-.quran-contents > ul > p
-{
-    font-family: "Tajawal";
-    font-size: 14px;
-    color: #545b6d;
-}
-.quran-contents > ul > p > a
-{
-    font-family: "Tajawal";
-    font-size: 14px;
-    color: #545b6d;
-}
-.quran-contents > ul > p > a:visited
-{
-    font-family: "Tajawal";
-    font-size: 14px;
     color: #545b6d;
 }
 .suarah
@@ -1129,13 +1089,13 @@ header
 }
 .suarah-number
 {
-    width: 37px;
-    height: 37px;
-    border: solid 1px #545b6d;
-    border-radius: 50%;
-    text-align: center;
-    font-family: "Tajawal-Bold";
-    margin-right: 20px;
+  width: 37px;
+  height: 37px;
+  border: solid 1px #545b6d;
+  border-radius: 50%;
+  text-align: center;
+  font-family: "Tajawal-Bold";
+  margin-right: 20px;
 }
 
 /*---------------------------------------------ARTICLES------------------------------------------*/
@@ -1173,7 +1133,7 @@ header
     display: grid;
     padding-top: 100px;
     padding-bottom: 100px;
-    grid-template-columns: 25% 75%;
+    grid-template-columns: 20% 80%;
     gap: 30px;
 }
 
@@ -1184,9 +1144,8 @@ header
     top: 0;
     border-radius: 11px;
     border: solid 1px #f5f5f5;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
-    background-color: white;
-    padding: 24px 24px 0px 0px;
+    background-color: #ffffff;
+    padding: 5px;
 }
 
 .articles-categories > .title
@@ -1205,17 +1164,15 @@ header
 .articles-categories > ul > li
 {
     padding: 5px;
+    color: #545b6d;
     border-left: 1px solid transparent;
-    margin-bottom: 15px;
-    /* transition: 0.4s; */
+    transition: 0.4s;
 }
 
 .articles-categories > ul > li:hover
 {
-    color: black;
-    font-weight: bold;
-    /* transition: 0.4s; */
-    border-left: 2px solid black;
+    color: #283583;
+    border-left: 1px solid #283583;
 }
 
 .articles-categories > ul > li > a
@@ -1224,12 +1181,12 @@ header
     font-family: "Tajawal";
     font-size: 14px;
     display: block;
-    color: black;
+    line-height: 3.21;
 }
 
 .articles-grid
 {
-    /* display: grid; */
+    display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: 60px auto;
     gap: 30px;
@@ -1240,9 +1197,7 @@ header
     grid-column: 1/3;
     font-family: "Tajawal-Bold";
     font-size: 35px;
-    margin-bottom: 56px;
     color: #2c2e30;
-    margin-top: 20px;
 }
 
 /*----------------------------VIEW ARTICLE--------------------------------*/
@@ -1254,7 +1209,7 @@ header
 {
     width: 100%;
     height: 100%;
-    max-height: 450px;
+    max-height: 600px;
 }
 
 .view-title-date
@@ -1309,12 +1264,12 @@ header
 }
 .view-item-content > .tags-visits > .tags > .tag
 {
-    border-radius: 6px;
-    background-color: #f0f2f7;
-    padding: 3px;
-    font-family: "Tajawal";
-    font-size: 20px;
-    color: #545b6d;
+  border-radius: 6px;
+  background-color: #f0f2f7;
+  padding: 3px;
+  font-family: "Tajawal";
+  font-size: 20px;
+  color: #545b6d;
 }
 .view-item-conetent-data
 {
@@ -1335,14 +1290,14 @@ header
 }
 /*---------------------------------MISC-------------------------------*/
 .selected-link {
-    border-radius: 2px;
-    background-image: linear-gradient(to right, #4a5cc4, #283583);
+  border-radius: 2px;
+  background-image: linear-gradient(to right, #4a5cc4, #283583);
 
 }
 
 .selected-link > a {
-    color: #fff;
-    padding: 2px;
+  color: #fff;
+  padding: 2px;
 }
 
 /* responsiveness helpers */
@@ -1369,10 +1324,6 @@ header
     .m-t-10 {
         margin-top: 10px;
     }
-}
-
-.atricle {
-    position: relative;
 }
 
 /* mobile media queries */
@@ -1407,7 +1358,7 @@ header
         display: unset;
     }
     .story {
-        margin-bottom: 20px;
+        margin-bottom: 15px;
     }
     .doc-cv-name {
         font-size: 31px;
@@ -1448,23 +1399,93 @@ header
     img {
         max-width: 100%;
     }
-} 
-
-.article-content-header {
-    font-size: 21px;
-    color: #040a2c;
 }
-
-.article-content-body {
-    color: #8591b0;
+/*------------------------------paintings------------------------------*/
+.paintings
+{
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.painting-desc
+{
+  border-radius: 6px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
+  background: #fff;
+  padding: 20px;
+}
+.painting-data
+{
+    font-family: "Tajawal";
     font-size: 14px;
-}
-.article-content-body_absolute {
-    position: absolute;
-    bottom: 0px;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: right;
     color: #8591b0;
-    font-size: 14px;
 }
-.atricle-wrapper {
-    
+.painting-options
+{
+    display: flex;
+    margin-top: 30px;
+    font-size: 16px;
+    color: #8591b0;
+    justify-content:space-between;
+}
+.painting-options > .visits > .count
+{
+    font-weight: bold;
+    color: #545b6d;
+}
+
+.painting
+{
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.painting-image
+{
+    max-height: 300px;
+    height: 300px;
+    width: 100%;
+    border-radius: 14px;
+}
+
+.painting-desc-text
+{
+    font-size: 18px;
+    line-height: 2.22;
+    color: #545b6d;
+}
+
+/*---------------------paintings-listing-----------*/
+.paintings-listing
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+    height: 100%;
+}
+.paintings-container
+{
+    display: grid;
+    row-gap: 20px;
+}
+.painting-item
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.painting-brief,
+.painting-item-image
+{
+    border-radius: 0px;
+    max-height: 300px;
+}
+.painting-item-image > img
+{
+    height: 300px;
+    width: 100%;
 }
