@@ -1074,7 +1074,9 @@ header {
     height: 100%;
     max-height: 450px;
 }
-
+.view-item-container {
+    position: relative;
+}
 .view-title-date {
     display: flex;
     flex-direction: column;
@@ -1159,6 +1161,16 @@ header {
 @media screen and (max-width: 769px) {
     .no-grid-mobile {
         display: block;
+    }
+    .no-margin {
+        margin: 0px;
+    }
+    .no-margin-bottom {
+        margin-bottom: 0px;
+    }
+    .tags-visits {
+        display: flex !important;
+        margin-top: 20px;    
     }
     .geeting-text {
         text-align: center;

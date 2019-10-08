@@ -1,9 +1,9 @@
 @extends('layouts.navbar')
 @section('content')
     <main>
-        <section class="container articles-container">
-            <div class="articles-categories center-mobile">
-                <span class="title">
+        <section class="container articles-container no-grid-mobile">
+            <div class="articles-categories">
+                <span class="title is-hidden-mobile">
                         تصنيف الكتب
                 </span>
                 <ul>
@@ -21,7 +21,7 @@
             </div>
             @if(count($publishedBooks) !=0)
 
-              <div id="publishedBooks" class="articles-grid no-grid-mobile ">
+              <div id="publishedBooks" class="articles-grid no-grid-mobile center-mobile">
                 <div class="title">
                         كتب نشرت
                 </div>
@@ -54,7 +54,7 @@
             @endif
                 <br>
             @if(count($unpublishedBooks) != 0)
-                <div id="unpublishedBooks" class="articles-grid no-grid-mobile">
+                <div id="unpublishedBooks" class="articles-grid no-grid-mobile center-mobile">
                     <div class="title">
                         كتب لم تنشر
                     </div>

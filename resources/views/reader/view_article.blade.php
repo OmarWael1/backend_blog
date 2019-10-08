@@ -4,7 +4,7 @@
     <section class="view-item-container">
 @if( asset('storage/'.$article->image_name) )
    <div class="item-img">
-        <img src="{{asset('storage/'.$article->image_name)}}">
+        <img src="http://159.65.33.169/storage/PICT0918.JPG.JPG">
    </div>
 @endif
    <div class="view-title-date">
