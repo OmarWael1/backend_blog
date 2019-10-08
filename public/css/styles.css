@@ -173,7 +173,6 @@ header {
 }
 
 .navigation-list-item {
-    height: 0px;
     overflow: hidden;
     display: inline-block;
     padding: 0px 10px;
@@ -183,12 +182,37 @@ header {
     margin-right: auto;
 }
 
+.mobile-only {
+    display: none;
+}
+
 @media screen and (max-width: 769px) {
+    .container {
+        padding: 0 5%;
+    }
     nav {
         height: auto !important;
     }
+    .mobile-only {
+        display: inline-block;
+    }
+    .navigation-list-mobile {
+        list-style: none;
+        width: 100%;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .header-item-logo.mobile-only {
+        margin: 5px 65px;
+    }
     .navigation-list-item {
+        display: none;
         margin-bottom: 5px;
+    }
+    .navigation-list {
+        flex-direction: row;
     }
     .navigation-list {
         flex-direction: column;
@@ -196,7 +220,59 @@ header {
     }
     .menu-toggle {
         display: block;
-        margin-right: auto;
+        margin-right: 30px;
+    }
+    .paintings-listing {
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    .painting-item-image > img {
+        height: 150px !important;
+    }
+    .painting-item {
+        border: 1px solid #d6d6d6e6;
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+        box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+    }
+    .painting-desc {
+        font-size: 10px;
+    }
+    .paintings-listing h2 {
+        font-size: 28px;
+        margin-top: 0;
+    }
+    .painting-desc h3 {
+        font-size: 12px;
+    }
+    .painting-desc.painting-brief {
+        padding: 0 10px !important;
+    }
+    .painting-data,
+    .painting-options {
+        color: rgb(133, 145, 176);
+        line-height: 16px;
+    }
+    .painting-options .count {
+        color: black;
+        font-weight: bold;
+    }
+    .painting-options {
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 0;
+    }
+    .painting-options .painting-date {
+        text-align: right;
+    }
+    .painting-brief, .painting-item-image {
+        max-height: 150px !important;
+    }
+    .quran-suar-container {
+        display: block !important;
+    }
+    .quran-suar-container .quran-contents {
+        position: unset;
     }
 }
 .navigation-list-item > a {
@@ -1170,7 +1246,7 @@ header {
     }
     .tags-visits {
         display: flex !important;
-        margin-top: 20px;    
+        margin-top: 20px;
     }
     .geeting-text {
         text-align: center;
@@ -1208,7 +1284,7 @@ header {
 @media screen and (max-width: 769px) {
     .greeting {
         display: flex;
-        flex-direction: column;    
+        flex-direction: column;
     }
     .doctor-image {
         order: 2;
@@ -1245,7 +1321,7 @@ header {
     }
     .about-image {
         margin-bottom: 10px;
-        margin-top: 50px;    
+        margin-top: 50px;
     }
     .researches-books-container {
         display: unset;
@@ -1338,8 +1414,6 @@ header {
     bottom: 0px;
     color: #8591b0;
     font-size: 14px;
-}
-.atricle-wrapper {
 }
 
 a {
