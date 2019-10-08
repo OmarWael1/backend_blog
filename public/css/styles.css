@@ -205,7 +205,11 @@ header {
         padding: 0;
     }
     .header-item-logo.mobile-only {
-        margin: 5px 65px;
+        margin: 10px 85px;
+    }
+    .header-item-logo.mobile-only img {
+        max-width: 70%;
+        height: 70%;
     }
     .navigation-list-item {
         display: none;
