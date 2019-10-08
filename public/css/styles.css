@@ -1150,6 +1150,9 @@ header {
     color: #fff;
     padding: 2px;
 }
+.no-grid {
+    display: block !important;
+}
 
 /* responsiveness helpers */
 
@@ -1198,6 +1201,9 @@ header {
     .doctor-image {
         order: 2;
         margin-bottom: 20px;
+    }
+    .story-content {
+        padding: 1px 20px;
     }
     .navigate-down {
         order: 3;
