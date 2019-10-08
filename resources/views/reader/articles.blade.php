@@ -3,8 +3,8 @@
     <main>
 
         <section class="container articles-container no-grid-mobile">
-            <div class="articles-categories center-mobile">
-                <span class="title">
+            <div class="articles-categories">
+                <span class="title is-hidden-mobile">
                         تصنيف المقالات
                 </span>
                 <ul>

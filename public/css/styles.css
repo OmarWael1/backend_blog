@@ -1237,19 +1237,30 @@ header {
     .stories-grid {
         display: unset !important;
     }
+    .articles-grid > .title {
+        margin-bottom: 20px;
+    }
     .articles-categories {
-        /* display: unset; */
+        position: static;
+        padding: 5px 0px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        margin-bottom: 40px;
     }
     .articles-categories ul {
-        display: grid;
-        grid-template-rows: 2;
-        grid-template-columns: repeat(3, 1fr);
+        justify-content: space-evenly;
+        display: flex;
+        width: 100%;
     }
     .articles-categories > ul > li:hover {
         border-left: unset;
     }
+    .articles-categories > ul > li {
+        margin-bottom: 0px;
+    }
     .articles-container {
         display: unset;
+        padding: 2rem 0rem;
     }
     .story {
         margin-bottom: 20px;
