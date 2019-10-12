@@ -31,24 +31,25 @@
     </div>
 </header>
 
-<nav class="navigation">
-    <ul class="container navigation-list">
-        <li class="navigation-list-item">
-            <a href="{{route('home')}}">
-               الرئيسيه {{--<img src="{{asset('storage/name.png')}}">--}}
+<nav class="navigation-header">
+    <ul class="container navigation-list-mobile">
+        <li class="header-item menu-toggle mobile-only">
+            <a href="#" id="menu-toggle">
+                <img src="{{asset('storage/menu.png')}}">
             </a>
         </li>
+        <li class="header-item header-item-logo mobile-only">
+            <a href="{{route('home')}}">
+               <img width="200" height="50" src="{{asset('storage/logo-dark@3x.png')}}">
+            </a>
+        </li>
+    </ul>
+</nav>
 
-
+<nav class="navigation">
+    <ul class="container navigation-list">
 
         @if(App::isLocale('ar'))
-
-            {{--<li class="navigation-list-item">--}}
-                {{--<a href="{{route('about')}}">--}}
-                    {{--السيره الذاتيه--}}
-                {{--</a>--}}
-            {{--</li>--}}
-
             <li class="navigation-list-item">
                 <a href="{{route('readerArticles')}}">
                     مقالات
@@ -97,12 +98,6 @@
             <li class="navigation-list-item">
                 <a href="{{route('readerQuran')}}">
                     {{trans('app.quranTranslation')}}
-                </a>
-            </li>
-
-            <li class="navigation-list-item menu-toggle">
-                <a href="#" id="menu-toggle">
-                    <img src="{{asset('storage/menu.png')}}">
                 </a>
             </li>
     </ul>

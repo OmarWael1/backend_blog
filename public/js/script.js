@@ -1,6 +1,13 @@
 let vid;
 let playButton;
-
+let pausePlay;
+let fullscreen;
+let videoControls;
+let playButtonOverlay;
+let progressBar;
+let progressBarFiller;
+let menuToggle;
+let navigationListItems;
 
 
 
@@ -32,11 +39,16 @@ function referenceDOMS()
 
 function registerEvents()
 {
-    playButton.addEventListener("click",playVideo);
-    fullscreen.addEventListener("click",openFullscreen);
-    pausePlay.addEventListener("click",pauseVideo);
-    menuToggle.addEventListener("click", toggleMenu);
-    vid.addEventListener('timeupdate', updateProgressBar, false);
+    if(window.innerWidth < 769) {
+        for (i = 0; i < navigationListItems.length; i++) {
+            navigationListItems[i].style.display='none';
+        }
+    }
+    playButton && playButton.addEventListener("click",playVideo);
+    fullscreen && fullscreen.addEventListener("click",openFullscreen);
+    pausePlay && pausePlay.addEventListener("click",pauseVideo);
+    menuToggle && menuToggle.addEventListener("click", toggleMenu);
+    vid && vid.addEventListener('timeupdate', updateProgressBar, false);
 }
 
 function playVideo()
@@ -67,7 +79,7 @@ function updateProgressBar() {
     var percentage = Math.floor((100 / vid.duration) *
     vid.currentTime);
     progressBarFiller.style.width = percentage + '%';
-    
+
  }
 
  function openFullscreen() {
@@ -84,9 +96,9 @@ function updateProgressBar() {
 
 function toggleMenu() {
     for (i = 0; i < navigationListItems.length; i++) {
-        console.log();
+        console.log('navigationListItems[i].style.display: ', navigationListItems[i].style.display);
         if (navigationListItems[i].style.display === "none") {
-            navigationListItems[i].style.display = "block";
+            navigationListItems[i].style.display = "inline-block";
             document.getElementsByClassName('navigation-list')[0].style["flex-direction"] = "column";
         }
         else {
@@ -94,8 +106,5 @@ function toggleMenu() {
             document.getElementsByClassName('navigation-list')[0].style["flex-direction"] = "row";
         }
         document.getElementsByClassName('menu-toggle')[0].style.display = "block";
-        document.getElementsByClassName('logo')[0].style.display = "block";
-
-
     }
 }

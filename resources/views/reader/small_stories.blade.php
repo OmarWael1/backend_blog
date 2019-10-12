@@ -1,13 +1,13 @@
 @extends('layouts.navbar')
 @section('content')
     <main>
-       <section class="container articles-container no-grid-mobile">
+       <section class="container articles-container no-grid no-grid-mobile">
           @if(count($stories) != 0)
 
-               <div class="doc-cv-section-title">
-                   قصص قصيرة
-               </div>
-            <div class="articles-grid center-mobile">
+          <div class="articles-grid center-mobile">
+                <div class="doc-cv-section-title">
+                    قصص قصيرة
+                </div>
                 @foreach($stories as $story)
                 <div class="story" >
                     {{--<img src="{{asset('storage/'.$story->image_name)}}">--}}

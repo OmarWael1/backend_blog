@@ -166,7 +166,6 @@ header {
 .navigation-list {
     list-style: none;
     width: 100%;
-    height: 100%;
     margin: 0px;
     display: flex;
     align-items: center;
@@ -174,6 +173,7 @@ header {
 }
 
 .navigation-list-item {
+    overflow: hidden;
     display: inline-block;
     padding: 0px 10px;
 }
@@ -182,12 +182,41 @@ header {
     margin-right: auto;
 }
 
+.mobile-only {
+    display: none;
+}
+
 @media screen and (max-width: 769px) {
+    .container {
+        padding: 0 5%;
+    }
     nav {
         height: auto !important;
     }
+    .mobile-only {
+        display: inline-block;
+    }
+    .navigation-list-mobile {
+        list-style: none;
+        width: 100%;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .header-item-logo.mobile-only {
+        margin: 10px 85px;
+    }
+    .header-item-logo.mobile-only img {
+        max-width: 70%;
+        height: 70%;
+    }
     .navigation-list-item {
+        display: none;
         margin-bottom: 5px;
+    }
+    .navigation-list {
+        flex-direction: row;
     }
     .navigation-list {
         flex-direction: column;
@@ -195,7 +224,59 @@ header {
     }
     .menu-toggle {
         display: block;
-        margin-right: auto;
+        margin-right: 30px;
+    }
+    .paintings-listing {
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    .painting-item-image > img {
+        height: 150px !important;
+    }
+    .painting-item {
+        border: 1px solid #d6d6d6e6;
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+        -moz-box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+        box-shadow: 0px 0px 0px 0px rgba(255,255,255,0.9);
+    }
+    .painting-desc {
+        font-size: 10px;
+    }
+    .paintings-listing h2 {
+        font-size: 28px;
+        margin-top: 0;
+    }
+    .painting-desc h3 {
+        font-size: 12px;
+    }
+    .painting-desc.painting-brief {
+        padding: 0 10px !important;
+    }
+    .painting-data,
+    .painting-options {
+        color: rgb(133, 145, 176);
+        line-height: 16px;
+    }
+    .painting-options .count {
+        color: black;
+        font-weight: bold;
+    }
+    .painting-options {
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 0;
+    }
+    .painting-options .painting-date {
+        text-align: right;
+    }
+    .painting-brief, .painting-item-image {
+        max-height: 150px !important;
+    }
+    .quran-suar-container {
+        display: block !important;
+    }
+    .quran-suar-container .quran-contents {
+        position: unset;
     }
 }
 .navigation-list-item > a {
@@ -1073,7 +1154,9 @@ header {
     height: 100%;
     max-height: 450px;
 }
-
+.view-item-container {
+    position: relative;
+}
 .view-title-date {
     display: flex;
     flex-direction: column;
@@ -1149,12 +1232,31 @@ header {
     color: #fff;
     padding: 2px;
 }
+.no-grid {
+    display: block !important;
+}
 
 /* responsiveness helpers */
 
 @media screen and (max-width: 769px) {
     .no-grid-mobile {
         display: block;
+    }
+    .no-margin {
+        margin: 0px;
+    }
+    .no-margin-bottom {
+        margin-bottom: 0px;
+    }
+    .tags-visits {
+        display: flex !important;
+        margin-top: 20px;
+    }
+    .geeting-text {
+        text-align: center;
+    }
+    .mobile-padding {
+        padding: 2rem !important;
     }
     .mobile-flex-column {
         flex-direction: column;
@@ -1180,14 +1282,50 @@ header {
     position: relative;
 }
 
+
 /* mobile media queries */
 
 @media screen and (max-width: 769px) {
+    .greeting {
+        display: flex;
+        flex-direction: column;
+    }
+    .doctor-image {
+        order: 2;
+        margin-bottom: 20px;
+    }
+    .story-content {
+        padding: 1px 20px;
+    }
+    .navigate-down {
+        order: 3;
+    }
+    .geeting-text {
+        order: 1;
+        align-items: unset;
+        margin-bottom: 20px;
+    }
+    .about-doctor {
+        padding-top: 20px;
+    }
     .doc-cv-grid {
         grid-template-columns: repeat(1, 1fr);
     }
     .logo {
         display: block;
+    }
+    .lg-text {
+        font-size: 25.5pt;
+    }
+    .sm-text {
+        font-size: 10.5pt;
+    }
+    .is-bold-mobile {
+        font-weight: bold;
+    }
+    .about-image {
+        margin-bottom: 10px;
+        margin-top: 50px;
     }
     .researches-books-container {
         display: unset;
@@ -1197,19 +1335,30 @@ header {
     .stories-grid {
         display: unset !important;
     }
+    .articles-grid > .title {
+        margin-bottom: 20px;
+    }
     .articles-categories {
-        /* display: unset; */
+        position: static;
+        padding: 5px 0px;
+        border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+        margin-bottom: 40px;
     }
     .articles-categories ul {
-        display: grid;
-        grid-template-rows: 2;
-        grid-template-columns: repeat(3, 1fr);
+        justify-content: space-evenly;
+        display: flex;
+        width: 100%;
     }
     .articles-categories > ul > li:hover {
         border-left: unset;
     }
+    .articles-categories > ul > li {
+        margin-bottom: 0px;
+    }
     .articles-container {
         display: unset;
+        padding: 2rem 0rem;
     }
     .story {
         margin-bottom: 20px;
@@ -1269,8 +1418,6 @@ header {
     bottom: 0px;
     color: #8591b0;
     font-size: 14px;
-}
-.atricle-wrapper {
 }
 
 a {

@@ -5,8 +5,8 @@
        <section class="container stories-container no-grid-mobile">
          <br>
           <br>
-        <div class="doc-cv-section-title">
-          <h4>فيديوهات</h4>
+        <div class="doc-cv-section-title no-margin-bottom">
+          <h4 class="no-margin">فيديوهات</h4>
         </div>
            <div class="stories-grid center-mobile">
 

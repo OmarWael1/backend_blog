@@ -1,14 +1,14 @@
 @extends('layouts.navbar')
 @section('content')
 <main>
-    <section class="container greeting no-grid-mobile">
+    <section class="container mobile-padding greeting no-grid-mobile">
         <div class="doctor-image">
             <img src="{{asset('storage/34.jpg')}}">
         </div>
         <div class="geeting-text">
-            <span class="welcome">أهلا بكم في</span>
-            <span class="official-site">الموقع الرسمي</span>
-            <span class="doctor-name">للدكتورة زينب عبد العزيز</span>
+            <span class="sm-text is-bold-mobile welcome">أهلا بكم في</span>
+            <span class="lg-text is-bold-mobile official-site">الموقع الرسمي</span>
+            <span class="lg-text is-bold-mobile doctor-name">للدكتورة زينب عبد العزيز</span>
         </div>
         <div class="navigate-down">
             <a style="text-decoration:none"  href="#aboutSection">
@@ -18,7 +18,7 @@
         </div>
     </section>
 
-    <section id="aboutSection" class="container about-doctor no-grid-mobile">
+    <section id="aboutSection" class="mobile-padding container about-doctor no-grid-mobile">
         <div class="about-text">
                 <span class="about-doctor-title">
                      الكاتبة و الفنانة ا.د. زينب عبد العزيز

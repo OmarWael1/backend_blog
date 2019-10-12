@@ -4,6 +4,7 @@
 @if(count($paints) != 0)
 <main>
     <section class="container paintings-listing">
+        <h2>لوحات فنية</h2>
         <div class="paintings-container">
         @foreach($paints as $painting)
             <a href="{{route('readerPaint', ['id' => $painting->id])}}">
@@ -12,9 +13,9 @@
                         <img src="{{asset('storage/'.$painting->file_name)}}">
                     </div>
                     <div class="painting-desc painting-brief">
-                        <h2>
+                        <h3>
                             {{$painting->title}}
-                        </h2>
+                        </h3>
                         <span class="painting-data">
                             {{$painting->description}}
                         </span>

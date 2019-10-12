@@ -1,18 +1,15 @@
 @extends('layouts.navbar')
 @section('content')
     <main>
-        <section class="container articles-container">
-            <div class="articles-categories center-mobile">
-
-            </div>
+        <section class="container articles-container no-grid">
             @if(count($researches) != 0)
-            <div id="researches" class="articles-grid">
+            <div id="researches" class="articles-grid mobile-padding">
                 <div class="title">
                     كل الابحاث
                 </div>
                 @foreach($researches as $research)
                     <div class="story">
-                        <img src="{{asset('storage/34.jpg')}}">
+                        <img class="is-hidden-mobile" src="{{asset('storage/34.jpg')}}">
                         <a href="{{route('readerResearch',$research->id)}}"  style="text-decoration:none">
                             <div class="story-content">
                             <p class="story-title">
