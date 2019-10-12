@@ -29,8 +29,11 @@ class BookAndResearchPageController extends Controller
     public function indexForResearches()
     {
 
-        $researches = Research::all();
-        return view('reader/researches')->with('researches',$researches);
+        $publishedResearches = Research::whereNotBetween('date_of_publication', [null, ''])->get();
+        $unpublishedResearches = Research::whereIn('date_of_publication', [null, ''])->get();
+        return view('reader/researches')
+        ->with('publishedResearches',$publishedResearches)
+        ->with('unpublishedResearches',$unpublishedResearches);
     }
 
 
