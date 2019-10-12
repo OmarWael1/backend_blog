@@ -80,7 +80,7 @@
             </li>
 
             <li class="navigation-list-item">
-                <a href="{{route('readerPaints')}}">
+                <a href="{{route('readerCollections')}}">
                     لوحات فنية
                 </a>
             </li>

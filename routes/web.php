@@ -105,6 +105,7 @@ Route::get('/researches' , 'Reader\BookAndResearchPageController@indexForResearc
 Route::get('/stories' , 'Reader\SmallStoryPageController@index')->name('readerStories');
 Route::get('/videos' , 'Reader\VideosPageController@index')->name('readerVideos');
 Route::get('/paints' , 'Reader\PaintsPageController@index')->name('readerPaints');
+Route::get('/collections' , 'Reader\CollectionsPageController@index')->name('readerCollections');
 
 Route::get('/video/{id}' ,'Reader\VideosPageController@show')->name('readerVideo');
 Route::get('/story/{id}' , 'Reader\SmallStoryPageController@show')->name('readerStory');
@@ -113,3 +114,4 @@ Route::get('/research/{id}' , 'Reader\BookAndResearchPageController@showResearch
 Route::get('/article/{id}' , 'Reader\ArticlePageController@show')->name('readerArticle');
 Route::get('/quran/translation' , 'QuranController@index')->name('readerQuran');
 Route::get('/paint/{id}' , 'Reader\PaintsPageController@show')->name('readerPaint');
+Route::get('/collection/{id}' , 'Reader\CollectionsPageController@show')->name('readerCollection');
