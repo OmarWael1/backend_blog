@@ -26,7 +26,7 @@
                         كتب نشرت
                 </div>
                 @foreach($publishedBooks as $book)
-                <div  class="story">
+                <div class="book-story">
                         <img src="{{asset('storage/34.jpg')}}">
                     <a href="{{route('readerBook',$book->id)}}"  style="text-decoration:none">
                     <div class="story-content">
@@ -41,11 +41,11 @@
                                             {{$book->date_of_publication}}
                                     </span>
                                     <span class="stroy-visit-count">
-                                            عدد الزيارات 
+                                            عدد الزيارات
                                             <span class="count">{{$book->number_of_readers}}</span>
                                     </span>
                             </div>
-        
+
                     </div>
                     </a>
                 </div>
@@ -59,7 +59,7 @@
                         كتب لم تنشر
                     </div>
                     @foreach($unpublishedBooks as $book)
-                        <div  class="story">
+                        <div  class="book-story">
                             <img src="{{asset('storage/34.jpg')}}">
                             <a href="{{route('readerBook',$book->id)}}"  style="text-decoration:none">
                                 <div class="story-content">
@@ -90,5 +90,5 @@
         </section>
 
 
-    </main> 
+    </main>
 @endsection
